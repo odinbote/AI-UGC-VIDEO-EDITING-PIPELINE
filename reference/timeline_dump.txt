@@ -1,0 +1,502 @@
+SEQUENCE: Sequence 02_12  fps=24  frame=0,0,1080,1920
+
+==================== VIDEO TRACKS ====================
+
+--- V1  'Aroll'  (7 clips)
+    0.000s (f   0) →   1.917s (f  46)  dur  1.917s  'Sequence 02_12.mp4'  src 0.000–1.917
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.58802086114883423
+         Scale=119.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+    1.917s (f  46) →   2.667s (f  64)  dur  0.750s  'Sequence 02_12.mp4'  src 2.208–2.958
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.69791668653488159
+         Scale=163.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+    2.667s (f  64) →   5.708s (f 137)  dur  3.042s  'Sequence 02_12.mp4'  src 2.958–6.000
+    7.042s (f 169) →  13.792s (f 331)  dur  6.750s  'Sequence 02_12.mp4'  src 7.333–14.083
+   13.792s (f 331) →  17.083s (f 410)  dur  3.292s  'Sequence 02_12.mp4'  src 14.083–17.375
+   17.083s (f 410) →  19.250s (f 462)  dur  2.167s  'Sequence 02_12.mp4'  src 17.375–19.542
+   19.250s (f 462) →  21.042s (f 505)  dur  1.792s  'Sequence 02_12.mp4'  src 19.542–21.333
+
+--- V2  'Color mate Background'  (1 clips)
+    2.667s (f  64) →  23.125s (f 555)  dur 20.458s  'Color Matte'  src 3600.000–3620.458
+
+--- V3  'Screen Recording 1'  (5 clips)
+    2.667s (f  64) →   4.375s (f 105)  dur  1.708s  'Screen Recording 2026-10-24 at 1.08.06 AM.mov'  src 13.083–14.792
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.3723958432674408
+         Scale=68.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+    4.375s (f 105) →   5.708s (f 137)  dur  1.333s  'Screenshot 2026-10-24 at 1.10.17 AM.png'  src 3600.000–3601.333
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.32343751192092896 KF[  0.000s (f   0)→0.5:0.51041668653488159 interp5 |   1.125s (f  27)→0.5:0.44739585369825363 interp5]
+         Scale=50.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+    7.000s (f 168) →  10.792s (f 259)  dur  3.792s  'Screen Recording 2026-10-24 at 1.16.51 AM.mov'  src 14.625–18.417
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.38697916269302368
+         Scale=75.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+   10.792s (f 259) →  12.583s (f 302)  dur  1.792s  'Screenshot 2026-10-24 at 1.25.39 AM.png'  src 3600.000–3601.792
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.79114586114883423 KF[  0.000s (f   0)→0.5:0.79114586114883423 interp0 |   2.083s (f  50)→0.5:0.17031249403953552 interp0]
+         Scale=165.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+   12.583s (f 302) →  13.875s (f 333)  dur  1.292s  'Screenshot 2026-10-24 at 1.25.04 AM.png'  src 3600.000–3601.292
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.36250001192092896
+         Scale=74. KF[  0.000s (f   0)→56. interp0 |   1.000s (f  24)→74. interp5]
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+
+--- V4  'Screen Recording 2'  (1 clips)
+    4.375s (f 105) →   5.708s (f 137)  dur  1.333s  'Screenshot 2026-10-24 at 1.12.30 AM.png'  src 3600.000–3601.333
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.14218749850988388 KF[  0.000s (f   0)→0.5:0.1979166716337204 interp5 |   1.125s (f  27)→0.5:0.14218749850988388 interp5]
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+
+--- V5  'Broll 1'  (1 clips)
+   17.083s (f 410) →  19.250s (f 462)  dur  2.167s  'vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4'  src 1045.917–1048.083
+      [Motion] (AE.ADBE Motion)
+         Position=0.33240741491317749:0.5
+         Scale=180.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+
+--- V6  'Broll 2'  (1 clips)
+   18.167s (f 436) →  19.250s (f 462)  dur  1.083s  'vidssave.com _We're Ranking Girls_ _ THE SOCIAL NETWORK (2010) Movie CLIP 4K 720P.mp4'  src 423.458–424.542
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.5
+         Scale=370.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+
+--- V7  'Aroll Cutout'  (5 clips)
+    2.667s (f  64) →   4.375s (f 105)  dur  1.708s  'Sequence 02_12.mp4'  src 2.958–4.667
+      [Opacity] (AE.ADBE Opacity)
+         Opacity=100.
+         Blend Mode=18
+         Blend Mode=0
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.81770831346511841
+         Scale=102.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+    4.375s (f 105) →   7.000s (f 168)  dur  2.625s  'Sequence 02_12.mp4'  src 4.667–7.292
+      [Opacity] (AE.ADBE Opacity)
+         Opacity=100.
+         Blend Mode=18
+         Blend Mode=0
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.81770831346511841
+         Scale=102.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+    7.000s (f 168) →  10.792s (f 259)  dur  3.792s  'Sequence 02_12.mp4'  src 7.292–11.083
+      [Opacity] (AE.ADBE Opacity)
+         Opacity=100.
+         Blend Mode=18
+         Blend Mode=0
+      [Motion] (AE.ADBE Motion)
+         Position=0.30370369553565979:0.81770831346511841
+         Scale=102.
+         Scale Width=100.
+         Rotation=18.
+         Anchor Point=0.5:0.5
+   10.792s (f 259) →  13.875s (f 333)  dur  3.083s  'Sequence 02_12.mp4'  src 11.083–14.167
+      [Opacity] (AE.ADBE Opacity)
+         Opacity=100.
+         Blend Mode=18
+         Blend Mode=0
+      [Motion] (AE.ADBE Motion)
+         Position=0.61018520593643188:0.81770831346511841
+         Scale=102.
+         Scale Width=100.
+         Rotation=-11.
+         Anchor Point=0.5:0.5
+   13.875s (f 333) →  21.042s (f 505)  dur  7.167s  'Sequence 02_12.mp4'  src 14.167–21.333
+      [Opacity] (AE.ADBE Opacity)
+         Opacity=100.
+         Blend Mode=18
+         Blend Mode=0
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.81770831346511841
+         Scale=102.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+
+--- V8  'Aroll Full Screen'  (3 clips)
+    5.708s (f 137) →   7.000s (f 168)  dur  1.292s  'Sequence 02_12.mp4'  src 6.000–7.292
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.65260416269302368
+         Scale=141.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+   13.875s (f 333) →  17.083s (f 410)  dur  3.208s  'Sequence 02_12.mp4'  src 14.167–17.375
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.61354166269302368
+         Scale=157.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+   19.250s (f 462) →  21.042s (f 505)  dur  1.792s  'Sequence 02_12.mp4'  src 19.542–21.333
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.69427084922790527
+         Scale=149.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+
+--- V9  'Logos'  (3 clips)
+    8.000s (f 192) →   8.750s (f 210)  dur  0.750s  'Netflix_2015_logo.svg.webp'  src 3600.000–3600.750
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.28749999403953552
+         Scale=18. KF[  0.000s (f   0)→0. interp0 |   0.125s (f   3)→18. interp5]
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+    8.750s (f 210) →   9.208s (f 221)  dur  0.458s  '5ij5qdSHFzJ2piPRuoTL5F.jpg'  src 3599.875–3600.333
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.28281250596046448
+         Scale=33. KF[ -0.125s (f  -3)→0. interp0 |   0.083s (f   2)→33. interp5]
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+    9.208s (f 221) →  10.792s (f 259)  dur  1.583s  'google_PNG19644 (2).png'  src 3600.000–3601.583
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.27968749403953552
+         Scale=26. KF[  0.000s (f   0)→0. interp0 |   0.375s (f   9)→26. interp5]
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+
+--- V10  'Text Graphics 1'  (4 clips)
+    0.000s (f   0) →   1.917s (f  46)  dur  1.917s  'Graphic'  src 3599.708–3601.625
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.44722223281860352:0.50468748807907104
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.125:0.31197920441627502
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=5.
+         end=5.
+    5.708s (f 137) →   7.000s (f 168)  dur  1.292s  'Graphic'  src 3600.000–3601.292
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.25740739703178406:0.49531251564621925
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.125:0.31197920441627502
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=-1.
+         end=-1.
+   13.875s (f 333) →  15.917s (f 382)  dur  2.042s  'Graphic'  src 3600.000–3602.042
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.32037038169801235:0.4817708432674408
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.125:0.31197920441627502
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=-1.
+         end=-1.
+   17.083s (f 410) →  18.417s (f 442)  dur  1.333s  'Graphic'  src 3600.000–3601.333
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.29537037014961243:0.53020834922790527
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.49962343275547028:0.24270834028720856
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=3.
+         end=3.
+
+--- V11  'Text Graphics 2'  (5 clips)
+    0.708s (f  17) →   1.917s (f  46)  dur  1.208s  'Graphic'  src 3600.000–3601.208
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.5:0.56822916865348816
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.125:0.31197920441627502
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=-1.
+         end=-1.
+    5.958s (f 143) →   7.000s (f 168)  dur  1.042s  'Graphic'  src 3600.000–3601.042
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.5:0.55677083507180214
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.125:0.31197920441627502
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=-1.
+         end=-1.
+   14.250s (f 342) →  15.917s (f 382)  dur  1.667s  'Graphic'  src 3600.000–3601.667
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.63703701458871365:0.4817708432674408
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.125:0.31197920441627502
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=-1.
+         end=-1.
+   17.458s (f 419) →  18.417s (f 442)  dur  0.958s  'Graphic'  src 3600.000–3600.958
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.5:0.60364586114883423
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.49962343275547028:0.24270834028720856
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=-1.
+         end=-1.
+   18.417s (f 442) →  19.250s (f 462)  dur  0.833s  'Graphic'  src 3600.000–3600.833
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.37407407164573669:0.55833333730697632
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.49962343275547028:0.24270834028720856
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=7.
+         end=7.
+
+--- V12  'Text Graphics 3'  (5 clips)
+    1.292s (f  31) →   1.917s (f  46)  dur  0.625s  'Graphic'  src 3600.000–3600.625
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.67037039995193481:0.6302083432674408
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.125:0.31197920441627502
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=-1.
+         end=-1.
+    6.750s (f 162) →   7.000s (f 168)  dur  0.250s  'Graphic'  src 3599.958–3600.208
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.7231481671333313:0.61562499776482582
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.125:0.31197920441627502
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=-1.
+         end=-1.
+   14.875s (f 357) →  15.917s (f 382)  dur  1.042s  'Graphic'  src 3600.000–3601.042
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.5:0.54166668653488159
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.125:0.31197920441627502
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=-1.
+         end=-1.
+   17.875s (f 429) →  18.417s (f 442)  dur  0.542s  'Graphic'  src 3600.000–3600.542
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.57592594623565674:0.66093748807907104
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.49962343275547028:0.24270834028720856
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=12.
+         end=12.
+   18.750s (f 450) →  19.250s (f 462)  dur  0.500s  'Graphic'  src 3600.000–3600.500
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.5:0.61927086114883423
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.49962343275547028:0.24270834028720856
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=-1.
+         end=-1.
+
+--- V13  'Adjustment effects Grains & Fades'  (1 clips)
+    0.000s (f   0) →  21.042s (f 505)  dur 21.042s  'Adjustment Layer'  src 3600.000–3621.042
+      [Lumetri Color] (AE.ADBE Lumetri)
+         HDR White=100.
+         Intensity=50.
+         White Balance=18374897589125431296
+         Saturation=100.
+         Color Space=28
+         Intensity=100.
+         Faded Film=28.1437129974365234375
+         Saturation=100.
+         HDR Range=100.
+         Hue (vs Sat) Selector=18374686479671623936
+         Hue (vs Hue) Selector=18374686479671623936
+         Hue (vs Luma) Selector=18374686479671623936
+         Luma (vs Sat) Selector=18374686479671623936
+         Sat (vs Sat) Selector=18374686479671623936
+         HDR White=100.
+         Set color=18374686479671623680
+         Add color=18374686479671623680
+         Remove color=18374686479671623680
+         Saturation=100.
+         Midpoint=50.
+         Feather=50.
+         SemanticAutoTone Progress=-1.
+      [Noise] (AE.ADBE_Noise_FX)
+         Intensity=5.
+         Shadows=5.
+         Midtones=5.
+         Highlights=5.
+         Saturation=50.
+         Blend Mode=4
+         Master=100.
+         None=106858.
+         None=6361805.
+
+--- V14  'Outro Animation'  (1 clips)
+   21.042s (f 505) →  23.125s (f 555)  dur  2.083s  'fanout-loader-alpha-prores4444 (1).mov'  src 0.000–2.083
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.5
+         Scale=48.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+
+==================== AUDIO TRACKS ====================
+
+--- A1  'Aroll Sound'  (3 clips)
+    0.000s (f   0) →   1.917s (f  46)  dur  1.917s  'Sequence 02_12.mp4'  src 0.000–1.917
+    1.917s (f  46) →   2.667s (f  64)  dur  0.750s  'Sequence 02_12.mp4'  src 2.208–2.958
+    2.667s (f  64) →  21.042s (f 505)  dur 18.375s  'Sequence 02_12.mp4'  src 2.958–21.333
+
+--- A2  'SFX 1'  (6 clips)
+    1.583s (f  38) →   2.375s (f  57)  dur  0.792s  'ES_Swooshes, Whoosh, Airy, Light 03 - Epidemic Sound.mp3'  src 2.875–3.667
+    2.625s (f  63) →   3.000s (f  72)  dur  0.375s  'ES_Mechanical, Click, Buttons, Switches, Mixed, Antique, Special, Clicks - Epidemic Sound.mp3'  src 0.000–0.375
+    8.917s (f 214) →   9.792s (f 235)  dur  0.875s  'ES_Mechanical, Click, Buttons, Switches, Mixed, Antique, Special, Clicks - Epidemic Sound.mp3'  src 3.083–3.958
+   12.458s (f 299) →  13.125s (f 315)  dur  0.667s  'ES_Mechanical, Click, Buttons, Switches, Mixed, Antique, Special, Clicks - Epidemic Sound.mp3'  src 2.417–3.083
+   16.917s (f 406) →  17.167s (f 412)  dur  0.250s  'ES_User Interface, Click, On & Off, Small, Short 02 - Epidemic Sound.mp3'  src 0.875–1.125
+   19.250s (f 462) →  19.417s (f 466)  dur  0.167s  'ES_User Interface, Click, On & Off, Small, Short 02 - Epidemic Sound.mp3'  src 0.000–0.167
+
+--- A3  'SFX 2'  (4 clips)
+    1.792s (f  43) →   2.000s (f  48)  dur  0.208s  'ES_Mechanical, Click, Miniature Button, Multiple Pushes - Epidemic Sound.mp3'  src 1.875–2.125 SPEED 120%
+    5.542s (f 133) →   6.208s (f 149)  dur  0.667s  'ES_Mechanical, Click, Buttons, Switches, Mixed, Antique, Special, Clicks - Epidemic Sound.mp3'  src 2.417–3.083
+    8.375s (f 201) →   9.250s (f 222)  dur  0.875s  'ES_Mechanical, Click, Buttons, Switches, Mixed, Antique, Special, Clicks - Epidemic Sound.mp3'  src 3.083–3.958
+   17.042s (f 409) →  17.208s (f 413)  dur  0.167s  'ES_User Interface, Click, On & Off, Small, Short 02 - Epidemic Sound.mp3'  src 0.000–0.167
+
+--- A4  'SFX 3'  (2 clips)
+    1.542s (f  37) →   2.375s (f  57)  dur  0.833s  'Transition_Woosh.mp3'  src 0.000–0.792 SPEED 95%
+    7.500s (f 180) →   8.375s (f 201)  dur  0.875s  'ES_Mechanical, Click, Buttons, Switches, Mixed, Antique, Special, Clicks - Epidemic Sound.mp3'  src 3.083–3.958
+
+--- A5  'SFX 4'  (2 clips)
+    1.792s (f  43) →   2.000s (f  48)  dur  0.208s  'ES_Mechanical, Click, Miniature Button, Multiple Pushes - Epidemic Sound.mp3'  src 1.875–2.125 SPEED 120%
+    8.792s (f 211) →   9.417s (f 226)  dur  0.625s  'ES_User Interface, Misc, Pings, Tings, Generic, High, Tings - Epidemic Sound.mp3'  src 0.000–0.625
+
+--- A6  'SFX 5'  (3 clips)
+    1.792s (f  43) →   2.000s (f  48)  dur  0.208s  'ES_Mechanical, Click, Miniature Button, Multiple Pushes - Epidemic Sound.mp3'  src 1.875–2.125 SPEED 120%
+    7.958s (f 191) →   8.583s (f 206)  dur  0.625s  'ES_User Interface, Misc, Pings, Tings, Generic, High, Tings - Epidemic Sound.mp3'  src 0.000–0.625
+    9.333s (f 224) →   9.958s (f 239)  dur  0.625s  'ES_User Interface, Misc, Pings, Tings, Generic, High, Tings - Epidemic Sound.mp3'  src 0.000–0.625
+
+--- A7  'Background music'  (1 clips)
+    0.000s (f   0) →  23.125s (f 555)  dur 23.125s  'ES_Electronica the Witch - Andreas Dahlback.mp3'  src 14.875–38.000
+
+==================== CAPTIONS 'Subtitle 1' ====================
+    1.917s (f  46) →   2.667s (f  64)  dur  0.750s  ['InstrumentSerif-Italic', 'it works.']
+    2.667s (f  64) →   3.083s (f  74)  dur  0.417s  ['InstrumentSerif-Italic', 'I used']
+    3.083s (f  74) →   3.708s (f  89)  dur  0.625s  ['InstrumentSerif-Italic', 'fanout to']
+    3.708s (f  89) →   4.083s (f  98)  dur  0.375s  ['InstrumentSerif-Italic', 'actually']
+    4.083s (f  98) →   4.667s (f 112)  dur  0.583s  ['InstrumentSerif-Italic', 'get system']
+    4.667s (f 112) →   5.208s (f 125)  dur  0.542s  ['InstrumentSerif-Italic', 'design,']
+    5.208s (f 125) →   5.708s (f 137)  dur  0.500s  ['InstrumentSerif-Italic', 'like']
+    7.000s (f 168) →   7.167s (f 172)  dur  0.167s  ['InstrumentSerif-Italic', 'It']
+    7.167s (f 172) →   7.667s (f 184)  dur  0.500s  ['InstrumentSerif-Italic', 'breaks down']
+    7.667s (f 184) →   8.000s (f 192)  dur  0.333s  ['InstrumentSerif-Italic', 'how']
+    8.000s (f 192) →   8.750s (f 210)  dur  0.750s  ['InstrumentSerif-Italic', 'Netflix,']
+    8.750s (f 210) →   9.208s (f 221)  dur  0.458s  ['InstrumentSerif-Italic', 'Uber,']
+    9.208s (f 221) →   9.792s (f 235)  dur  0.583s  ['InstrumentSerif-Italic', 'Google']
+    9.792s (f 235) →  10.292s (f 247)  dur  0.500s  ['InstrumentSerif-Italic', 'actually']
+   10.292s (f 247) →  10.958s (f 263)  dur  0.667s  ['InstrumentSerif-Italic', 'work with']
+   10.958s (f 263) →  11.333s (f 272)  dur  0.375s  ['InstrumentSerif-Italic', 'structured']
+   11.333s (f 272) →  11.708s (f 281)  dur  0.375s  ['InstrumentSerif-Italic', 'learning']
+   11.708s (f 281) →  12.208s (f 293)  dur  0.500s  ['InstrumentSerif-Italic', 'paths']
+   12.208s (f 293) →  12.583s (f 302)  dur  0.375s  ['InstrumentSerif-Italic', 'and']
+   12.583s (f 302) →  13.042s (f 313)  dur  0.458s  ['InstrumentSerif-Italic', 'interactive']
+   13.042s (f 313) →  13.875s (f 333)  dur  0.833s  ['InstrumentSerif-Italic', 'animations.']
+   15.917s (f 382) →  16.208s (f 389)  dur  0.292s  ['InstrumentSerif-Italic', "you'll"]
+   16.208s (f 389) →  17.083s (f 410)  dur  0.875s  ['InstrumentSerif-Italic', 'understand']
+   19.250s (f 462) →  19.625s (f 471)  dur  0.375s  ['InstrumentSerif-Italic', 'Just go']
+   19.625s (f 471) →  19.917s (f 478)  dur  0.292s  ['InstrumentSerif-Italic', 'look at']
+   19.917s (f 478) →  20.375s (f 489)  dur  0.458s  ['InstrumentSerif-Italic', 'fanout.sh']
+   20.375s (f 489) →  20.583s (f 494)  dur  0.208s  ['InstrumentSerif-Italic', "You'll"]
+   20.583s (f 494) →  21.042s (f 505)  dur  0.458s  ['InstrumentSerif-Italic', 'get it.']
