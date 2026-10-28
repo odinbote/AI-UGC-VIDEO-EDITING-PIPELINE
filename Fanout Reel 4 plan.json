@@ -1,0 +1,1396 @@
+{
+ "reference": "/Users/abiknewar/Work/Fanout/AI UGC/Project FIle/Copied_AI UGC 1/AI UGC 1.prproj",
+ "media_copy_dirs": [
+  "/Users/abiknewar/Work/Fanout/AI UGC/Project FIle/Copied_AI UGC 1"
+ ],
+ "media_skip": [
+  "Sequence 02_12.mp4"
+ ],
+ "exemplars": {
+  "aroll": {
+   "kind": "video",
+   "track": "Aroll",
+   "start": 0.0
+  },
+  "matte": {
+   "kind": "video",
+   "track": "Color mate Background",
+   "start": 2.667
+  },
+  "shot_scroll": {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "start": 10.792
+  },
+  "shot_zoom": {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "start": 12.583
+  },
+  "shot_slide": {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "start": 4.375
+  },
+  "shot_slide2": {
+   "kind": "video",
+   "track": "Screen Recording 2",
+   "start": 4.375
+  },
+  "broll1": {
+   "kind": "video",
+   "track": "Broll 1",
+   "start": 17.083
+  },
+  "broll2": {
+   "kind": "video",
+   "track": "Broll 2",
+   "start": 18.167
+  },
+  "adj": {
+   "kind": "video",
+   "track": "Adjustment effects Grains & Fades",
+   "start": 0.0
+  },
+  "outro": {
+   "kind": "video",
+   "track": "Outro Animation",
+   "start": 21.042
+  },
+  "g_thisfeels": {
+   "kind": "video",
+   "track": "Text Graphics 1",
+   "start": 0.0
+  },
+  "g_cheating": {
+   "kind": "video",
+   "track": "Text Graphics 2",
+   "start": 0.708
+  },
+  "g_senior": {
+   "kind": "video",
+   "track": "Text Graphics 2",
+   "start": 5.958
+  },
+  "g_instead": {
+   "kind": "video",
+   "track": "Text Graphics 1",
+   "start": 13.875
+  },
+  "g_memorizing": {
+   "kind": "video",
+   "track": "Text Graphics 2",
+   "start": 14.25
+  },
+  "g_random": {
+   "kind": "video",
+   "track": "Text Graphics 3",
+   "start": 14.875
+  },
+  "cap_layout": {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "start": 10.958
+  },
+  "cap_youll": {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "start": 15.917
+  },
+  "cap_low": {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "start": 19.25
+  },
+  "dialog": {
+   "kind": "audio",
+   "track": "Aroll Sound",
+   "start": 0.0
+  },
+  "sfx_click": {
+   "kind": "audio",
+   "track": "SFX 1",
+   "start": 12.458
+  },
+  "sfx_ui_a": {
+   "kind": "audio",
+   "track": "SFX 1",
+   "start": 16.917
+  },
+  "sfx_ui_b": {
+   "kind": "audio",
+   "track": "SFX 1",
+   "start": 19.25
+  },
+  "sfx_whoosh": {
+   "kind": "audio",
+   "track": "SFX 1",
+   "start": 1.583
+  },
+  "sfx_woosh2": {
+   "kind": "audio",
+   "track": "SFX 3",
+   "start": 1.542
+  },
+  "sfx_button": {
+   "kind": "audio",
+   "track": "SFX 2",
+   "start": 1.792
+  },
+  "music": {
+   "kind": "audio",
+   "track": "Background music",
+   "start": 0.0
+  },
+  "rec": {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "start": 2.667
+  },
+  "logo_netflix": {
+   "kind": "video",
+   "track": "Logos",
+   "start": 8.0
+  },
+  "logo_uber": {
+   "kind": "video",
+   "track": "Logos",
+   "start": 8.75
+  },
+  "sfx_ting": {
+   "kind": "audio",
+   "track": "SFX 5",
+   "start": 7.958
+  },
+  "g_but": {
+   "kind": "video",
+   "track": "Text Graphics 3",
+   "start": 1.292
+  }
+ },
+ "output_dir": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 4/Copied_Fanout Reel 4",
+ "project_name": "Fanout Reel 4",
+ "old_sequence_name": "Sequence 02_12",
+ "sequence_name": "Fanout Reel 4",
+ "total_frames": 732,
+ "media_flat": true,
+ "preview_grade": true,
+ "media": {
+  "aroll": "Timeline 11 aroll.mp4",
+  "cutout": "timeline11_cutout_alpha.mov",
+  "aroll_frames": 682
+ },
+ "media_copy": [
+  "/private/tmp/claude-501/-Users-abiknewar-Work-Claude-Editing-2/50ae89ed-a5e9-41ec-bd82-530f1b1ca78b/scratchpad/deliver_media4/Timeline 11 aroll.mp4",
+  "/private/tmp/claude-501/-Users-abiknewar-Work-Claude-Editing-2/50ae89ed-a5e9-41ec-bd82-530f1b1ca78b/scratchpad/deliver_media4/timeline11_cutout_alpha.mov",
+  "/private/tmp/claude-501/-Users-abiknewar-Work-Claude-Editing-2/50ae89ed-a5e9-41ec-bd82-530f1b1ca78b/scratchpad/deliver_media4/rec_system.mov",
+  "/private/tmp/claude-501/-Users-abiknewar-Work-Claude-Editing-2/50ae89ed-a5e9-41ec-bd82-530f1b1ca78b/scratchpad/deliver_media4/rec_ai_eng2.mov",
+  "/private/tmp/claude-501/-Users-abiknewar-Work-Claude-Editing-2/50ae89ed-a5e9-41ec-bd82-530f1b1ca78b/scratchpad/deliver_media4/rec_inference.mov",
+  "/private/tmp/claude-501/-Users-abiknewar-Work-Claude-Editing-2/50ae89ed-a5e9-41ec-bd82-530f1b1ca78b/scratchpad/deliver_media4/rec_papers.mov",
+  "/private/tmp/claude-501/-Users-abiknewar-Work-Claude-Editing-2/50ae89ed-a5e9-41ec-bd82-530f1b1ca78b/scratchpad/deliver_media4/rec_resources.mov",
+  "/private/tmp/claude-501/-Users-abiknewar-Work-Claude-Editing-2/50ae89ed-a5e9-41ec-bd82-530f1b1ca78b/scratchpad/deliver_media4/rec_company_guides.mov",
+  "/private/tmp/claude-501/-Users-abiknewar-Work-Claude-Editing-2/50ae89ed-a5e9-41ec-bd82-530f1b1ca78b/scratchpad/deliver_media4/fanout_ai_eng_top.png",
+  "/private/tmp/claude-501/-Users-abiknewar-Work-Claude-Editing-2/50ae89ed-a5e9-41ec-bd82-530f1b1ca78b/scratchpad/deliver_media4/fanout_ai_eng_grid.png",
+  "/private/tmp/claude-501/-Users-abiknewar-Work-Claude-Editing-2/50ae89ed-a5e9-41ec-bd82-530f1b1ca78b/scratchpad/deliver_media4/fanout_notes.png",
+  "/private/tmp/claude-501/-Users-abiknewar-Work-Claude-Editing-2/50ae89ed-a5e9-41ec-bd82-530f1b1ca78b/scratchpad/deliver_media2/rec_home.mov"
+ ],
+ "retarget": [
+  {
+   "old_title": "Sequence 02_12.mp4",
+   "new_file": "Timeline 11 aroll.mp4",
+   "duration_s": 28.44,
+   "audio_rate": 48000,
+   "frame_rect": "0,0,720,1280"
+  },
+  {
+   "old_title": "Screenshot 2026-10-24 at 1.10.17 AM.png",
+   "new_file": "fanout_ai_eng_grid.png",
+   "frame_rect": "0,0,1526,1100"
+  },
+  {
+   "old_title": "Screenshot 2026-10-24 at 1.12.30 AM.png",
+   "new_file": "fanout_ai_eng_top.png",
+   "frame_rect": "0,0,1526,1000"
+  },
+  {
+   "old_title": "Screenshot 2026-10-24 at 1.25.04 AM.png",
+   "new_file": "fanout_notes.png",
+   "frame_rect": "0,0,1526,1400"
+  }
+ ],
+ "new_media": [
+  {
+   "key": "cutout",
+   "exemplar_title": "fanout-loader-alpha-prores4444 (1).mov",
+   "new_file": "timeline11_cutout_alpha.mov",
+   "duration_s": 28.44,
+   "frame_rect": "0,0,720,1280"
+  },
+  {
+   "key": "home",
+   "exemplar_title": "Screen Recording 2026-10-24 at 1.08.06 AM.mov",
+   "new_file": "rec_home.mov",
+   "duration_s": 2.5,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "system",
+   "exemplar_title": "Screen Recording 2026-10-24 at 1.08.06 AM.mov",
+   "new_file": "rec_system.mov",
+   "duration_s": 2.5,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "aieng",
+   "exemplar_title": "Screen Recording 2026-10-24 at 1.08.06 AM.mov",
+   "new_file": "rec_ai_eng2.mov",
+   "duration_s": 2.75,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "inference",
+   "exemplar_title": "Screen Recording 2026-10-24 at 1.08.06 AM.mov",
+   "new_file": "rec_inference.mov",
+   "duration_s": 2.17,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "papers",
+   "exemplar_title": "Screen Recording 2026-10-24 at 1.08.06 AM.mov",
+   "new_file": "rec_papers.mov",
+   "duration_s": 2.17,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "resources",
+   "exemplar_title": "Screen Recording 2026-10-24 at 1.08.06 AM.mov",
+   "new_file": "rec_resources.mov",
+   "duration_s": 1.83,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "guides",
+   "exemplar_title": "Screen Recording 2026-10-24 at 1.08.06 AM.mov",
+   "new_file": "rec_company_guides.mov",
+   "duration_s": 3.5,
+   "frame_rect": "0,0,1526,2712"
+  }
+ ],
+ "items": [
+  {
+   "kind": "video",
+   "track": "Aroll",
+   "exemplar": "aroll",
+   "start_f": 0,
+   "end_f": 682,
+   "in_f": 0,
+   "link": "a0",
+   "motion": {
+    "Scale": 158,
+    "Position": [
+     0.5,
+     0.49
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Color mate Background",
+   "exemplar": "matte",
+   "start_f": 0,
+   "end_f": 732
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 0,
+   "end_f": 70,
+   "in_f": 0,
+   "motion": {
+    "Scale": 158,
+    "Position": [
+     0.5,
+     0.49
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "media_key": "home",
+   "file": "rec_home.mov",
+   "start_f": 70,
+   "end_f": 122,
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "media_key": "system",
+   "file": "rec_system.mov",
+   "start_f": 122,
+   "end_f": 146,
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 2",
+   "exemplar": "shot_slide2",
+   "still": "fanout_ai_eng_top.png",
+   "start_f": 146,
+   "end_f": 175,
+   "motion": {
+    "Scale": 70,
+    "Position": {
+     "keyframes": [
+      [
+       0,
+       [
+        0.5,
+        0.215
+       ]
+      ],
+      [
+       27,
+       [
+        0.5,
+        0.175
+       ]
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "shot_slide",
+   "still": "fanout_ai_eng_grid.png",
+   "start_f": 146,
+   "end_f": 175,
+   "motion": {
+    "Scale": 70,
+    "Position": {
+     "keyframes": [
+      [
+       0,
+       [
+        0.5,
+        0.585
+       ]
+      ],
+      [
+       27,
+       [
+        0.5,
+        0.545
+       ]
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "media_key": "inference",
+   "file": "rec_inference.mov",
+   "start_f": 175,
+   "end_f": 207,
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "media_key": "papers",
+   "file": "rec_papers.mov",
+   "start_f": 207,
+   "end_f": 246,
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "shot_zoom",
+   "still": "fanout_notes.png",
+   "start_f": 246,
+   "end_f": 270,
+   "motion": {
+    "Scale": {
+     "keyframes": [
+      [
+       0,
+       52
+      ],
+      [
+       24,
+       58
+      ]
+     ]
+    },
+    "Position": [
+     0.5,
+     0.36
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "media_key": "resources",
+   "file": "rec_resources.mov",
+   "start_f": 270,
+   "end_f": 286,
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 286,
+   "end_f": 329,
+   "in_f": 286,
+   "motion": {
+    "Scale": 158,
+    "Position": [
+     0.5,
+     0.49
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "media_key": "guides",
+   "file": "rec_company_guides.mov",
+   "start_f": 329,
+   "end_f": 408,
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "media_key": "aieng",
+   "file": "rec_ai_eng2.mov",
+   "start_f": 408,
+   "end_f": 469,
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 469,
+   "end_f": 567,
+   "in_f": 469,
+   "motion": {
+    "Scale": 158,
+    "Position": [
+     0.5,
+     0.49
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Broll 1",
+   "exemplar": "broll1",
+   "start_f": 567,
+   "end_f": 588,
+   "in_s": 582.5,
+   "motion": {
+    "Scale": 180,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Broll 2",
+   "exemplar": "broll2",
+   "start_f": 588,
+   "end_f": 606,
+   "in_s": 93.0,
+   "motion": {
+    "Scale": 270,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Broll 1",
+   "exemplar": "broll2",
+   "start_f": 606,
+   "end_f": 632,
+   "in_s": 298.0,
+   "motion": {
+    "Scale": 270,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 632,
+   "end_f": 682,
+   "in_f": 632,
+   "motion": {
+    "Scale": 158,
+    "Position": [
+     0.5,
+     0.49
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "media_key": "cutout",
+   "start_f": 70,
+   "end_f": 146,
+   "in_f": 70,
+   "motion": {
+    "Scale": 120,
+    "Position": [
+     0.5,
+     0.81
+    ],
+    "Rotation": 0
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "media_key": "cutout",
+   "start_f": 146,
+   "end_f": 207,
+   "in_f": 146,
+   "motion": {
+    "Scale": 120,
+    "Position": [
+     0.3037036955356598,
+     0.81
+    ],
+    "Rotation": 18
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "media_key": "cutout",
+   "start_f": 207,
+   "end_f": 270,
+   "in_f": 207,
+   "motion": {
+    "Scale": 120,
+    "Position": [
+     0.6101852059364319,
+     0.81
+    ],
+    "Rotation": -11
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "media_key": "cutout",
+   "start_f": 270,
+   "end_f": 286,
+   "in_f": 270,
+   "motion": {
+    "Scale": 120,
+    "Position": [
+     0.5,
+     0.81
+    ],
+    "Rotation": 0
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "media_key": "cutout",
+   "start_f": 329,
+   "end_f": 408,
+   "in_f": 329,
+   "motion": {
+    "Scale": 120,
+    "Position": [
+     0.5,
+     0.81
+    ],
+    "Rotation": 0
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "media_key": "cutout",
+   "start_f": 408,
+   "end_f": 469,
+   "in_f": 408,
+   "motion": {
+    "Scale": 120,
+    "Position": [
+     0.3037036955356598,
+     0.81
+    ],
+    "Rotation": 18
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "media_key": "cutout",
+   "start_f": 567,
+   "end_f": 632,
+   "in_f": 567,
+   "motion": {
+    "Scale": 120,
+    "Position": [
+     0.5,
+     0.81
+    ],
+    "Rotation": 0
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Logos",
+   "exemplar": "logo_netflix",
+   "still": "Netflix_2015_logo",
+   "start_f": 373,
+   "end_f": 394,
+   "motion": {
+    "Scale": {
+     "keyframes": [
+      [
+       0,
+       0
+      ],
+      [
+       3,
+       18
+      ]
+     ]
+    },
+    "Position": [
+     0.5,
+     0.2875
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Logos",
+   "exemplar": "logo_uber",
+   "still": "5ij5qdSHFzJ2piPRuoTL5F",
+   "start_f": 394,
+   "end_f": 408,
+   "motion": {
+    "Scale": {
+     "keyframes": [
+      [
+       0,
+       0
+      ],
+      [
+       2,
+       33
+      ]
+     ]
+    },
+    "Position": [
+     0.5,
+     0.283
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Adjustment effects Grains & Fades",
+   "exemplar": "adj",
+   "start_f": 0,
+   "end_f": 682
+  },
+  {
+   "kind": "video",
+   "track": "Outro Animation",
+   "exemplar": "outro",
+   "start_f": 682,
+   "end_f": 732,
+   "in_s": 0,
+   "motion": {
+    "Scale": 48,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_thisfeels",
+   "title": {
+    "text": "This is basically",
+    "style": "serif",
+    "size": 87
+   },
+   "start_f": 0,
+   "end_f": 70,
+   "motion": {
+    "Position": [
+     0.44,
+     0.564
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_cheating",
+   "title": {
+    "text": "a cheat code",
+    "style": "box-semibold",
+    "size": 121
+   },
+   "start_f": 16,
+   "end_f": 70,
+   "motion": {
+    "Position": [
+     0.5,
+     0.627
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 3",
+   "exemplar": "g_but",
+   "title": {
+    "text": "for engineers.",
+    "style": "serif",
+    "size": 87
+   },
+   "start_f": 40,
+   "end_f": 70,
+   "motion": {
+    "Position": [
+     0.6,
+     0.69
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_instead",
+   "title": {
+    "text": "to help you",
+    "style": "serif",
+    "size": 85
+   },
+   "start_f": 286,
+   "end_f": 329,
+   "motion": {
+    "Position": [
+     0.44,
+     0.564
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_random",
+   "title": {
+    "text": "level up",
+    "style": "box-semibold",
+    "size": 106
+   },
+   "start_f": 300,
+   "end_f": 329,
+   "motion": {
+    "Position": [
+     0.5,
+     0.627
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 3",
+   "exemplar": "g_but",
+   "title": {
+    "text": "your skills.",
+    "style": "serif",
+    "size": 85
+   },
+   "start_f": 311,
+   "end_f": 329,
+   "motion": {
+    "Position": [
+     0.6,
+     0.69
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_instead",
+   "title": {
+    "text": "Fanout helps you",
+    "style": "serif",
+    "size": 85
+   },
+   "start_f": 469,
+   "end_f": 531,
+   "motion": {
+    "Position": [
+     0.44,
+     0.564
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_random",
+   "title": {
+    "text": "go deeper",
+    "style": "box-semibold",
+    "size": 106
+   },
+   "start_f": 490,
+   "end_f": 531,
+   "motion": {
+    "Position": [
+     0.5,
+     0.627
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 3",
+   "exemplar": "g_but",
+   "title": {
+    "text": "into the concepts",
+    "style": "serif",
+    "size": 85
+   },
+   "start_f": 504,
+   "end_f": 531,
+   "motion": {
+    "Position": [
+     0.6,
+     0.69
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_instead",
+   "title": {
+    "text": "If you want to start",
+    "style": "serif",
+    "size": 85
+   },
+   "start_f": 567,
+   "end_f": 632,
+   "motion": {
+    "Position": [
+     0.44,
+     0.164
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_memorizing",
+   "title": {
+    "text": "thinking like",
+    "style": "serif",
+    "size": 85
+   },
+   "start_f": 584,
+   "end_f": 632,
+   "motion": {
+    "Position": [
+     0.5,
+     0.227
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 3",
+   "exemplar": "g_senior",
+   "title": {
+    "text": "a senior engineer,",
+    "style": "box-semibold",
+    "size": 116
+   },
+   "start_f": 604,
+   "end_f": 632,
+   "motion": {
+    "Position": [
+     0.56,
+     0.29
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "Fanout brings",
+   "start_f": 70,
+   "end_f": 93
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "together",
+   "start_f": 93,
+   "end_f": 100
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "courses on",
+   "start_f": 100,
+   "end_f": 122
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "System Design,",
+   "start_f": 122,
+   "end_f": 146
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "AI Engineering,",
+   "start_f": 146,
+   "end_f": 175
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "and Inference",
+   "start_f": 175,
+   "end_f": 190
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "Engineering,",
+   "start_f": 190,
+   "end_f": 207
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "along with",
+   "start_f": 207,
+   "end_f": 217
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "research papers,",
+   "start_f": 217,
+   "end_f": 246
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "technical notes,",
+   "start_f": 246,
+   "end_f": 270
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "and resources",
+   "start_f": 270,
+   "end_f": 286
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "Whether you're",
+   "start_f": 329,
+   "end_f": 341
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "learning how",
+   "start_f": 341,
+   "end_f": 355
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "systems at",
+   "start_f": 355,
+   "end_f": 373
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "Netflix",
+   "start_f": 373,
+   "end_f": 383
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "and Uber",
+   "start_f": 383,
+   "end_f": 401
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "work",
+   "start_f": 401,
+   "end_f": 408
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "or diving into",
+   "start_f": 408,
+   "end_f": 438
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "AI engineering,",
+   "start_f": 438,
+   "end_f": 469
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_low",
+   "text": "behind what",
+   "start_f": 531,
+   "end_f": 551
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_low",
+   "text": "you're building.",
+   "start_f": 551,
+   "end_f": 567
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_low",
+   "text": "check out",
+   "start_f": 632,
+   "end_f": 643
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_low",
+   "text": "Fanout.sh",
+   "start_f": 643,
+   "end_f": 672
+  },
+  {
+   "kind": "audio",
+   "track": "Aroll Sound",
+   "exemplar": "dialog",
+   "gain_db": 0,
+   "start_f": 0,
+   "end_f": 682,
+   "in_f": 0,
+   "link": "a0"
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 66,
+   "end_f": 82,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 118,
+   "end_f": 134,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 142,
+   "end_f": 158,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 171,
+   "end_f": 187,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 203,
+   "end_f": 219,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 242,
+   "end_f": 258,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 266,
+   "end_f": 282,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 282,
+   "end_f": 298,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 325,
+   "end_f": 341,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 404,
+   "end_f": 420,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 465,
+   "end_f": 481,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_ui_b",
+   "gain_db": -15,
+   "start_f": 563,
+   "end_f": 567,
+   "in_s": 0.0
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_ui_b",
+   "gain_db": -15,
+   "start_f": 585,
+   "end_f": 589,
+   "in_s": 0.0
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_ui_b",
+   "gain_db": -15,
+   "start_f": 603,
+   "end_f": 607,
+   "in_s": 0.0
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_ui_b",
+   "gain_db": -15,
+   "start_f": 629,
+   "end_f": 633,
+   "in_s": 0.0
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_ui_a",
+   "gain_db": -15,
+   "start_f": 566,
+   "end_f": 572,
+   "in_s": 0.875
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_ui_b",
+   "gain_db": -15,
+   "start_f": 682,
+   "end_f": 686,
+   "in_s": 0.0
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 3",
+   "exemplar": "sfx_ting",
+   "gain_db": -10,
+   "start_f": 371,
+   "end_f": 386,
+   "in_s": 0.0
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 4",
+   "exemplar": "sfx_ting",
+   "gain_db": -10,
+   "start_f": 392,
+   "end_f": 407,
+   "in_s": 0.0
+  },
+  {
+   "kind": "audio",
+   "track": "Background music",
+   "exemplar": "music",
+   "gain_db": -30,
+   "fade_out_f": 7,
+   "start_f": 0,
+   "end_f": 732,
+   "in_s": 14.875
+  }
+ ]
+}

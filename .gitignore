@@ -1,0 +1,25 @@
+# --- media is NOT published (licensed music/SFX, copyrighted movie clips, presenter footage, multi-GB) ---
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.webp
+*.jpg
+*.jpeg
+*.prmf
+*.pek
+*.cfa
+*.ims
+# generated project packages (contain the media above); the plans + tools regenerate them
+Fanout Reel */Copied_*/
+Fanout Reel */Media/
+Fanout Reel */*_preview.mp4
+# model weights / caches
+*.onnx
+__pycache__/
+.DS_Store
+.claude/settings.local.json
+# keep: *.py *.md *.json *.xml *.srt *.ttf *.png (analysis sheets / boards)
+
+# superseded first build (pre-fix project format)
+Fanout Reel 2/*.prproj
