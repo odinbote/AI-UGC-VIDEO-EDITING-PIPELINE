@@ -209,3 +209,13 @@ Abik imports an XML, not a .prproj. `tools/export_fcp7xml.py plan.json out.xml` 
 - A 25 fps A-roll is converted to a 24 fps copy (`ffmpeg -r 24`, audio untouched) before matte and timing; frame counts come from the copy.
 - Headless-Chrome captures can arrive dimmed by the coupon dialog; take stills from `record_page.py` (2-frame scroll at speed 0) instead. The recorder waits for `load` + 2.5 s, not network-idle (the site keeps a live connection open).
 - Company names in the script → logo pops on the Logos track (Netflix/Uber assets from the reference) with tings, over the company-guides recording.
+
+## 18. "Normal UGC 1 + study upgrades" (first built 2026-10-28 on the Reel 4 A-roll, preview only)
+
+`tools/overlays.py` adds the devices from the UGC reference study as plan `overlays` (drawn by `render_preview.py` over the normal composite; no .prproj mapping yet):
+`caption_kw` (bold SF Pro, white + one brand-orange keyword, black stroke, optional dark pill, y ≈ 0.70), `topcard` (white rounded headline card at y 0.13, navy uppercase, orange highlight span, slides in 8 f), `counter` (dark card, label + number counting up over 14 f, orange sub-line; site numbers: System design 200 lessons/18 modules, AI engineering 43/9, Inference 226/32, AI research 108/12), `stamp` (glowing green/red verdict pill, overshoot pop 6 f), `emoji` (Apple Color Emoji at 160 px, pop), `freeze` (blurred, darkened presenter frame + giant orange number, 12–14 f), `diagram` (navy grid, boxes + green arrows drawing in sequence), `split` (presenter bottom half + recording top half in rounded cards on dark grey), `flash` (white flash 6 f), `endcard` (light matte, loader logo, serif headline, orange pill button, mono URL, 2 s before the loader).
+Plan template: `Fanout Reel 4 upgraded plan.json` (captions replaced by `caption_kw`, late title stacks replaced by topcard/stamp, total 780 f with the end card at 682–730 and the loader after).
+
+## 19. REJECTED: §18 "study upgrades" cut (2026-10-28) — hard rules
+
+Abik: "Looks slop, AI kind of edit." The generic devices (bold stroked captions, white top cards, glowing stamps, emoji badges, giant-number freezes, navy diagrams, flash, template end card) are OUT. Keep Normal UGC 1's own language only. Full never-do list: memory `hard-rules-no-slop` (also §11–§17 here). Any new graphic element needs Abik's OK before it appears in a preview.

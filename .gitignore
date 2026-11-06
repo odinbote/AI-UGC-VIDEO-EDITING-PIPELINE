@@ -1,25 +1,32 @@
-# --- media is NOT published (licensed music/SFX, copyrighted movie clips, presenter footage, multi-GB) ---
-*.mp4
-*.mov
-*.mp3
-*.wav
-*.webp
-*.jpg
-*.jpeg
-*.prmf
-*.pek
-*.cfa
-*.ims
-# generated project packages (contain the media above); the plans + tools regenerate them
+# third-party assets: never published (licence / copyright / trademark). See dataset/excluded_third_party.md
+ES_*.mp3
+Transition_Woosh.mp3
+vidssave.com*
+Netflix_2015_logo.svg.webp
+5ij5qdSHFzJ2piPRuoTL5F.jpg
+google_PNG19644*
+*.pdf
+
+# working folders: packages and their media stay local; publishable copies live in dataset/
 Fanout Reel */Copied_*/
 Fanout Reel */Media/
 Fanout Reel */*_preview.mp4
-# model weights / caches
-*.onnx
+Fanout Reel 2/*.prproj
+
+# over GitHub's 100 MB limit, regenerable with tools/matte_birefnet.py
+*_cutout_alpha.mov
+
+# caches
+*.pek
+*.cfa
+*.ims
+*.prmf
+*.prin
+Adobe Premiere Pro Auto-Save/
 __pycache__/
 .DS_Store
 .claude/settings.local.json
-# keep: *.py *.md *.json *.xml *.srt *.ttf *.png (analysis sheets / boards)
+tools/tabwin/_build/
 
-# superseded first build (pre-fix project format)
-Fanout Reel 2/*.prproj
+# rejected experiments (the rejected plan is published as dataset/rejected/)
+_rejected/
