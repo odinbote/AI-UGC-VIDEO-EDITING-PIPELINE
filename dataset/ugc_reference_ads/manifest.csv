@@ -1,0 +1,22 @@
+id,meta_ad_library_file_id,ad_title,duration_s,resolution,fps,hard_cuts_scene0.35,visual_changes_scene0.12,style_notes
+v00,fbad_1076340058613402,Land a $200K+ AI Job in 2026,82.0,720x1280,30,0,7,"Top-Card Authority (newline): static frame, white headline card at top with orange highlight, uppercase 2-3 word captions, branded end card"
+v01,fbad_1091918433750241,Get a Higher Paying Tech Job - Guaranteed,102.6,720x1280,30,2,19,"plain selfie talking head, small two-line captions, location changes"
+v02,fbad_1112400631772340,VoiceOS - Voice coding,29.1,1280x720,23.98,0,2,landscape product demo (not read frame by frame)
+v03,fbad_1149671337629778,Get a Higher Paying Tech Job - Guaranteed,95.7,720x1280,30,2,19,variant of v01
+v04,fbad_1283285040600149,Get a Higher Paying Tech Job - Guaranteed,93.8,720x1280,30,2,16,variant of v01
+v05,fbad_1331424618975468_1,Get FAANG Internship Offers,84.1,720x900,23.98,11,43,"Stamp UGC (Aliyan): OVERRATED/UNDERRATED stamps, counting stat cards, emoji pops, change every 1.9 s"
+v06,fbad_1331424618975468_4,Get FAANG Internship Offers,20.0,720x1280,24,2,11,"short cut of the same creator: chat bubbles, salary counters, calendar card"
+v07,fbad_1390081203210930,Learn to code in 12 weeks,91.4,720x1280,30,0,9,single-take talking head
+v08,fbad_1411650273973819_1,LeetCode for system design,28.1,720x900,30,4,18,"Product-Bubble Walkthrough (Grind): full-screen product UI, presenter in a round bubble, green keyword pill captions, URL end card"
+v09,fbad_1477276297593646,VIDEO by devshree.17,78.8,720x1280,25,9,26,"presenter with product cards at the top, yellow keyword captions, full-screen comparison inserts"
+v10,fbad_1480023541000485_1,Book a free call,98.3,720x900,23.98,20,32,"Motion-Graphic Explainer (Faraz): studio talking head cut against navy diagram scenes, STEP cards, testimonial portrait stacks"
+v11,fbad_1491743243013770,Lia sources. You interview.,47.6,720x1280,30,0,0,single-take talking head
+v12,fbad_1521073733183443,6 weeks to interview-ready.,17.0,720x1280,24,8,11,"two-person office skit, logo end card"
+v13,fbad_1632054088371023,The best way to learn system design,38.2,720x1280,30,0,2,"phone mock floating beside the presenter (Devmaxx), app-store card at the end"
+v14,fbad_1761758571598655,Land a $200K+ AI Job in 2026,74.6,720x1280,30,2,7,variant of v00
+v15,fbad_1762524211707789,14-Day App Launch Sprint,150.1,720x1280,30,9,25,"split frame: card/UI top half, presenter bottom half, purple keyword captions (CodeSpring)"
+v16,fbad_1820432822302948,Land A 6-Figure SWE Job In 90 Days,107.6,720x1280,30,15,56,"selfie talking head, uppercase captions with coloured keyword + emoji, stock b-roll inserts"
+v17,fbad_1831540674529891,"Vibe coding, finally explained",32.4,720x1280,30,14,19,"Lo-fi Pop: laptop-on-desk slides with check/cross emoji cards, pen pointing"
+v18,fbad_2094098531244708,Land a $200K+ AI Job in 2026,68.9,720x1280,30,1,11,variant of v00
+v19,fbad_2903208930066458,Land A 6-Figure SWE Job In 90 Days,74.5,720x1280,30,32,77,"outdoor selfie, flash-to-white, blurred freeze + giant numbers, stacked testimonial portraits, script+sans captions (Hiring Funnel)"
+v20,fbad_890779087362300,Credit Building Made Simple,64.0,720x1280,30,12,15,talking head intercut with full-screen app UI in motion (Arro)
