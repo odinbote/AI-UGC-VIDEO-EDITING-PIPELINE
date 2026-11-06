@@ -6,6 +6,7 @@ checked without opening Premiere.  Composites with PIL, mixes audio with ffmpeg.
     python3 render_preview.py plan.json out.mp4
 """
 import json, sys, os, math, subprocess, glob, shutil, gzip
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import xml.etree.ElementTree as ET
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 
@@ -169,7 +170,7 @@ def main(plan_path, out_path):
             continue
         for x in te.find('.//ClipItems/TrackItems').findall('TrackItem'):
             it = byid[x.attrib['ObjectRef']]
-            st = int(it.find('.//TrackItem/Start').text or 0)
+            st_el = it.find('.//TrackItem/Start'); st = int(st_el.text) if st_el is not None and st_el.text else 0
             comps = byid[it.find('.//ComponentOwner/Components').attrib['ObjectRef']]
             for c in comps.iter('Component'):
                 ce = byid[c.attrib['ObjectRef']]
@@ -213,6 +214,11 @@ def main(plan_path, out_path):
     extract_frames(aroll, os.path.join(work, 'aroll'), 0, nfr)
     extract_frames(mpath(pm.get('cutout', 'cutout_alpha.mov')), os.path.join(work, 'cutout'), 0, nfr, alpha=True)
     extract_frames(mpath('fanout-loader'), os.path.join(work, 'loader'), 0, 60, alpha=True)
+    try:   # logo for the end card: the loader's final frame, trimmed to its alpha bbox
+        lg = Image.open(frame_path(os.path.join(work, 'loader'), 59)).convert('RGBA'); bb = lg.split()[3].getbbox()
+        globals()['_logo_img'] = lg.crop(bb) if bb else None
+    except Exception:
+        globals()['_logo_img'] = None
     broll_dirs = {}
     for it in plan['items']:
         if it['kind'] == 'video' and it['track'].startswith('Broll'):
@@ -288,6 +294,13 @@ def main(plan_path, out_path):
                     dy = 95 * (1 - pe)
                     im, dy = render_title(text, style, alpha, dy, size)
                     place(canvas, im, cx, cy + dy / H, 100)
+        # overlay devices from the UGC study (overlays.py), drawn over the composite
+        if plan.get('overlays'):
+            import overlays as OV
+            ctx = dict(aroll_frame=lambda i: Image.open(frame_path(os.path.join(work, 'aroll'), i)),
+                       rec_frame=lambda d, i: Image.open(frame_path(os.path.join(work, d), i)),
+                       logo_img=globals().get('_logo_img'))
+            OV.draw_overlays(canvas, plan, f, ctx)
         # captions on top
         for it in items:
             if it['kind'] == 'caption' and it['start_f'] <= f < it['end_f']:
