@@ -5,9 +5,3 @@
 - [Reel feedback, first build](reel-feedback-first-build.md) — preview before project; content from script; never cover face; music −30 dB; outro must finish
 - [Style "Normal UGC 1"](style-normal-ugc-1.md) — the named approved reel style; trigger word for A-roll + script edits
 - [UGC reference styles](ugc-reference-styles.md) — 21-ad study findings, five named styles to build, improvement queue for Normal UGC 1
-- [AVB ad playbook](avb-ad-playbook.md) — script/strategy layer for AI UGC ads (one desire, awareness level, hook, mechanism, receipts, CTA; 16 frameworks); full distillation in repo AD_SCRIPT_PLAYBOOK.md
-- [Script trigger workflow](script-trigger-workflow.md) — when Abik says "Script" + pastes a reference: decode it, write a scroll-stopping fanout script in our style (first-person, "Engineers", short), deliver .md with shot column; never the word "free", plain words, ~80 words
-- [Tab windows overlays](tab-windows-overlays.md) — "tabs without background" = full Chrome/Terminal window cutouts; generator tools/render_tab_windows.py, output Tab windows/ (approved 2026-10-30)
-- [DevMonk explainer reference](devmonk-explainer-reference.md) — 2026-11-02 reference style (Uber heatmap, Hindi, animated); Abik wants same TYPE of topic in English/global; delivered the ChatGPT script
-- [Script delivery in chat](script-delivery-in-chat.md) — 2026-11-02: no .md per script; write the script in chat, short, plain words, on the point
-- [Metro Media House reference](metro-media-house-reference.md) — 2026-11-05: founder-story reels from real archival clips; Abik wants this format, lots of real clips, very subtle fanout plug at the end
