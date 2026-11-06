@@ -1,0 +1,37 @@
+{
+ "tool": "tools/face_measure.py (OpenCV YuNet)",
+ "unit": "fraction of frame height, raw footage",
+ "reel2_veo31_take3": {
+  "eyes": 0.291,
+  "chin": 0.469,
+  "head_top": 0.195,
+  "source_px": "1080x1920",
+  "fps": 24,
+  "duration_s": 8.0
+ },
+ "reel3_timeline1": {
+  "eyes": 0.265,
+  "chin": 0.46,
+  "head_top": 0.16,
+  "source_px": "720x1280",
+  "fps": 24,
+  "duration_s": 17.8,
+  "cutout": {
+   "scale": 153,
+   "y": 0.837
+  }
+ },
+ "reel4_timeline11": {
+  "eyes": 0.37,
+  "chin": 0.614,
+  "head_top": 0.24,
+  "source_px": "720x1280",
+  "fps": 25,
+  "duration_s": 28.44,
+  "cutout": {
+   "scale": 120,
+   "y": 0.81
+  },
+  "note": "converted to 24 fps before matte/timing"
+ }
+}
