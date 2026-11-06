@@ -1,0 +1,64 @@
+{
+ "schema": "one entry per generated output; verdict is the human editor's (Abik) response",
+ "items": [
+  {
+   "file": "generated_previews/reel2_preview_first_build.mp4",
+   "plan": "../Fanout Reel 2 plan.json",
+   "verdict": "changes requested, then corrected version approved (superseded build)",
+   "feedback": [
+    "content must come from the script, not be copied",
+    "text overlapped the face; words on one line ran together",
+    "background music too loud",
+    "outro cut before finishing",
+    "give a preview first, project only after approval"
+   ]
+  },
+  {
+   "file": "generated_previews/reel3_preview_v6_approved.mp4",
+   "plan": "../Fanout Reel 3 plan.json",
+   "verdict": "approved (v6) after five revision rounds",
+   "feedback": [
+    "use the colour matte background",
+    "cutout too basic: wanted a perfect cutout (-> BiRefNet)",
+    "text placements must match the reference (tight, staggered)",
+    "raw file was already cut: do not recut",
+    "b-roll from engineer movies (Mr Robot, Silicon Valley, The Social Network)",
+    "screen grabs must be scrolling recordings of the exact pages",
+    "A-roll full screen in places",
+    "A-roll must overlap the movie b-roll",
+    "hide jump cuts the way the reference does",
+    "screen recordings full screen behind the cutout, cursor visible",
+    "ending voice must not be cut"
+   ],
+   "human_final": "human_finals/Fanout_Reel_3_human_final.mp4"
+  },
+  {
+   "file": "generated_previews/reel4_preview_approved.mp4",
+   "plan": "../Fanout Reel 4 plan.json",
+   "verdict": "approved first pass",
+   "feedback": [],
+   "human_final": "human_finals/Fanout_Reel_4_human_final.mp4"
+  },
+  {
+   "file": null,
+   "plan": "rejected/reel4_upgraded_plan_REJECTED.json",
+   "verdict": "REJECTED: \"Looks slop, AI kind of edit\"",
+   "feedback": [
+    "generic ad devices (bold stroked captions, white headline cards, stamps, emoji badges, giant-number freezes, navy diagram, flash, template end card) are not wanted",
+    "stay inside the Normal UGC 1 language only"
+   ],
+   "note": "preview deleted; plan + tools/overlays.py kept as a negative example"
+  },
+  {
+   "file": "generated_previews/reel4_preview_v2.mp4",
+   "plan": "../Fanout Reel 4 v2 plan.json",
+   "verdict": "sent 2026-10-28, no verdict recorded",
+   "feedback": [],
+   "changes_vs_approved": [
+    "title stacks lowered to clear the chin",
+    "eased hook push-in with whoosh",
+    "no identical screen moves back to back"
+   ]
+  }
+ ]
+}
