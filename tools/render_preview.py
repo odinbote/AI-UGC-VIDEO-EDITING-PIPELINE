@@ -22,6 +22,7 @@ except Exception:
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 FONT_SERIF = os.path.join(HERE, '..', 'reference', 'fonts', 'InstrumentSerif-Italic.ttf')
+FONT_SERIF_REGULAR = os.path.join(HERE, '..', 'reference', 'fonts', 'InstrumentSerif-Regular.ttf')
 FONT_SANS_SEMI = os.path.expanduser('~/Library/Fonts/SF-Pro-Display-Semibold.otf')
 FONT_SANS_BOLD = os.path.expanduser('~/Library/Fonts/SF-Pro-Display-Bold.otf')
 
@@ -118,6 +119,12 @@ def render_title(text, style, alpha, dy, size=100):
     if style == 'serif':
         font = ImageFont.truetype(FONT_SERIF, size)
         pad = (0, 0)
+    elif style == 'serif-regular':      # no-background style: Instrument Serif Regular lead/tail lines
+        font = ImageFont.truetype(FONT_SERIF_REGULAR, size)
+        pad = (0, 0)
+    elif style == 'plain-bold':         # no-background style: SF Pro Bold key phrase, white, no box
+        font = ImageFont.truetype(FONT_SANS_BOLD, size)
+        pad = (0, 0)
     else:
         font = ImageFont.truetype(FONT_SANS_BOLD if style == 'box-bold' else FONT_SANS_SEMI, size)
         pad = (26, 14)
@@ -126,7 +133,7 @@ def render_title(text, style, alpha, dy, size=100):
     tw, th = r - l, b - t
     im = Image.new('RGBA', (tw + 2 * pad[0] + 4, th + 2 * pad[1] + 4), (0, 0, 0, 0))
     d = ImageDraw.Draw(im)
-    if style != 'serif':
+    if style not in ('serif', 'serif-regular', 'plain-bold'):
         d.rounded_rectangle((0, 0, im.width - 1, im.height - 1), radius=18, fill=ROSE + (255,))
     d.text((pad[0] + 2 - l, pad[1] + 2 - t), text, font=font, fill=(255, 255, 255, 255))
     if alpha < 1:
@@ -135,8 +142,11 @@ def render_title(text, style, alpha, dy, size=100):
     return im, dy
 
 
+CAPTION_FONT = FONT_SERIF   # plan['caption_font'] == 'regular' switches the pill text to Instrument Serif Regular
+
+
 def render_caption(text):
-    font = ImageFont.truetype(FONT_SERIF, 70)
+    font = ImageFont.truetype(CAPTION_FONT, 70)
     tmp = ImageDraw.Draw(Image.new('RGBA', (1, 1)))
     l, t, r, b = tmp.textbbox((0, 0), text, font=font)
     tw, th = r - l, b - t
@@ -150,6 +160,8 @@ def render_caption(text):
 
 def main(plan_path, out_path):
     plan = json.load(open(plan_path))
+    if plan.get('caption_font') == 'regular':
+        globals()['CAPTION_FONT'] = FONT_SERIF_REGULAR
     media = plan['output_dir'] if plan.get('media_flat') else os.path.join(plan['output_dir'], 'Media')
     work = os.path.join(os.path.dirname(out_path), 'preview_work')
     os.makedirs(work, exist_ok=True)

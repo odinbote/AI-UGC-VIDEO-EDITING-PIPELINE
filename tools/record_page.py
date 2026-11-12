@@ -33,6 +33,16 @@ CLEAN_JS = """
     if (t.includes('LAUNCH30') && el.getBoundingClientRect().width < 500) { el.closest('[role=dialog]') ? el.closest('[role=dialog]').remove() : el.remove(); break; }
   }
   document.querySelectorAll('[role=dialog]').forEach(d => { if ((d.innerText||'').includes('% off')) d.remove(); });
+  // cookie / consent boxes on third-party sites: removed without accepting anything
+  for (const el of document.querySelectorAll('div,section,aside,dialog')) {
+    const cs = getComputedStyle(el);
+    if ((cs.position === 'fixed' || cs.position === 'sticky') && /cookie/i.test(el.innerText || '') && el.getBoundingClientRect().height < 700) el.remove();
+  }
+  // "X from Y bought lifetime access" purchase toasts (bottom of the window)
+  for (const el of document.querySelectorAll('div,li,aside,section')) {
+    const t = el.innerText || '';
+    if (t.includes('bought') && t.length < 140 && el.getBoundingClientRect().width < 640) { el.remove(); break; }
+  }
 }
 """
 
