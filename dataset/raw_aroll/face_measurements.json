@@ -33,5 +33,87 @@
    "y": 0.81
   },
   "note": "converted to 24 fps before matte/timing"
+ },
+ "reel5_cut2": {
+  "eyes": 0.342,
+  "chin": 0.468,
+  "head_top": 0.274,
+  "source_px": "1080x1920",
+  "fps": 24,
+  "duration_s": 24.125,
+  "full_frame": {
+   "scale": 128,
+   "pos": [
+    0.5,
+    0.5
+   ]
+  },
+  "cutout": {
+   "scale": 130,
+   "y": 0.845
+  }
+ },
+ "reel6_learning_ai": {
+  "eyes": 0.362,
+  "chin": 0.465,
+  "head_top": 0.307,
+  "source_px": "1080x1920",
+  "fps": 24,
+  "full_frame": {
+   "scale": 140,
+   "pos": [
+    0.5,
+    0.5
+   ]
+  },
+  "cutout": {
+   "scale": 155,
+   "y": 0.882
+  },
+  "human_punch_ins": "140 -> 197-226"
+ },
+ "reel7_system_design": {
+  "eyes": 0.384,
+  "chin": 0.543,
+  "head_top": 0.299,
+  "source_px": "1080x1920",
+  "fps": 24,
+  "full_frame": {
+   "scale": 114,
+   "pos": [
+    0.5,
+    0.436
+   ]
+  },
+  "cutout": {
+   "scale": 108,
+   "y": 0.81
+  },
+  "human_punch_ins": "114 -> 173-214"
+ },
+ "reel8_discord": {
+  "eyes": 0.342,
+  "chin": 0.465,
+  "head_top": 0.276,
+  "source_px": "1080x1920",
+  "fps": 24,
+  "full_frame": {
+   "scale": 140,
+   "pos": [
+    0.5,
+    0.5
+   ]
+  },
+  "punch_in": {
+   "scale": 190,
+   "pos": [
+    0.5,
+    0.56
+   ]
+  },
+  "cutout": {
+   "scale": 135,
+   "y": 0.888
+  }
  }
 }

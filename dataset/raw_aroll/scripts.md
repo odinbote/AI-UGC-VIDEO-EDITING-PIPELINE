@@ -15,3 +15,12 @@
 > If you want to start thinking like a senior engineer, check out Fanout.sh.
 
 Reference reel script (AI UGC 1, human edit): "This feels like cheating, but it works. I used fanout to actually get system design, like how senior engineers think. It breaks down how Netflix, Uber, Google actually work with structured learning paths and interactive animations. Instead of memorizing random concepts, you'll understand why systems are designed the way they are. Just go look at fanout.sh. You'll get it."
+
+**reel5_cut2.mp4** (24.1 s, one file with six built-in jump cuts)
+> I came across this amazing archive, and I keep going back to it. It's called Fanout. The papers that built modern AI, in the order to read them. The books, the blogs, the people worth following. Already sorted. A new paper explained every day. And a roadmap that tells you what to learn next. Everything I had in four hundred tabs. Inside fanout.sh
+
+**reel6_learning_ai/** (hook A, B, C + body 02-07; scripts in `hooks.txt` and `script_hook_A.txt`)
+**reel7_system_design/** (hook A, B, C + body 02-06; same layout)
+**reel8_discord/** (clip 01-06; `script.txt`)
+
+For the multi-clip reels the clips are generated takes with a little silence at each end; the edit trims each to its speech. Word timings are in `transcripts/`, given in the stitched order listed in each file.
