@@ -92,3 +92,10 @@ Styles to build (presets on the same pipeline): **Stamp UGC** (Aliyan), **Motion
 - [ ] B-roll full screen with cutout + title stack
 - [ ] Music −30 dB + fade; clicks before every cut; outro complete
 - [ ] Contact sheet reviewed; mix levels measured
+
+## 7. Before starting any video: two questions and the b-roll library (added 2026-11-12)
+
+- **Ask Abik which title style he wants: with background or without background.** With background = SF Pro Semibold ~90 on a green box, Instrument Serif Italic 65 lead lines. Without background = SF Pro Bold 110–154 white with no box, Instrument Serif Regular ~68 lead lines. Details and exemplar positions: `EDITING_SYSTEM.md` §21. Ask every time; do not assume from the last video.
+- **B-roll:** pick shots from `B-roll library/` by the words being spoken (theme index in its README), 2–3 shots of 14–24 frames per line, b-roll in the hook as well, reframed so the subject is beside the title, and never a shot that `B-roll library/used.json` lists for another video. Add what you use to that file.
+- Punch in hard between phrases on full-frame beats; never inside a phrase.
+- Abik's own edits of Reels 6 and 7 (`reference/abik edits 2026-11-12/`) are the current look; they can serve as the reference project for new builds.

@@ -1,0 +1,1725 @@
+{
+ "reference": "/Users/abiknewar/Work/Fanout/AI UGC/Project FIle/Copied_AI UGC 1/AI UGC 1.prproj",
+ "media_copy_dirs": [
+  "/Users/abiknewar/Work/Fanout/AI UGC/Project FIle/Copied_AI UGC 1"
+ ],
+ "exemplars": {
+  "aroll": {
+   "kind": "video",
+   "track": "Aroll",
+   "start": 0.0
+  },
+  "matte": {
+   "kind": "video",
+   "track": "Color mate Background",
+   "start": 2.667
+  },
+  "shot_scroll": {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "start": 10.792
+  },
+  "shot_zoom": {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "start": 12.583
+  },
+  "shot_slide": {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "start": 4.375
+  },
+  "shot_slide2": {
+   "kind": "video",
+   "track": "Screen Recording 2",
+   "start": 4.375
+  },
+  "broll1": {
+   "kind": "video",
+   "track": "Broll 1",
+   "start": 17.083
+  },
+  "broll2": {
+   "kind": "video",
+   "track": "Broll 2",
+   "start": 18.167
+  },
+  "adj": {
+   "kind": "video",
+   "track": "Adjustment effects Grains & Fades",
+   "start": 0.0
+  },
+  "outro": {
+   "kind": "video",
+   "track": "Outro Animation",
+   "start": 21.042
+  },
+  "g_thisfeels": {
+   "kind": "video",
+   "track": "Text Graphics 1",
+   "start": 0.0
+  },
+  "g_cheating": {
+   "kind": "video",
+   "track": "Text Graphics 2",
+   "start": 0.708
+  },
+  "g_senior": {
+   "kind": "video",
+   "track": "Text Graphics 2",
+   "start": 5.958
+  },
+  "g_instead": {
+   "kind": "video",
+   "track": "Text Graphics 1",
+   "start": 13.875
+  },
+  "g_memorizing": {
+   "kind": "video",
+   "track": "Text Graphics 2",
+   "start": 14.25
+  },
+  "g_random": {
+   "kind": "video",
+   "track": "Text Graphics 3",
+   "start": 14.875
+  },
+  "cap_layout": {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "start": 10.958
+  },
+  "cap_youll": {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "start": 15.917
+  },
+  "cap_low": {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "start": 19.25
+  },
+  "dialog": {
+   "kind": "audio",
+   "track": "Aroll Sound",
+   "start": 0.0
+  },
+  "sfx_click": {
+   "kind": "audio",
+   "track": "SFX 1",
+   "start": 12.458
+  },
+  "sfx_ui_a": {
+   "kind": "audio",
+   "track": "SFX 1",
+   "start": 16.917
+  },
+  "sfx_ui_b": {
+   "kind": "audio",
+   "track": "SFX 1",
+   "start": 19.25
+  },
+  "sfx_whoosh": {
+   "kind": "audio",
+   "track": "SFX 1",
+   "start": 1.583
+  },
+  "sfx_woosh2": {
+   "kind": "audio",
+   "track": "SFX 3",
+   "start": 1.542
+  },
+  "sfx_button": {
+   "kind": "audio",
+   "track": "SFX 2",
+   "start": 1.792
+  },
+  "music": {
+   "kind": "audio",
+   "track": "Background music",
+   "start": 0.0
+  },
+  "rec": {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "start": 2.667
+  },
+  "logo_netflix": {
+   "kind": "video",
+   "track": "Logos",
+   "start": 8.0
+  },
+  "logo_uber": {
+   "kind": "video",
+   "track": "Logos",
+   "start": 8.75
+  },
+  "sfx_ting": {
+   "kind": "audio",
+   "track": "SFX 5",
+   "start": 7.958
+  },
+  "g_but": {
+   "kind": "video",
+   "track": "Text Graphics 3",
+   "start": 1.292
+  }
+ },
+ "old_sequence_name": "Sequence 02_12",
+ "media_flat": true,
+ "preview_grade": true,
+ "media_skip": [
+  "Sequence 02_12.mp4",
+  "vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4",
+  "vidssave.com _We're Ranking Girls_ _ THE SOCIAL NETWORK (2010) Movie CLIP 4K 720P.mp4"
+ ],
+ "output_dir": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 6/Copied_Fanout Reel 6",
+ "project_name": "Fanout Reel 6 - hook C",
+ "sequence_name": "Fanout Reel 6 - hook C",
+ "total_frames": 942,
+ "media": {
+  "aroll": "learnai aroll.mp4",
+  "cutout": "learnai_cutout_alpha.mov",
+  "aroll_frames": 1200
+ },
+ "media_copy": [
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 6/Media/learnai aroll.mp4",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 6/Media/learnai_cutout_alpha.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 6/Media/r6_youtube.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 6/Media/r6_youtube_more.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 6/Media/r6_arxiv_abs.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 6/Media/r6_arxiv_paper.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 6/Media/r6_home.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 6/Media/r6_papers.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 6/Media/r6_explainer.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 6/Media/r6_math.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 6/Media/r6_math_formulas.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 6/Media/r6_arxiv_list.png",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 6/Media/r6_equation.png",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 6/Media/r6_attn_b.png",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 6/Media/r6_attn_a.png"
+ ],
+ "retarget": [
+  {
+   "old_title": "Sequence 02_12.mp4",
+   "new_file": "learnai aroll.mp4",
+   "duration_s": 50.0,
+   "audio_rate": 48000,
+   "frame_rect": "0,0,1080,1920"
+  },
+  {
+   "old_title": "Screenshot 2026-10-24 at 1.25.39 AM.png",
+   "new_file": "r6_arxiv_list.png",
+   "frame_rect": "0,0,500,2200"
+  },
+  {
+   "old_title": "Screenshot 2026-10-24 at 1.25.04 AM.png",
+   "new_file": "r6_equation.png",
+   "frame_rect": "0,0,1526,1400"
+  },
+  {
+   "old_title": "Screenshot 2026-10-24 at 1.10.17 AM.png",
+   "new_file": "r6_attn_b.png",
+   "frame_rect": "0,0,1526,1100"
+  },
+  {
+   "old_title": "Screenshot 2026-10-24 at 1.12.30 AM.png",
+   "new_file": "r6_attn_a.png",
+   "frame_rect": "0,0,1526,1000"
+  }
+ ],
+ "new_media": [
+  {
+   "key": "cutout",
+   "exemplar_title": "fanout-loader-alpha-prores4444 (1).mov",
+   "new_file": "learnai_cutout_alpha.mov",
+   "duration_s": 50.0,
+   "frame_rect": "0,0,1080,1920"
+  },
+  {
+   "key": "youtube",
+   "exemplar_title": "Screen Recording 2026-10-24 at 1.08.06 AM.mov",
+   "new_file": "r6_youtube.mov",
+   "duration_s": 2.333,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "youtube_more",
+   "exemplar_title": "Screen Recording 2026-10-24 at 1.08.06 AM.mov",
+   "new_file": "r6_youtube_more.mov",
+   "duration_s": 2.167,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "arxiv_abs",
+   "exemplar_title": "Screen Recording 2026-10-24 at 1.08.06 AM.mov",
+   "new_file": "r6_arxiv_abs.mov",
+   "duration_s": 1.75,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "arxiv_paper",
+   "exemplar_title": "Screen Recording 2026-10-24 at 1.08.06 AM.mov",
+   "new_file": "r6_arxiv_paper.mov",
+   "duration_s": 1.75,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "home",
+   "exemplar_title": "Screen Recording 2026-10-24 at 1.08.06 AM.mov",
+   "new_file": "r6_home.mov",
+   "duration_s": 1.75,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "papers",
+   "exemplar_title": "Screen Recording 2026-10-24 at 1.08.06 AM.mov",
+   "new_file": "r6_papers.mov",
+   "duration_s": 1.875,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "explainer",
+   "exemplar_title": "Screen Recording 2026-10-24 at 1.08.06 AM.mov",
+   "new_file": "r6_explainer.mov",
+   "duration_s": 2.417,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "math",
+   "exemplar_title": "Screen Recording 2026-10-24 at 1.08.06 AM.mov",
+   "new_file": "r6_math.mov",
+   "duration_s": 1.333,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "math_formulas",
+   "exemplar_title": "Screen Recording 2026-10-24 at 1.08.06 AM.mov",
+   "new_file": "r6_math_formulas.mov",
+   "duration_s": 2.583,
+   "frame_rect": "0,0,1526,2712"
+  }
+ ],
+ "items": [
+  {
+   "kind": "video",
+   "track": "Aroll",
+   "exemplar": "aroll",
+   "start_f": 0,
+   "end_f": 125,
+   "in_f": 196,
+   "link": "a0",
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll",
+   "exemplar": "aroll",
+   "start_f": 125,
+   "end_f": 263,
+   "in_f": 338,
+   "link": "a1",
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll",
+   "exemplar": "aroll",
+   "start_f": 263,
+   "end_f": 447,
+   "in_f": 480,
+   "link": "a2",
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll",
+   "exemplar": "aroll",
+   "start_f": 447,
+   "end_f": 528,
+   "in_f": 672,
+   "link": "a3",
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll",
+   "exemplar": "aroll",
+   "start_f": 528,
+   "end_f": 566,
+   "in_f": 773,
+   "link": "a4",
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll",
+   "exemplar": "aroll",
+   "start_f": 566,
+   "end_f": 696,
+   "in_f": 817,
+   "link": "a5",
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll",
+   "exemplar": "aroll",
+   "start_f": 696,
+   "end_f": 784,
+   "in_f": 968,
+   "link": "a6",
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll",
+   "exemplar": "aroll",
+   "start_f": 784,
+   "end_f": 892,
+   "in_f": 1058,
+   "link": "a7",
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Color mate Background",
+   "exemplar": "matte",
+   "start_f": 0,
+   "end_f": 942
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 0,
+   "end_f": 125,
+   "in_f": 196,
+   "motion": {
+    "Scale": {
+     "keyframes": [
+      [
+       62,
+       140
+      ],
+      [
+       92,
+       150
+      ]
+     ]
+    },
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 3",
+   "exemplar": "sfx_whoosh",
+   "gain_db": -15,
+   "start_f": 56,
+   "end_f": 75,
+   "in_s": 2.875
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 4",
+   "exemplar": "sfx_button",
+   "gain_db": -25,
+   "start_f": 62,
+   "end_f": 68,
+   "in_s": 1.875
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 5",
+   "exemplar": "sfx_button",
+   "gain_db": -25,
+   "start_f": 62,
+   "end_f": 68,
+   "in_s": 1.875
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_instead",
+   "title": {
+    "text": "Most engineers",
+    "style": "serif",
+    "size": 85
+   },
+   "start_f": 0,
+   "end_f": 62,
+   "motion": {
+    "Position": [
+     0.45,
+     0.404
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_random",
+   "title": {
+    "text": "learn AI top-down.",
+    "style": "box-semibold",
+    "size": 100
+   },
+   "start_f": 20,
+   "end_f": 62,
+   "motion": {
+    "Position": [
+     0.5,
+     0.467
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_instead",
+   "title": {
+    "text": "The ones who get it",
+    "style": "serif",
+    "size": 85
+   },
+   "start_f": 62,
+   "end_f": 125,
+   "motion": {
+    "Position": [
+     0.45,
+     0.404
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_random",
+   "title": {
+    "text": "start from the paper.",
+    "style": "box-semibold",
+    "size": 92
+   },
+   "start_f": 91,
+   "end_f": 125,
+   "motion": {
+    "Position": [
+     0.5,
+     0.467
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 125,
+   "end_f": 177,
+   "media_key": "youtube",
+   "file": "r6_youtube.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 125,
+   "end_f": 177,
+   "media_key": "cutout",
+   "in_f": 338,
+   "motion": {
+    "Scale": 155,
+    "Position": [
+     0.5,
+     0.882
+    ],
+    "Rotation": 0
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "A YouTube video",
+   "start_f": 127,
+   "end_f": 148
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "on transformers,",
+   "start_f": 148,
+   "end_f": 177
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 177,
+   "end_f": 215,
+   "media_key": "arxiv_abs",
+   "file": "r6_arxiv_abs.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 177,
+   "end_f": 215,
+   "media_key": "cutout",
+   "in_f": 390,
+   "motion": {
+    "Scale": 155,
+    "Position": [
+     0.3037036955356598,
+     0.882
+    ],
+    "Rotation": 18
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "a paper",
+   "start_f": 179,
+   "end_f": 191
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "you save for later,",
+   "start_f": 191,
+   "end_f": 215
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 215,
+   "end_f": 263,
+   "media_key": "youtube_more",
+   "file": "r6_youtube_more.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 215,
+   "end_f": 263,
+   "media_key": "cutout",
+   "in_f": 428,
+   "motion": {
+    "Scale": 155,
+    "Position": [
+     0.6101852059364319,
+     0.882
+    ],
+    "Rotation": -11
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "and forty tabs",
+   "start_f": 217,
+   "end_f": 238
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "you never close.",
+   "start_f": 238,
+   "end_f": 261
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 263,
+   "end_f": 330,
+   "in_f": 480,
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_thisfeels",
+   "title": {
+    "text": "But the video",
+    "style": "serif",
+    "size": 85
+   },
+   "start_f": 263,
+   "end_f": 330,
+   "motion": {
+    "Position": [
+     0.45,
+     0.404
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_cheating",
+   "title": {
+    "text": "skips the part",
+    "style": "box-semibold",
+    "size": 121
+   },
+   "start_f": 277,
+   "end_f": 330,
+   "motion": {
+    "Position": [
+     0.5,
+     0.467
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 3",
+   "exemplar": "g_but",
+   "title": {
+    "text": "the paper assumes you already know,",
+    "style": "serif",
+    "size": 64
+   },
+   "start_f": 293,
+   "end_f": 330,
+   "motion": {
+    "Position": [
+     0.5,
+     0.53
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 330,
+   "end_f": 368,
+   "media_key": "arxiv_paper",
+   "file": "r6_arxiv_paper.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 330,
+   "end_f": 368,
+   "media_key": "cutout",
+   "in_f": 547,
+   "motion": {
+    "Scale": 155,
+    "Position": [
+     0.5,
+     0.882
+    ],
+    "Rotation": 0
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "so you open",
+   "start_f": 332,
+   "end_f": 346
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "the paper anyway.",
+   "start_f": 346,
+   "end_f": 368
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "shot_scroll",
+   "start_f": 368,
+   "end_f": 390,
+   "still": "r6_arxiv_list.png",
+   "motion": {
+    "Scale": 165,
+    "Position": {
+     "keyframes": [
+      [
+       0,
+       [
+        0.5,
+        1.0
+       ]
+      ],
+      [
+       50,
+       [
+        0.5,
+        0.55
+       ]
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 368,
+   "end_f": 390,
+   "media_key": "cutout",
+   "in_f": 585,
+   "motion": {
+    "Scale": 155,
+    "Position": [
+     0.3037036955356598,
+     0.882
+    ],
+    "Rotation": 18
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "Page three.",
+   "start_f": 370,
+   "end_f": 390
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "shot_zoom",
+   "start_f": 390,
+   "end_f": 447,
+   "still": "r6_equation.png",
+   "motion": {
+    "Scale": {
+     "keyframes": [
+      [
+       0,
+       95
+      ],
+      [
+       57,
+       108
+      ]
+     ]
+    },
+    "Position": [
+     0.5,
+     0.385
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 390,
+   "end_f": 447,
+   "media_key": "cutout",
+   "in_f": 607,
+   "motion": {
+    "Scale": 155,
+    "Position": [
+     0.6101852059364319,
+     0.882
+    ],
+    "Rotation": -11
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "First equation.",
+   "start_f": 392,
+   "end_f": 417
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "Laptop closed.",
+   "start_f": 419,
+   "end_f": 447
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 447,
+   "end_f": 528,
+   "in_f": 672,
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_instead",
+   "title": {
+    "text": "The problem",
+    "style": "serif",
+    "size": 85
+   },
+   "start_f": 447,
+   "end_f": 481,
+   "motion": {
+    "Position": [
+     0.45,
+     0.404
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_random",
+   "title": {
+    "text": "isn't you.",
+    "style": "box-semibold",
+    "size": 121
+   },
+   "start_f": 461,
+   "end_f": 481,
+   "motion": {
+    "Position": [
+     0.5,
+     0.467
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_instead",
+   "title": {
+    "text": "It's the order",
+    "style": "serif",
+    "size": 85
+   },
+   "start_f": 481,
+   "end_f": 528,
+   "motion": {
+    "Position": [
+     0.45,
+     0.404
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_random",
+   "title": {
+    "text": "you're learning it in.",
+    "style": "box-semibold",
+    "size": 92
+   },
+   "start_f": 500,
+   "end_f": 528,
+   "motion": {
+    "Position": [
+     0.5,
+     0.467
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 528,
+   "end_f": 566,
+   "media_key": "home",
+   "file": "r6_home.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 528,
+   "end_f": 566,
+   "media_key": "cutout",
+   "in_f": 773,
+   "motion": {
+    "Scale": 155,
+    "Position": [
+     0.5,
+     0.882
+    ],
+    "Rotation": 0
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "Fanout flips",
+   "start_f": 528,
+   "end_f": 547
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "the order.",
+   "start_f": 547,
+   "end_f": 566
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 566,
+   "end_f": 607,
+   "media_key": "papers",
+   "file": "r6_papers.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 566,
+   "end_f": 607,
+   "media_key": "cutout",
+   "in_f": 817,
+   "motion": {
+    "Scale": 155,
+    "Position": [
+     0.3037036955356598,
+     0.882
+    ],
+    "Rotation": 18
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "Its AI Research",
+   "start_f": 566,
+   "end_f": 593
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "archive",
+   "start_f": 593,
+   "end_f": 607
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 607,
+   "end_f": 662,
+   "media_key": "explainer",
+   "file": "r6_explainer.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 90,
+    "Position": [
+     0.5,
+     0.636
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 607,
+   "end_f": 662,
+   "media_key": "cutout",
+   "in_f": 858,
+   "motion": {
+    "Scale": 155,
+    "Position": [
+     0.6101852059364319,
+     0.882
+    ],
+    "Rotation": -11
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "walks you through",
+   "start_f": 607,
+   "end_f": 626
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "the ideas",
+   "start_f": 626,
+   "end_f": 641
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "behind a paper",
+   "start_f": 641,
+   "end_f": 662
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 2",
+   "exemplar": "shot_slide2",
+   "start_f": 662,
+   "end_f": 696,
+   "still": "r6_attn_a.png",
+   "motion": {
+    "Scale": 70,
+    "Position": {
+     "keyframes": [
+      [
+       0,
+       [
+        0.5,
+        0.215
+       ]
+      ],
+      [
+       27,
+       [
+        0.5,
+        0.175
+       ]
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "shot_slide",
+   "start_f": 662,
+   "end_f": 696,
+   "still": "r6_attn_b.png",
+   "motion": {
+    "Scale": 70,
+    "Position": {
+     "keyframes": [
+      [
+       0,
+       [
+        0.5,
+        0.585
+       ]
+      ],
+      [
+       27,
+       [
+        0.5,
+        0.545
+       ]
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 662,
+   "end_f": 696,
+   "media_key": "cutout",
+   "in_f": 913,
+   "motion": {
+    "Scale": 155,
+    "Position": [
+     0.5,
+     0.882
+    ],
+    "Rotation": 0
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "before you",
+   "start_f": 662,
+   "end_f": 681
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "read it.",
+   "start_f": 681,
+   "end_f": 696
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 696,
+   "end_f": 725,
+   "media_key": "math",
+   "file": "r6_math.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 696,
+   "end_f": 725,
+   "media_key": "cutout",
+   "in_f": 968,
+   "motion": {
+    "Scale": 155,
+    "Position": [
+     0.3037036955356598,
+     0.882
+    ],
+    "Rotation": 18
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "So by page three,",
+   "start_f": 696,
+   "end_f": 725
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 725,
+   "end_f": 784,
+   "media_key": "math_formulas",
+   "file": "r6_math_formulas.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": {
+     "keyframes": [
+      [
+       0,
+       70.8
+      ],
+      [
+       59,
+       76
+      ]
+     ]
+    },
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 725,
+   "end_f": 784,
+   "media_key": "cutout",
+   "in_f": 997,
+   "motion": {
+    "Scale": 155,
+    "Position": [
+     0.6101852059364319,
+     0.882
+    ],
+    "Rotation": -11
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "you already know",
+   "start_f": 725,
+   "end_f": 741
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "what the equation",
+   "start_f": 741,
+   "end_f": 760
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "is doing.",
+   "start_f": 760,
+   "end_f": 784
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 784,
+   "end_f": 892,
+   "in_f": 1058,
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_instead",
+   "title": {
+    "text": "Next time a paper lands",
+    "style": "serif",
+    "size": 85
+   },
+   "start_f": 784,
+   "end_f": 834,
+   "motion": {
+    "Position": [
+     0.5,
+     0.404
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_random",
+   "title": {
+    "text": "in your team chat,",
+    "style": "box-semibold",
+    "size": 100
+   },
+   "start_f": 812,
+   "end_f": 834,
+   "motion": {
+    "Position": [
+     0.5,
+     0.467
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_low",
+   "text": "open it on",
+   "start_f": 835,
+   "end_f": 853
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_low",
+   "text": "fanout.sh",
+   "start_f": 853,
+   "end_f": 874
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_low",
+   "text": "first.",
+   "start_f": 874,
+   "end_f": 892
+  },
+  {
+   "kind": "audio",
+   "track": "Aroll Sound",
+   "exemplar": "dialog",
+   "gain_db": 0,
+   "start_f": 0,
+   "end_f": 125,
+   "in_f": 196,
+   "link": "a0"
+  },
+  {
+   "kind": "audio",
+   "track": "Aroll Sound",
+   "exemplar": "dialog",
+   "gain_db": 0,
+   "start_f": 125,
+   "end_f": 263,
+   "in_f": 338,
+   "link": "a1"
+  },
+  {
+   "kind": "audio",
+   "track": "Aroll Sound",
+   "exemplar": "dialog",
+   "gain_db": 0,
+   "start_f": 263,
+   "end_f": 447,
+   "in_f": 480,
+   "link": "a2"
+  },
+  {
+   "kind": "audio",
+   "track": "Aroll Sound",
+   "exemplar": "dialog",
+   "gain_db": 0,
+   "start_f": 447,
+   "end_f": 528,
+   "in_f": 672,
+   "link": "a3"
+  },
+  {
+   "kind": "audio",
+   "track": "Aroll Sound",
+   "exemplar": "dialog",
+   "gain_db": 0,
+   "start_f": 528,
+   "end_f": 566,
+   "in_f": 773,
+   "link": "a4"
+  },
+  {
+   "kind": "audio",
+   "track": "Aroll Sound",
+   "exemplar": "dialog",
+   "gain_db": 0,
+   "start_f": 566,
+   "end_f": 696,
+   "in_f": 817,
+   "link": "a5"
+  },
+  {
+   "kind": "audio",
+   "track": "Aroll Sound",
+   "exemplar": "dialog",
+   "gain_db": 0,
+   "start_f": 696,
+   "end_f": 784,
+   "in_f": 968,
+   "link": "a6"
+  },
+  {
+   "kind": "audio",
+   "track": "Aroll Sound",
+   "exemplar": "dialog",
+   "gain_db": 0,
+   "start_f": 784,
+   "end_f": 892,
+   "in_f": 1058,
+   "link": "a7"
+  },
+  {
+   "kind": "video",
+   "track": "Adjustment effects Grains & Fades",
+   "exemplar": "adj",
+   "start_f": 0,
+   "end_f": 892
+  },
+  {
+   "kind": "video",
+   "track": "Outro Animation",
+   "exemplar": "outro",
+   "start_f": 892,
+   "end_f": 942,
+   "in_s": 0,
+   "motion": {
+    "Scale": 48,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 121,
+   "end_f": 137,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 173,
+   "end_f": 189,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 211,
+   "end_f": 227,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 259,
+   "end_f": 275,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 326,
+   "end_f": 342,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 364,
+   "end_f": 380,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 386,
+   "end_f": 402,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 443,
+   "end_f": 459,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 524,
+   "end_f": 540,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 562,
+   "end_f": 578,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 603,
+   "end_f": 619,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 658,
+   "end_f": 674,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 692,
+   "end_f": 708,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 721,
+   "end_f": 737,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 780,
+   "end_f": 796,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_ui_b",
+   "gain_db": -15,
+   "start_f": 892,
+   "end_f": 896,
+   "in_s": 0.0
+  },
+  {
+   "kind": "audio",
+   "track": "Background music",
+   "exemplar": "music",
+   "gain_db": -30,
+   "start_f": 0,
+   "end_f": 942,
+   "in_s": 14.875,
+   "fade_out_f": 7
+  }
+ ]
+}

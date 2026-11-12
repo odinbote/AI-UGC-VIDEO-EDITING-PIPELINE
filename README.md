@@ -3,7 +3,7 @@
 Tools, spec and plans for reproducing a human-edited vertical UGC reel style ("Normal UGC 1", built for fanout.sh) from a raw A-roll and a script. The pipeline transcribes the A-roll, measures the presenter, mattes them, records the real product pages in a 9:16 browser, writes an edit plan, and generates a **Premiere Pro project (.prproj)** plus a **Final Cut Pro 7 XML** by cloning clips from a reference project.
 
 **Start here:** [`NORMAL_UGC_1_CONTEXT.md`](NORMAL_UGC_1_CONTEXT.md) (the whole system in one file, also usable as a Claude Code skill).
-Full spec: [`EDITING_SYSTEM.md`](EDITING_SYSTEM.md). Reference study of 21 creator ads: [`UGC_REFERENCE_STUDY.md`](UGC_REFERENCE_STUDY.md).
+Full spec: [`EDITING_SYSTEM.md`](EDITING_SYSTEM.md) (§21 is what the editor changed in his own re-edit: two title styles, b-roll rules, punch-ins). Reference study of 21 creator ads: [`UGC_REFERENCE_STUDY.md`](UGC_REFERENCE_STUDY.md).
 
 ## Tools (`tools/`)
 
@@ -17,9 +17,11 @@ Full spec: [`EDITING_SYSTEM.md`](EDITING_SYSTEM.md). Reference study of 21 creat
 | `matte_birefnet.py` | BiRefNet-portrait alpha matte on Apple MPS (fp16) |
 | `record_page.py` | Playwright 9:16 browser recordings with cursor (`--mode scroll` / `--mode drag`) |
 | `make_scroll.py` | Legacy synthetic scroll from a tall screenshot |
+| `gen_reel67_plans.py`, `gen_reel8_plan.py` | Plan generators for multi-clip A-rolls with hook variants: beats written in clip-local frames, one plan per hook; Reel 8 builds on the editor's own re-edited project |
+| `catalog_shots.py` | Shot catalogue for b-roll sources: cut detection, in/out per shot, thumbnail sheets |
 | `overlays.py` | Ad-style overlay devices from the reference study. Rejected by the editor, kept as a negative example (see `dataset/rejected/`) |
 
-Plans: `Fanout Reel 4 plan.json` is the current template; `Fanout Reel 2/3 plan.json` show the evolution; `Fanout Reel 4 v2 plan.json` is the latest revision.
+Plans: `Fanout Reel 5`, `6 - hook A|B|C`, `7 - hook A|B|C` and `8` are the newest; `Fanout Reel 4 plan.json` is the original template; `Fanout Reel 2/3 plan.json` show the evolution; `Fanout Reel 4 v2 plan.json` is the latest revision.
 
 ## Dataset and instruction set
 

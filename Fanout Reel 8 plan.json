@@ -1,0 +1,1969 @@
+{
+ "reference": "/Users/abiknewar/Work/Claude Editing 2/reference/abik edits 2026-11-12/Fanout Reel 7 - hook A_1.prproj",
+ "media_copy_dirs": [],
+ "media_skip": [],
+ "old_sequence_name": "Fanout Reel 7 - hook A",
+ "media_flat": true,
+ "preview_grade": true,
+ "caption_font": "regular",
+ "exemplars": {
+  "aroll": {
+   "kind": "video",
+   "track": "Aroll",
+   "start": 0.0
+  },
+  "matte": {
+   "kind": "video",
+   "track": "Color mate Background",
+   "start": 2.2916666666666665
+  },
+  "rec": {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "start": 10.041666666666666
+  },
+  "shot_slide": {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "start": 25.416666666666668
+  },
+  "shot_slide2": {
+   "kind": "video",
+   "track": "Screen Recording 2",
+   "start": 25.416666666666668
+  },
+  "broll1": {
+   "kind": "video",
+   "track": "Broll 1",
+   "start": 2.2916666666666665
+  },
+  "broll2": {
+   "kind": "video",
+   "track": "Broll 2",
+   "start": 3.7083333333333335
+  },
+  "adj": {
+   "kind": "video",
+   "track": "Adjustment effects Grains & Fades",
+   "start": 2.2916666666666665
+  },
+  "outro": {
+   "kind": "video",
+   "track": "Outro Animation",
+   "start": 35.125
+  },
+  "g_lead": {
+   "kind": "video",
+   "track": "Text Graphics 1",
+   "start": 6.125
+  },
+  "g_key": {
+   "kind": "video",
+   "track": "Text Graphics 2",
+   "start": 6.875
+  },
+  "g_tail": {
+   "kind": "video",
+   "track": "Text Graphics 3",
+   "start": 3.5833333333333335
+  },
+  "g_lead2": {
+   "kind": "video",
+   "track": "Text Graphics 2",
+   "start": 13.75
+  },
+  "g_key3": {
+   "kind": "video",
+   "track": "Text Graphics 3",
+   "start": 14.458333333333334
+  },
+  "logo_netflix": {
+   "kind": "video",
+   "track": "Logos",
+   "start": 23.75
+  },
+  "logo_uber": {
+   "kind": "video",
+   "track": "Logos",
+   "start": 24.291666666666668
+  },
+  "cap_layout": {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "start": 10.041666666666666
+  },
+  "cap_youll": {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "start": 7.875
+  },
+  "cap_low": {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "start": 32.541666666666664
+  },
+  "dialog": {
+   "kind": "audio",
+   "track": "Aroll Sound",
+   "start": 0.0
+  },
+  "sfx_click": {
+   "kind": "audio",
+   "track": "SFX 1",
+   "start": 2.125
+  },
+  "sfx_ui_b": {
+   "kind": "audio",
+   "track": "SFX 5",
+   "start": 3.5416666666666665
+  },
+  "sfx_whoosh": {
+   "kind": "audio",
+   "track": "SFX 3",
+   "start": 0.625
+  },
+  "sfx_button": {
+   "kind": "audio",
+   "track": "SFX 4",
+   "start": 0.875
+  },
+  "sfx_ting": {
+   "kind": "audio",
+   "track": "SFX 3",
+   "start": 23.666666666666668
+  },
+  "music": {
+   "kind": "audio",
+   "track": "Background music",
+   "start": 0.0
+  }
+ },
+ "output_dir": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 8/Copied_Fanout Reel 8",
+ "project_name": "Fanout Reel 8",
+ "sequence_name": "Fanout Reel 8",
+ "total_frames": 957,
+ "media": {
+  "aroll": "discord aroll.mp4",
+  "cutout": "discord_cutout_alpha.mov",
+  "aroll_frames": 960
+ },
+ "media_copy": [
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 8/Media/discord aroll.mp4",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 8/Media/discord_cutout_alpha.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 8/Media/r8_discord_2017.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 8/Media/r8_cassandra.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 8/Media/r8_scylladb.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 8/Media/r8_data_model.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 8/Media/r8_cpp_source.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 8/Media/r8_rust.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 8/Media/r8_data_services.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 8/Media/r8_fanout_case.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 8/Media/r8_company_guides.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 8/Media/r8_case_b.png",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 8/Media/r8_case_a.png",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/ES_Electronica the Witch - Andreas Dahlback.mp3",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/ES_Mechanical, Click, Buttons, Switches, Mixed, Antique, Special, Clicks - Epidemic Sound.mp3",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/ES_Mechanical, Click, Miniature Button, Multiple Pushes - Epidemic Sound.mp3",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/ES_Swooshes, Whoosh, Airy, Light 03 - Epidemic Sound.mp3",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/ES_User Interface, Click, On & Off, Small, Short 02 - Epidemic Sound.mp3",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/ES_User Interface, Misc, Pings, Tings, Generic, High, Tings - Epidemic Sound.mp3",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/fanout-loader-alpha-prores4444 (1).mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/Netflix_2015_logo.svg.webp",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/5ij5qdSHFzJ2piPRuoTL5F.jpg",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/Transition_Woosh.mp3",
+  "/Users/abiknewar/Work/Claude Editing 2/B-roll library/movies/Mr Robot - Elliot hacking compilation.mp4",
+  "/Users/abiknewar/Work/Claude Editing 2/B-roll library/movies/Snowden - aptitude test.mp4",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4"
+ ],
+ "retarget": [
+  {
+   "old_title": "sysdesign aroll.mp4",
+   "new_file": "discord aroll.mp4",
+   "duration_s": 40.0,
+   "audio_rate": 48000,
+   "frame_rect": "0,0,1080,1920"
+  },
+  {
+   "old_title": "r7_video_b.png",
+   "new_file": "r8_case_b.png",
+   "frame_rect": "0,0,1526,1100"
+  },
+  {
+   "old_title": "r7_video_a.png",
+   "new_file": "r8_case_a.png",
+   "frame_rect": "0,0,1526,1000"
+  }
+ ],
+ "new_media": [
+  {
+   "key": "cutout",
+   "exemplar_title": "fanout-loader-alpha-prores4444 (1).mov",
+   "new_file": "discord_cutout_alpha.mov",
+   "duration_s": 40.0,
+   "frame_rect": "0,0,1080,1920"
+  },
+  {
+   "key": "discord_2017",
+   "exemplar_title": "r7_home.mov",
+   "new_file": "r8_discord_2017.mov",
+   "duration_s": 1.667,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "cassandra",
+   "exemplar_title": "r7_home.mov",
+   "new_file": "r8_cassandra.mov",
+   "duration_s": 1.5,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "scylladb",
+   "exemplar_title": "r7_home.mov",
+   "new_file": "r8_scylladb.mov",
+   "duration_s": 1.667,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "data_model",
+   "exemplar_title": "r7_home.mov",
+   "new_file": "r8_data_model.mov",
+   "duration_s": 1.333,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "cpp",
+   "exemplar_title": "r7_home.mov",
+   "new_file": "r8_cpp_source.mov",
+   "duration_s": 1.333,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "rust",
+   "exemplar_title": "r7_home.mov",
+   "new_file": "r8_rust.mov",
+   "duration_s": 2.292,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "data_services",
+   "exemplar_title": "r7_home.mov",
+   "new_file": "r8_data_services.mov",
+   "duration_s": 2.083,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "fanout_case",
+   "exemplar_title": "r7_home.mov",
+   "new_file": "r8_fanout_case.mov",
+   "duration_s": 2.417,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "guides",
+   "exemplar_title": "r7_home.mov",
+   "new_file": "r8_company_guides.mov",
+   "duration_s": 3.167,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "mrrobot",
+   "exemplar_title": "vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4",
+   "new_file": "Mr Robot - Elliot hacking compilation.mp4",
+   "duration_s": 1897.3,
+   "frame_rect": "0,0,1920,1080"
+  },
+  {
+   "key": "snowden",
+   "exemplar_title": "vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4",
+   "new_file": "Snowden - aptitude test.mp4",
+   "duration_s": 176.0,
+   "frame_rect": "0,0,1280,536"
+  }
+ ],
+ "items": [
+  {
+   "kind": "video",
+   "track": "Aroll",
+   "exemplar": "aroll",
+   "start_f": 0,
+   "end_f": 131,
+   "in_f": 3,
+   "link": "a0",
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll",
+   "exemplar": "aroll",
+   "start_f": 131,
+   "end_f": 313,
+   "in_f": 145,
+   "link": "a1",
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll",
+   "exemplar": "aroll",
+   "start_f": 313,
+   "end_f": 449,
+   "in_f": 337,
+   "link": "a2",
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll",
+   "exemplar": "aroll",
+   "start_f": 449,
+   "end_f": 584,
+   "in_f": 482,
+   "link": "a3",
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll",
+   "exemplar": "aroll",
+   "start_f": 584,
+   "end_f": 721,
+   "in_f": 624,
+   "link": "a4",
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll",
+   "exemplar": "aroll",
+   "start_f": 721,
+   "end_f": 907,
+   "in_f": 771,
+   "link": "a5",
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Color mate Background",
+   "exemplar": "matte",
+   "start_f": 0,
+   "end_f": 957
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 0,
+   "end_f": 20,
+   "in_f": 3,
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Broll 1",
+   "exemplar": "broll1",
+   "start_f": 20,
+   "end_f": 40,
+   "in_s": 1237.8,
+   "file": "Mr Robot - Elliot hacking compilation.mp4",
+   "motion": {
+    "Scale": 202,
+    "Position": [
+     0.5,
+     0.44
+    ]
+   },
+   "media_key": "mrrobot"
+  },
+  {
+   "kind": "video",
+   "track": "Broll 2",
+   "exemplar": "broll1",
+   "start_f": 40,
+   "end_f": 59,
+   "in_s": 466.0,
+   "file": "Mr Robot - Elliot hacking compilation.mp4",
+   "motion": {
+    "Scale": 180,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   },
+   "media_key": "mrrobot"
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 59,
+   "end_f": 97,
+   "in_f": 62,
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 97,
+   "end_f": 131,
+   "in_f": 100,
+   "motion": {
+    "Scale": 190,
+    "Position": [
+     0.5,
+     0.56
+    ]
+   }
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 3",
+   "exemplar": "sfx_whoosh",
+   "gain_db": -15,
+   "start_f": 91,
+   "end_f": 110,
+   "in_s": 2.875
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 4",
+   "exemplar": "sfx_button",
+   "gain_db": -25,
+   "start_f": 97,
+   "end_f": 103,
+   "in_s": 1.875
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 5",
+   "exemplar": "sfx_button",
+   "gain_db": -25,
+   "start_f": 97,
+   "end_f": 103,
+   "in_s": 1.875
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_lead",
+   "title": {
+    "text": "Discord stores over",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 0,
+   "end_f": 59,
+   "motion": {
+    "Position": [
+     0.328,
+     0.415
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "a trillion messages,",
+    "style": "plain-bold",
+    "size": 100
+   },
+   "start_f": 28,
+   "end_f": 59,
+   "motion": {
+    "Position": [
+     0.5,
+     0.473
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_lead",
+   "title": {
+    "text": "and the database behind it",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 62,
+   "end_f": 131,
+   "motion": {
+    "Position": [
+     0.46,
+     0.455
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "nearly buckled.",
+    "style": "plain-bold",
+    "size": 112
+   },
+   "start_f": 100,
+   "end_f": 131,
+   "motion": {
+    "Position": [
+     0.5,
+     0.513
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 131,
+   "end_f": 166,
+   "media_key": "discord_2017",
+   "file": "r8_discord_2017.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 131,
+   "end_f": 166,
+   "media_key": "cutout",
+   "in_f": 145,
+   "motion": {
+    "Scale": 135,
+    "Position": [
+     0.5,
+     0.888
+    ],
+    "Rotation": 0
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "Back in 2017,",
+   "start_f": 131,
+   "end_f": 153
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "they moved",
+   "start_f": 153,
+   "end_f": 166
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 166,
+   "end_f": 198,
+   "media_key": "cassandra",
+   "file": "r8_cassandra.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 166,
+   "end_f": 198,
+   "media_key": "cutout",
+   "in_f": 180,
+   "motion": {
+    "Scale": 135,
+    "Position": [
+     0.33,
+     0.888
+    ],
+    "Rotation": 14
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "everything",
+   "start_f": 166,
+   "end_f": 178
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "to Cassandra.",
+   "start_f": 178,
+   "end_f": 198
+  },
+  {
+   "kind": "video",
+   "track": "Broll 1",
+   "exemplar": "broll1",
+   "start_f": 198,
+   "end_f": 234,
+   "in_s": 415.0,
+   "file": "vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4",
+   "motion": {
+    "Scale": 207,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 198,
+   "end_f": 234,
+   "media_key": "cutout",
+   "in_f": 212,
+   "motion": {
+    "Scale": 135,
+    "Position": [
+     0.61,
+     0.888
+    ],
+    "Rotation": -11
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Broll 2",
+   "exemplar": "broll1",
+   "start_f": 234,
+   "end_f": 266,
+   "in_s": 409.8,
+   "file": "vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4",
+   "motion": {
+    "Scale": 207,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 234,
+   "end_f": 266,
+   "media_key": "cutout",
+   "in_f": 248,
+   "motion": {
+    "Scale": 135,
+    "Position": [
+     0.61,
+     0.888
+    ],
+    "Rotation": -11
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_lead",
+   "title": {
+    "text": "But one viral channel could pin",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 200,
+   "end_f": 266,
+   "motion": {
+    "Position": [
+     0.5,
+     0.17
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "a single node",
+    "style": "plain-bold",
+    "size": 125
+   },
+   "start_f": 248,
+   "end_f": 266,
+   "motion": {
+    "Position": [
+     0.5,
+     0.228
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 266,
+   "end_f": 313,
+   "in_f": 280,
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_lead",
+   "title": {
+    "text": "and slow down",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 266,
+   "end_f": 313,
+   "motion": {
+    "Position": [
+     0.335,
+     0.415
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "everyone else",
+    "style": "plain-bold",
+    "size": 125
+   },
+   "start_f": 285,
+   "end_f": 313,
+   "motion": {
+    "Position": [
+     0.5,
+     0.473
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 3",
+   "exemplar": "g_tail",
+   "title": {
+    "text": "on it.",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 303,
+   "end_f": 313,
+   "motion": {
+    "Position": [
+     0.72,
+     0.523
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 313,
+   "end_f": 348,
+   "media_key": "scylladb",
+   "file": "r8_scylladb.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 313,
+   "end_f": 348,
+   "media_key": "cutout",
+   "in_f": 337,
+   "motion": {
+    "Scale": 135,
+    "Position": [
+     0.5,
+     0.888
+    ],
+    "Rotation": 0
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "So they swapped in",
+   "start_f": 313,
+   "end_f": 333
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "ScyllaDB.",
+   "start_f": 333,
+   "end_f": 348
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 348,
+   "end_f": 375,
+   "media_key": "data_model",
+   "file": "r8_data_model.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 348,
+   "end_f": 375,
+   "media_key": "cutout",
+   "in_f": 372,
+   "motion": {
+    "Scale": 135,
+    "Position": [
+     0.33,
+     0.888
+    ],
+    "Rotation": 14
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "Same data model,",
+   "start_f": 350,
+   "end_f": 375
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 375,
+   "end_f": 402,
+   "media_key": "cpp",
+   "file": "r8_cpp_source.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 375,
+   "end_f": 402,
+   "media_key": "cutout",
+   "in_f": 399,
+   "motion": {
+    "Scale": 135,
+    "Position": [
+     0.61,
+     0.888
+    ],
+    "Rotation": -11
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "written in C++,",
+   "start_f": 377,
+   "end_f": 402
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 402,
+   "end_f": 449,
+   "in_f": 426,
+   "motion": {
+    "Scale": 190,
+    "Position": [
+     0.5,
+     0.56
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_lead",
+   "title": {
+    "text": "so no",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 405,
+   "end_f": 449,
+   "motion": {
+    "Position": [
+     0.3,
+     0.455
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "garbage collection",
+    "style": "plain-bold",
+    "size": 100
+   },
+   "start_f": 417,
+   "end_f": 449,
+   "motion": {
+    "Position": [
+     0.5,
+     0.513
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 3",
+   "exemplar": "g_tail",
+   "title": {
+    "text": "pauses.",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 435,
+   "end_f": 449,
+   "motion": {
+    "Position": [
+     0.72,
+     0.563
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 449,
+   "end_f": 499,
+   "media_key": "rust",
+   "file": "r8_rust.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 449,
+   "end_f": 499,
+   "media_key": "cutout",
+   "in_f": 482,
+   "motion": {
+    "Scale": 135,
+    "Position": [
+     0.5,
+     0.888
+    ],
+    "Rotation": 0
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "Then they put",
+   "start_f": 449,
+   "end_f": 466
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "a Rust service",
+   "start_f": 466,
+   "end_f": 485
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "in front",
+   "start_f": 485,
+   "end_f": 499
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 499,
+   "end_f": 543,
+   "media_key": "data_services",
+   "file": "r8_data_services.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 499,
+   "end_f": 543,
+   "media_key": "cutout",
+   "in_f": 532,
+   "motion": {
+    "Scale": 135,
+    "Position": [
+     0.33,
+     0.888
+    ],
+    "Rotation": 14
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "that merges",
+   "start_f": 499,
+   "end_f": 515
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "duplicate requests",
+   "start_f": 515,
+   "end_f": 543
+  },
+  {
+   "kind": "video",
+   "track": "Broll 1",
+   "exemplar": "broll1",
+   "start_f": 543,
+   "end_f": 584,
+   "in_s": 1257.4,
+   "file": "vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4",
+   "motion": {
+    "Scale": 198,
+    "Position": [
+     0.3,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 543,
+   "end_f": 584,
+   "media_key": "cutout",
+   "in_f": 576,
+   "motion": {
+    "Scale": 135,
+    "Position": [
+     0.61,
+     0.888
+    ],
+    "Rotation": -11
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_lead",
+   "title": {
+    "text": "before they hit",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 543,
+   "end_f": 584,
+   "motion": {
+    "Position": [
+     0.355,
+     0.17
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "the database.",
+    "style": "plain-bold",
+    "size": 125
+   },
+   "start_f": 563,
+   "end_f": 584,
+   "motion": {
+    "Position": [
+     0.5,
+     0.228
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 584,
+   "end_f": 642,
+   "in_f": 624,
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_lead",
+   "title": {
+    "text": "Reads went from as slow as",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 584,
+   "end_f": 642,
+   "motion": {
+    "Position": [
+     0.5,
+     0.415
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "125 ms",
+    "style": "plain-bold",
+    "size": 154
+   },
+   "start_f": 613,
+   "end_f": 642,
+   "motion": {
+    "Position": [
+     0.5,
+     0.473
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 642,
+   "end_f": 668,
+   "in_f": 682,
+   "motion": {
+    "Scale": 190,
+    "Position": [
+     0.5,
+     0.56
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "15 ms.",
+    "style": "plain-bold",
+    "size": 154
+   },
+   "start_f": 648,
+   "end_f": 668,
+   "motion": {
+    "Position": [
+     0.5,
+     0.51
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 668,
+   "end_f": 721,
+   "media_key": "fanout_case",
+   "file": "r8_fanout_case.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 74,
+    "Position": [
+     0.5,
+     0.523
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 668,
+   "end_f": 721,
+   "media_key": "cutout",
+   "in_f": 708,
+   "motion": {
+    "Scale": 135,
+    "Position": [
+     0.5,
+     0.888
+    ],
+    "Rotation": 0
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "Stories like this",
+   "start_f": 670,
+   "end_f": 697
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "are why I use Fanout.",
+   "start_f": 697,
+   "end_f": 721
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 721,
+   "end_f": 793,
+   "media_key": "guides",
+   "file": "r8_company_guides.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 721,
+   "end_f": 793,
+   "media_key": "cutout",
+   "in_f": 771,
+   "motion": {
+    "Scale": 135,
+    "Position": [
+     0.33,
+     0.888
+    ],
+    "Rotation": 14
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "It animates how",
+   "start_f": 721,
+   "end_f": 739
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "systems like",
+   "start_f": 739,
+   "end_f": 752
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "Netflix",
+   "start_f": 752,
+   "end_f": 760
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "and Uber",
+   "start_f": 760,
+   "end_f": 772
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "actually work,",
+   "start_f": 772,
+   "end_f": 793
+  },
+  {
+   "kind": "video",
+   "track": "Logos",
+   "exemplar": "logo_netflix",
+   "start_f": 752,
+   "end_f": 765,
+   "still": "Netflix_2015_logo",
+   "motion": {
+    "Scale": {
+     "keyframes": [
+      [
+       0,
+       0
+      ],
+      [
+       3,
+       18
+      ]
+     ]
+    },
+    "Position": [
+     0.5,
+     0.2875
+    ]
+   }
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 3",
+   "exemplar": "sfx_ting",
+   "gain_db": -10,
+   "start_f": 750,
+   "end_f": 765,
+   "in_s": 0.0
+  },
+  {
+   "kind": "video",
+   "track": "Logos",
+   "exemplar": "logo_uber",
+   "start_f": 766,
+   "end_f": 780,
+   "still": "5ij5qdSHFzJ2piPRuoTL5F",
+   "motion": {
+    "Scale": {
+     "keyframes": [
+      [
+       0,
+       0
+      ],
+      [
+       2,
+       33
+      ]
+     ]
+    },
+    "Position": [
+     0.5,
+     0.283
+    ]
+   }
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 4",
+   "exemplar": "sfx_ting",
+   "gain_db": -10,
+   "start_f": 764,
+   "end_f": 779,
+   "in_s": 0.0
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 2",
+   "exemplar": "shot_slide2",
+   "start_f": 793,
+   "end_f": 821,
+   "still": "r8_case_a.png",
+   "motion": {
+    "Scale": 70,
+    "Position": {
+     "keyframes": [
+      [
+       0,
+       [
+        0.5,
+        0.215
+       ]
+      ],
+      [
+       27,
+       [
+        0.5,
+        0.175
+       ]
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "shot_slide",
+   "start_f": 793,
+   "end_f": 821,
+   "still": "r8_case_b.png",
+   "motion": {
+    "Scale": 70,
+    "Position": {
+     "keyframes": [
+      [
+       0,
+       [
+        0.5,
+        0.585
+       ]
+      ],
+      [
+       27,
+       [
+        0.5,
+        0.545
+       ]
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 793,
+   "end_f": 821,
+   "media_key": "cutout",
+   "in_f": 843,
+   "motion": {
+    "Scale": 135,
+    "Position": [
+     0.61,
+     0.888
+    ],
+    "Rotation": -11
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "request by request.",
+   "start_f": 795,
+   "end_f": 821
+  },
+  {
+   "kind": "video",
+   "track": "Broll 1",
+   "exemplar": "broll1",
+   "start_f": 821,
+   "end_f": 865,
+   "in_s": 24.2,
+   "file": "Snowden - aptitude test.mp4",
+   "motion": {
+    "Scale": 360,
+    "Position": [
+     0.42,
+     0.5
+    ]
+   },
+   "media_key": "snowden"
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 821,
+   "end_f": 865,
+   "media_key": "cutout",
+   "in_f": 871,
+   "motion": {
+    "Scale": 135,
+    "Position": [
+     0.5,
+     0.888
+    ],
+    "Rotation": 0
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_lead",
+   "title": {
+    "text": "Before your next",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 823,
+   "end_f": 865,
+   "motion": {
+    "Position": [
+     0.3,
+     0.17
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "system design round,",
+    "style": "plain-bold",
+    "size": 100
+   },
+   "start_f": 839,
+   "end_f": 865,
+   "motion": {
+    "Position": [
+     0.5,
+     0.228
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 865,
+   "end_f": 907,
+   "in_f": 915,
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_low",
+   "text": "check out",
+   "start_f": 867,
+   "end_f": 874
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_low",
+   "text": "fanout.sh",
+   "start_f": 874,
+   "end_f": 907
+  },
+  {
+   "kind": "audio",
+   "track": "Aroll Sound",
+   "exemplar": "dialog",
+   "gain_db": 0,
+   "start_f": 0,
+   "end_f": 131,
+   "in_f": 3,
+   "link": "a0"
+  },
+  {
+   "kind": "audio",
+   "track": "Aroll Sound",
+   "exemplar": "dialog",
+   "gain_db": 0,
+   "start_f": 131,
+   "end_f": 313,
+   "in_f": 145,
+   "link": "a1"
+  },
+  {
+   "kind": "audio",
+   "track": "Aroll Sound",
+   "exemplar": "dialog",
+   "gain_db": 0,
+   "start_f": 313,
+   "end_f": 449,
+   "in_f": 337,
+   "link": "a2"
+  },
+  {
+   "kind": "audio",
+   "track": "Aroll Sound",
+   "exemplar": "dialog",
+   "gain_db": 0,
+   "start_f": 449,
+   "end_f": 584,
+   "in_f": 482,
+   "link": "a3"
+  },
+  {
+   "kind": "audio",
+   "track": "Aroll Sound",
+   "exemplar": "dialog",
+   "gain_db": 0,
+   "start_f": 584,
+   "end_f": 721,
+   "in_f": 624,
+   "link": "a4"
+  },
+  {
+   "kind": "audio",
+   "track": "Aroll Sound",
+   "exemplar": "dialog",
+   "gain_db": 0,
+   "start_f": 721,
+   "end_f": 907,
+   "in_f": 771,
+   "link": "a5"
+  },
+  {
+   "kind": "video",
+   "track": "Adjustment effects Grains & Fades",
+   "exemplar": "adj",
+   "start_f": 0,
+   "end_f": 907
+  },
+  {
+   "kind": "video",
+   "track": "Outro Animation",
+   "exemplar": "outro",
+   "start_f": 907,
+   "end_f": 957,
+   "in_s": 0,
+   "motion": {
+    "Scale": 48,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 16,
+   "end_f": 32,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 55,
+   "end_f": 71,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 127,
+   "end_f": 143,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 162,
+   "end_f": 178,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 194,
+   "end_f": 210,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 262,
+   "end_f": 278,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 309,
+   "end_f": 325,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 344,
+   "end_f": 360,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 371,
+   "end_f": 387,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 398,
+   "end_f": 414,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 445,
+   "end_f": 461,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 495,
+   "end_f": 511,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 539,
+   "end_f": 555,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 580,
+   "end_f": 596,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 664,
+   "end_f": 680,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 717,
+   "end_f": 733,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 789,
+   "end_f": 805,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 817,
+   "end_f": 833,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 861,
+   "end_f": 877,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 5",
+   "exemplar": "sfx_ui_b",
+   "gain_db": -15,
+   "start_f": 36,
+   "end_f": 40,
+   "in_s": 0.0
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 5",
+   "exemplar": "sfx_ui_b",
+   "gain_db": -15,
+   "start_f": 230,
+   "end_f": 234,
+   "in_s": 0.0
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_ui_b",
+   "gain_db": -15,
+   "start_f": 907,
+   "end_f": 911,
+   "in_s": 0.0
+  },
+  {
+   "kind": "audio",
+   "track": "Background music",
+   "exemplar": "music",
+   "gain_db": -30,
+   "start_f": 0,
+   "end_f": 957,
+   "in_s": 14.875,
+   "fade_out_f": 7
+  }
+ ]
+}

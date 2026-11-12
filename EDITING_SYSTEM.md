@@ -219,3 +219,40 @@ Plan template: `Fanout Reel 4 upgraded plan.json` (captions replaced by `caption
 ## 19. REJECTED: §18 "study upgrades" cut (2026-10-28) — hard rules
 
 Abik: "Looks slop, AI kind of edit." The generic devices (bold stroked captions, white top cards, glowing stamps, emoji badges, giant-number freezes, navy diagrams, flash, template end card) are OUT. Keep Normal UGC 1's own language only. Full never-do list: memory `hard-rules-no-slop` (also §11–§17 here). Any new graphic element needs Abik's OK before it appears in a preview.
+
+## 20. Multi-clip A-rolls with hook variants (Reels 6 and 7, 2026-11-11)
+
+Folders of generated clips (`hook A|B|C/clip_01_final.mp4`, `body/clip_NN_final.mp4`) are stitched untrimmed into one A-roll with the ffmpeg concat filter, matted once, and cut as one timeline item per clip with linked audio (handles kept). One project per hook in one `Copied_` folder. Every clip join needs a layout change. Generator: `tools/gen_reel67_plans.py`. Verify each clip's first and last frame against its source after stitching (the concat demuxer duplicated frame 0).
+
+## 21. What Abik changed in his own edit of Reels 6 and 7 (2026-11-12)
+
+Source: his `_1.prproj` files (Premiere 2027; copies in `reference/abik edits 2026-11-12/`) and his exports. These files round-trip byte-exact through `build_prproj.Project(path).save()`, so they can be edited directly or used as the reference project for new builds.
+
+### Two title styles. Ask Abik which one before every video.
+
+**A. Without background** (his Reel 7 edits; also Reel 6 hooks B and C)
+- Key phrase: SF Pro **Bold**, white, no box. Size 110–154 (125.5 most common; 145 for "real systems", 153.8 for "goes blank.").
+- Lead and tail lines: Instrument Serif **Regular**, white, 63–85 (67.6 most common).
+- Key line centred (x 0.5). Lead line above it, usually left of centre (x 0.31–0.51), about 0.05–0.06 of frame height higher. Tail line below, right of centre (x up to 0.76).
+- Exemplars in `Fanout Reel 7 - hook A_1.prproj`: key = Text Graphics 2 at 6.875 s ("goes blank."), lead = Text Graphics 1 at 6.125 s ("and your mind").
+
+**B. With background** (his Reel 6 body and hook A)
+- Key phrase: SF Pro Semibold or Medium, white, size about 90, on a **green** box (about `#1C7C08`). The reference reel's box was rose; he changed it to green.
+- Lead lines: Instrument Serif **Italic**, white, 65 (85 on the CTA line).
+- Compact: lead line sits directly above the box (about 0.05 higher), x 0.40–0.50.
+- Exemplars in `Fanout Reel 6 - hook A_1.prproj`: key = Text Graphics 3 at 2.25 s ("the hard way."), lead = Text Graphics 1 at 0 s.
+
+Both styles
+- Under the chin on full-frame beats (Vector Motion y 0.44–0.56), above the head on b-roll beats (y 0.17–0.32).
+- Lines often replace each other instead of stacking: lead line first, then a second serif line takes its place, then the key phrase lands.
+- In-animation is unchanged: Impact Text Animator (per-letter fade and push up, Distribution 32), 6–18 frames. Out is a hard cut.
+- Captions keep the green pill.
+
+### B-roll
+- Literal to the words, 2–3 shots per line, 14–24 frames each. Hooks get full-screen b-roll with no cutout and the title over it; each hook variant gets different footage. In the body b-roll sits behind the cutout; one line per video may go full-screen with no presenter.
+- Each shot is reframed (scale 169–246, x shifted) so the subject sits beside the title.
+- Never repeat a shot across videos. Library, shot catalogue, theme index and the used-shots ledger: `B-roll library/README.md`.
+
+### Framing and pacing
+- Hard punch-ins between phrases on full-frame beats: close presenter 114 → 173–214, far presenter 140 → 197–226, with the position nudged to keep the eyes in place. No zoom inside a phrase.
+- He cuts lines that slow the video ("Page three. First equation. Laptop closed." was removed) and trims dead air between sentences.

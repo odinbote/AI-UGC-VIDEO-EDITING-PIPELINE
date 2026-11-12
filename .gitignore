@@ -12,6 +12,11 @@ Fanout Reel */Copied_*/
 Fanout Reel */Media/
 Fanout Reel */*_preview.mp4
 Fanout Reel 2/*.prproj
+Fanout Reel */preview_work/
+Fanout Reel */generated/
+
+# b-roll library: copyrighted clips and thumbnails, local only
+B-roll library/
 
 # over GitHub's 100 MB limit, regenerable with tools/matte_birefnet.py
 *_cutout_alpha.mov
