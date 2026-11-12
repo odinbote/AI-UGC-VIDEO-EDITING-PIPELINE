@@ -1,0 +1,15 @@
+Discord stores over a trillion messages, and the database behind it nearly buckled.
+
+Back in 2017 they moved everything to Cassandra.
+
+But one viral channel could pin a single node and slow down everyone else on it.
+
+So they swapped in ScyllaDB. Same data model, written in C++, so no garbage-collection pauses.
+
+Then they put a Rust service in front that merges duplicate requests before they hit the database.
+
+Reads went from as slow as 125 milliseconds… to 15.
+
+Stories like this are why I use Fanout. It animates how systems like Netflix and Uber actually work, request by request.
+
+Before your next system design round, check out Fanout.sh.
