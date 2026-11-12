@@ -1,0 +1,15 @@
+Most software engineers are learning AI the hard way.
+
+A YouTube video on transformers, a paper you save for later, and forty tabs you never close.
+
+But the video skips the part the paper assumes you already know. So you open the paper anyway.
+
+Page three. First equation. Laptop closed.
+
+The problem isn't you. It's the order you're learning it in.
+
+Fanout flips the order. Its AI Research archive walks you through the ideas behind a paper before you read it.
+
+So by page three, you already know what the equation is doing.
+
+Next time a paper lands in your team chat, open it on Fanout.sh first.

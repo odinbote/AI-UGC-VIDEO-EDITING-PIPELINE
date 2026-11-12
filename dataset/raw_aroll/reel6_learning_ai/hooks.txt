@@ -1,0 +1,3 @@
+A: Most software engineers are learning AI the hard way.
+B: Watching more AI tutorials is exactly why you still don't get transformers.
+C: Most engineers learn AI top-down. The ones who get it start from the paper.
