@@ -59,6 +59,43 @@
     "eased hook push-in with whoosh",
     "no identical screen moves back to back"
    ]
+  },
+  {
+   "file": "generated_previews/reel5_preview.mp4",
+   "plan": "../Fanout Reel 5 plan.json",
+   "verdict": "accepted: after the preview Abik asked for the project file (2026-11-09)",
+   "feedback": []
+  },
+  {
+   "file": [
+    "generated_previews/reel6_hook_A_preview.mp4",
+    "generated_previews/reel6_hook_B_preview.mp4",
+    "generated_previews/reel6_hook_C_preview.mp4",
+    "generated_previews/reel7_hook_A_preview.mp4",
+    "generated_previews/reel7_hook_B_preview.mp4",
+    "generated_previews/reel7_hook_C_preview.mp4"
+   ],
+   "plan": "../Fanout Reel 6 - hook A|B|C plan.json, ../Fanout Reel 7 - hook A|B|C plan.json",
+   "verdict": "accepted as a base (\"ok give me the project files\"), then re-edited by Abik in Premiere on 2026-11-12",
+   "human_edit": {
+    "projects": "../reference/abik edits 2026-11-12/*_1.prproj",
+    "exports": "human_finals/Fanout_Reel_6_hook_*_human_final.mp4, human_finals/Fanout_Reel_7_hook_*_human_final.mp4"
+   },
+   "what_the_human_changed": [
+    "b-roll made literal to the words, 2-3 shots of 14-24 frames per line, also inside the hooks, different footage per hook variant",
+    "b-roll reframed per shot so the subject sits beside the title",
+    "title style changed: key phrase SF Pro Bold white with no box (Reel 7) or SF Pro on a green box (Reel 6), lead lines Instrument Serif at about 65-68",
+    "hard punch-ins between phrases on full-frame beats",
+    "lines removed for pace (\"Page three. First equation. Laptop closed.\") and dead air trimmed",
+    "instruction that followed: never reuse a b-roll shot across videos; ask which title style before every video"
+   ]
+  },
+  {
+   "file": "generated_previews/reel8_preview.mp4",
+   "plan": "../Fanout Reel 8 plan.json",
+   "verdict": "sent 2026-11-12, no verdict recorded",
+   "feedback": [],
+   "note": "first build using the learnings above: Abik's Reel 7 hook A project as the reference, no-background titles, library b-roll"
   }
  ]
 }

@@ -52,6 +52,15 @@ The repo was filled through GitHub's browser uploader, which carries at most 10 
 
 Everything else (`raw_aroll/reel2_veo31_take3.mp4`, the page recordings, project files, stills, text data) is the original file.
 
+## Reels 5 to 8 (added 2026-11-12)
+
+- `raw_aroll/reel5_cut2.mp4`; `raw_aroll/reel6_learning_ai/`, `reel7_system_design/` (three hooks + body clips each), `reel8_discord/` (six clips). Clips are the generated takes as delivered.
+- `generated_previews/reel5_preview.mp4`, `reel6_hook_A|B|C_preview.mp4`, `reel7_hook_A|B|C_preview.mp4`, `reel8_preview.mp4`.
+- `generated_packages/reel5|6|7|8/`: project files, FCP7 XML, captions.
+- **Human re-edit of Reels 6 and 7:** Abik's edited Premiere projects are in `../reference/abik edits 2026-11-12/` (six `_1.prproj`), his exports in `human_finals/Fanout_Reel_6|7_hook_A|B|C_human_final.mp4`. Diffing each `_1.prproj` against the generated project of the same name in `generated_packages/` gives the exact human corrections; they are summarised in `labels.json` and in `../EDITING_SYSTEM.md` §21.
+- `page_recordings/reel5|6|7|8/` are half-resolution H.264 proxies (764 px wide) of the ProRes recordings; `page_stills/reel5|6|7|8/` are the stills at full size.
+- Large videos in this batch are web copies too (two-pass H.264 at the original resolution and frame rate, about 9 MB each): `reel5_cut2.mp4`, all eight previews and the six human finals.
+
 ## What is not here
 
 See `excluded_third_party.md`. In short: licensed music and sound effects, movie clips, other creators' ad videos, third-party logos, and the cutout mattes are not published. The finished renders (`human_finals/`, `generated_previews/`, `reference_edit/AI_UGC_1_human_final.mp4`) do contain the music bed at low level and a few seconds of movie b-roll, as any exported reel does.
