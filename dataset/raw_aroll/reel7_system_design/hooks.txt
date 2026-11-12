@@ -1,0 +1,3 @@
+A: Stop winging your system design.
+B: You don't fail system design rounds because you don't know Kafka.
+C: Junior engineers draw boxes. Senior engineers explain why the boxes break.

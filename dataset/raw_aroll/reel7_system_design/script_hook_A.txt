@@ -1,0 +1,15 @@
+Stop winging your system design.
+
+You've shipped real systems for years. Then someone says "design YouTube" and your mind goes blank.
+
+But it's not that you don't know the parts. You know Kafka, caches, load balancers.
+
+You've just never watched them work together under load. So you draw boxes and hope.
+
+And the interviewer can tell the second they ask, "what happens when this fails?"
+
+That's the part Fanout shows. You watch how systems at Netflix and Uber actually work, piece by piece, in interactive animations.
+
+You've built systems. Now you can explain them.
+
+If your design round is this month, check out Fanout.sh before it.
