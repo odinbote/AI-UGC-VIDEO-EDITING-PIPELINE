@@ -5,3 +5,7 @@
 - [Reel feedback, first build](reel-feedback-first-build.md) — preview before project; content from script; never cover face; music −30 dB; outro must finish
 - [Style "Normal UGC 1"](style-normal-ugc-1.md) — the named approved reel style; trigger word for A-roll + script edits
 - [UGC reference styles](ugc-reference-styles.md) — 21-ad study findings, five named styles to build, improvement queue for Normal UGC 1
+- [Multi-clip hook variants](multi-clip-hook-variants.md) — 2026-11-11: hooks A/B/C + body folders → stitched A-roll, one clip per item, one project per hook; tools/gen_reel67_plans.py; Reels 6 and 7
+- [Abik's Reel 6/7 edits: b-roll and style](abik-edits-reel-6-7-broll-style.md) — 2026-11-12: b-roll literal to the line, fast cuts, in hooks too, different per video; bold white titles; punch-ins between phrases; _1.prproj editable directly
+- [ASK FIRST: title style](ask-title-style-every-video.md) — RULE 2026-11-12: before every video ask "background type of text or without background?"; numbers for both styles
+- [B-roll library](broll-library.md) — movies/TV/stock clips + shot catalogue + theme index + used-shots ledger at `B-roll library/`; never repeat a shot across videos
