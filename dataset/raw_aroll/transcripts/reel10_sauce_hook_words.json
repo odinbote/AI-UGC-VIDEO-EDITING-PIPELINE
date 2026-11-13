@@ -1,0 +1,132 @@
+{
+ "model": "mlx-community/whisper-large-v3-turbo (word_timestamps)",
+ "unit": "seconds",
+ "note": "single take, 24 fps working copy; word starts are approximate, pause cuts were placed with ffmpeg silencedetect",
+ "words": [
+  {
+   "w": "I'm",
+   "s": 0.52,
+   "e": 0.74
+  },
+  {
+   "w": "about",
+   "s": 0.74,
+   "e": 0.92
+  },
+  {
+   "w": "to",
+   "s": 0.92,
+   "e": 1.1
+  },
+  {
+   "w": "reveal",
+   "s": 1.1,
+   "e": 1.42
+  },
+  {
+   "w": "some",
+   "s": 1.42,
+   "e": 1.7
+  },
+  {
+   "w": "sauce",
+   "s": 1.7,
+   "e": 2.16
+  },
+  {
+   "w": "for",
+   "s": 2.16,
+   "e": 2.42
+  },
+  {
+   "w": "engineers",
+   "s": 2.42,
+   "e": 2.94
+  },
+  {
+   "w": "that's",
+   "s": 2.94,
+   "e": 3.5
+  },
+  {
+   "w": "not",
+   "s": 3.5,
+   "e": 3.66
+  },
+  {
+   "w": "out",
+   "s": 3.66,
+   "e": 3.84
+  },
+  {
+   "w": "there.",
+   "s": 3.84,
+   "e": 4.12
+  },
+  {
+   "w": "This",
+   "s": 4.26,
+   "e": 4.4
+  },
+  {
+   "w": "is",
+   "s": 4.4,
+   "e": 4.52
+  },
+  {
+   "w": "all",
+   "s": 4.52,
+   "e": 4.74
+  },
+  {
+   "w": "you",
+   "s": 4.74,
+   "e": 4.9
+  },
+  {
+   "w": "need",
+   "s": 4.9,
+   "e": 5.06
+  },
+  {
+   "w": "to",
+   "s": 5.06,
+   "e": 5.18
+  },
+  {
+   "w": "know",
+   "s": 5.18,
+   "e": 5.38
+  },
+  {
+   "w": "to",
+   "s": 5.38,
+   "e": 5.62
+  },
+  {
+   "w": "actually",
+   "s": 5.62,
+   "e": 6.08
+  },
+  {
+   "w": "become",
+   "s": 6.08,
+   "e": 6.4
+  },
+  {
+   "w": "a",
+   "s": 6.4,
+   "e": 6.6
+  },
+  {
+   "w": "senior",
+   "s": 6.6,
+   "e": 6.84
+  },
+  {
+   "w": "engineer.",
+   "s": 6.84,
+   "e": 7.24
+  }
+ ]
+}
