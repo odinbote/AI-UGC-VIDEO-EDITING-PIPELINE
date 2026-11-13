@@ -1,0 +1,693 @@
+SEQUENCE: IliiUD5WCcn_Eb6udsbzeg  fps=23.9748  frame=0,0,1080,1920
+
+==================== VIDEO TRACKS ====================
+
+--- V1  ''  (20 clips)
+    0.000s (f   0) →   2.377s (f  57)  dur  2.377s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 0.000–2.377
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.5
+         Scale=100. KF[-3600.000s (f-86309)→100. interp0 | -3599.416s (f-86295)→116. interp5]
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+    2.377s (f  57) →   3.379s (f  81)  dur  1.001s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 2.377–3.379
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.39947918057441711
+         Scale=168.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+    6.298s (f 151) →   8.676s (f 208)  dur  2.377s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 6.882–9.260
+      [Motion] (AE.ADBE Motion)
+         Position=0.44999998807907104:0.33229166269302368
+         Scale=146.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+    8.676s (f 208) →  10.636s (f 255)  dur  1.960s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 9.427–11.387
+   10.636s (f 255) →  12.763s (f 306)  dur  2.127s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 11.846–13.973
+      [Motion] (AE.ADBE Motion)
+         Position=0.47499999403953552:0.39531248807907104
+         Scale=159.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+   13.973s (f 335) →  15.099s (f 362)  dur  1.126s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 15.641–16.768
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.41458332538604736
+         Scale=139.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+   15.099s (f 362) →  17.518s (f 420)  dur  2.419s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 16.768–19.187
+   17.518s (f 420) →  19.479s (f 467)  dur  1.960s  'AI UGC Manual Edits Linked Comp 03/AI UGC manual Edits.aep'  src 0.000–1.960
+   19.479s (f 467) →  21.147s (f 507)  dur  1.668s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 21.439–23.108
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.3828125
+         Scale=144.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+   21.147s (f 507) →  23.650s (f 567)  dur  2.503s  'AI UGC Manual Edits Linked Comp 04/AI UGC manual Edits.aep'  src 0.000–2.503
+   23.650s (f 567) →  24.484s (f 587)  dur  0.834s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 26.027–26.861
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.3854166567325592
+         Scale=144.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+   24.484s (f 587) →  26.152s (f 627)  dur  1.668s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 26.861–28.530
+   26.152s (f 627) →  27.571s (f 661)  dur  1.418s  'AI UGC Manual Edits Linked Comp 05/AI UGC manual Edits.aep'  src 0.000–1.418
+   27.571s (f 661) →  28.947s (f 694)  dur  1.376s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 30.240–31.616
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.38333332538604736
+         Scale=130.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+   28.947s (f 694) →  29.948s (f 718)  dur  1.001s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 31.616–32.618
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.38333332538604736
+         Scale=130.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+   29.948s (f 718) →  31.325s (f 751)  dur  1.376s  'AI UGC Manual Edits Linked Comp 06/AI UGC manual Edits.aep'  src 0.000–1.376
+   31.325s (f 751) →  33.911s (f 813)  dur  2.586s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 34.286–36.872
+   33.911s (f 813) →  35.662s (f 855)  dur  1.752s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 37.122–38.874
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.37187498807907104
+         Scale=128.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+   35.662s (f 855) →  36.455s (f 874)  dur  0.792s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 38.874–39.667
+      [Motion] (AE.ADBE Motion)
+         Position=0.46296295523643494:0.37187498807907104
+         Scale=166.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+   36.455s (f 874) →  38.666s (f 927)  dur  2.211s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 39.667–41.877
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.37187498807907104
+         Scale=128.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+
+--- V2  ''  (6 clips)
+    3.337s (f  80) →   6.298s (f 151)  dur  2.961s  'AI UGC Manual Edits Linked Comp 01/AI UGC manual Edits.aep'  src 0.167–3.128
+    8.676s (f 208) →  10.636s (f 255)  dur  1.960s  'vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4'  src 1048.224–1050.184
+      [Motion] (AE.ADBE Motion)
+         Position=0.82870370149612427:0.5 KF[-2551.317s (f-61167)→0.82870370149612427:0.5 interp5 | -2550.149s (f-61139)→-0.011111111380159855:0.5 interp5]
+         Scale=182.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+   12.763s (f 306) →  14.223s (f 341)  dur  1.460s  'AI UGC Manual Edits Linked Comp 02/AI UGC manual Edits.aep'  src 0.000–1.460
+   24.484s (f 587) →  26.152s (f 627)  dur  1.668s  'r9_attention.mov'  src 0.000–1.668
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.58391666412353516
+         Scale=98.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+   31.325s (f 751) →  33.911s (f 813)  dur  2.586s  'Color Matte'  src 3599.941–3602.527
+   36.455s (f 874) →  41.669s (f 999)  dur  5.214s  'Color Matte'  src 3600.150–3605.364
+
+--- V3  ''  (9 clips)
+    0.000s (f   0) →   0.959s (f  23)  dur  0.959s  'Graphic'  src 3599.983–3600.942
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.42592592537403107:0.55052084103226662
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.25558313727378845:0.12150838226079941
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=-1.
+         end=-1.
+    2.377s (f  57) →   3.337s (f  80)  dur  0.959s  'Graphic'  src 3599.983–3600.942
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.39259257912635803:1.0135416351258755
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.25558313727378845:0.12150838226079941
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=6.
+         end=6.
+    4.463s (f 107) →   4.922s (f 118)  dur  0.459s  'Graphic'  src 3599.983–3600.442
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.59166667610406876:0.60624998807907104
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.25558313727378845:0.12150838226079941
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=2.
+         end=2.
+    6.298s (f 151) →   7.591s (f 182)  dur  1.293s  'r9_youtube.mov'  src 0.000–1.293
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.5
+         Scale=70.800003051758
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+    7.591s (f 182) →   8.676s (f 208)  dur  1.084s  'r9_blogs.mov'  src 0.000–1.084
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.5
+         Scale=70.800003051758
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+   24.484s (f 587) →  26.152s (f 627)  dur  1.668s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 26.861–28.530
+      [Opacity] (AE.ADBE Opacity)
+         Opacity=100.
+         Blend Mode=18
+         Blend Mode=0
+      [Motion] (AE.ADBE Motion)
+         Position=0.60092592239379883:0.69999998807907104
+         Scale=81.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+   31.325s (f 751) →  33.911s (f 813)  dur  2.586s  'Screen Recording 2026-11-13 at 12.33.43 PM.mov'  src 4.713–7.299
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.43906250596046448
+         Scale=88.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+   36.455s (f 874) →  37.164s (f 891)  dur  0.709s  'Graphic'  src 3600.108–3600.817
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.32991178799420595:0.51774470758391544
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=3.
+         end=3.
+   38.666s (f 927) →  41.669s (f 999)  dur  3.003s  'fanout-loader-alpha-prores4444 (1).mov'  src 0.000–3.003
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.5
+         Scale=44.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+
+--- V4  ''  (7 clips)
+    0.209s (f   5) →   0.959s (f  23)  dur  0.751s  'Graphic'  src 3599.983–3600.734
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.53425925970077515:0.55052084103226662
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.25558313727378845:0.12150838226079941
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=5.
+         end=5.
+    2.503s (f  60) →   3.337s (f  80)  dur  0.834s  'Graphic'  src 3599.983–3600.817
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.39259257912635803:1.0604166708653793
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.25558313727378845:0.12150838226079941
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=3.
+         end=3.
+    4.630s (f 111) →   4.922s (f 118)  dur  0.292s  'Graphic'  src 3599.983–3600.275
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.67314816266298294:0.60624998807907104
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.25558313727378845:0.12150838226079941
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=8.
+         end=8.
+    6.298s (f 151) →   8.676s (f 208)  dur  2.377s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 6.882–9.260
+      [Opacity] (AE.ADBE Opacity)
+         Opacity=100.
+         Blend Mode=18
+         Blend Mode=0
+      [Motion] (AE.ADBE Motion)
+         Position=0.35740742087364197:0.70989584922790527
+         Scale=105.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+   15.099s (f 362) →  17.518s (f 420)  dur  2.419s  'r9_company_guides.mov'  src 0.000–2.419
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.5
+         Scale=70.800003051758
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+   31.325s (f 751) →  33.911s (f 813)  dur  2.586s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 34.286–36.872
+      [Opacity] (AE.ADBE Opacity)
+         Opacity=100.
+         Blend Mode=18
+         Blend Mode=0
+      [Motion] (AE.ADBE Motion)
+         Position=0.60833334922790527:0.70520836114883423
+         Scale=91.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+   37.164s (f 891) →  37.873s (f 908)  dur  0.709s  'Graphic'  src 3599.983–3600.692
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.31442725658416748:0.51774470758391544
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=10.
+         end=10.
+
+--- V5  ''  (4 clips)
+    0.375s (f   9) →   0.959s (f  23)  dur  0.584s  'Graphic'  src 3599.983–3600.567
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.74444442987442017:0.55052084103226662
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.25558313727378845:0.12150838226079941
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=2.
+         end=2.
+    2.669s (f  64) →   3.337s (f  80)  dur  0.667s  'Graphic'  src 3599.983–3600.650
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.39259257912635803:1.1026041231816635
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.25558313727378845:0.12150838226079941
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=3.
+         end=3.
+    4.922s (f 118) →   6.298s (f 151)  dur  1.376s  'Graphic'  src 3599.983–3601.359
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.47962960554286838:0.54479164257645607
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [CompoundComponent] (None)
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.25558313727378845:0.12150838226079941
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=6.
+         end=6.
+   37.873s (f 908) →  38.666s (f 927)  dur  0.792s  'Graphic'  src 3599.983–3600.775
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.29941639304161072:0.51774470758391544
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         end=12.
+
+--- V6  ''  (4 clips)
+    0.542s (f  13) →   0.959s (f  23)  dur  0.417s  'Graphic'  src 3599.983–3600.400
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.55185186862945557:0.60260415449738503
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.12048210098873824:0.16249999403953552
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=-1.
+         end=-1.
+    3.003s (f  72) →   3.337s (f  80)  dur  0.334s  'Graphic'  src 3599.983–3600.317
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.39259257912635803:1.1421874724328518
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.25558313727378845:0.12150838226079941
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=5.
+         end=5.
+    5.214s (f 125) →   6.298s (f 151)  dur  1.084s  'Graphic'  src 3599.983–3601.067
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.76111111743375659:0.54479164257645607
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.25558313727378845:0.12150838226079941
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+   15.099s (f 362) →  17.518s (f 420)  dur  2.419s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 16.768–19.187
+      [Opacity] (AE.ADBE Opacity)
+         Opacity=100.
+         Blend Mode=18
+         Blend Mode=0
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.70833331346511841
+         Scale=103.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+
+--- V7  ''  (4 clips)
+    0.959s (f  23) →   2.377s (f  57)  dur  1.418s  'Graphic'  src 3599.983–3601.401
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.38240739703178406:0.5703125037252903
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.25558313727378845:0.12150838226079941
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=4.
+         end=4.
+    5.339s (f 128) →   6.298s (f 151)  dur  0.959s  'Graphic'  src 3599.983–3600.942
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.41203704476356506:0.75364584103226662
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.20790433883666992:0.013020833022892475
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         end=6.
+   15.099s (f 362) →  15.600s (f 374)  dur  0.501s  'Netflix_2015_logo.svg.webp'  src 3599.983–3600.483
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.28749999999999998
+         Scale=0. KF[  0.000s (f   0)→0. interp0 |   0.125s (f   3)→18. interp5]
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+   15.600s (f 374) →  16.100s (f 386)  dur  0.501s  '5ij5qdSHFzJ2piPRuoTL5F.jpg'  src 3599.983–3600.483
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.28299999999999997
+         Scale=0. KF[  0.000s (f   0)→0. interp0 |   0.083s (f   2)→33. interp5]
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Invert] (AE.ADBE Invert)
+      [Luma Key] (AE.ADBE Legacy Key Luma)
+         Threshold=100.
+
+--- V8  ''  (2 clips)
+    1.210s (f  29) →   2.377s (f  57)  dur  1.168s  'Graphic'  src 3599.983–3601.151
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.79444443434476852:0.5703125037252903
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.25558313727378845:0.12150838226079941
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=5.
+         end=5.
+    5.714s (f 137) →   6.298s (f 151)  dur  0.584s  'Graphic'  src 3599.983–3600.567
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.41203704476356506:0.81927085667848587
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.20790433883666992:0.013020833022892475
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=-1.
+         end=-1.
+
+--- V9  ''  (3 clips)
+    1.627s (f  39) →   2.377s (f  57)  dur  0.751s  'Graphic'  src 3599.983–3600.734
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=1.0064814612269402:0.5703125037252903
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.25558313727378845:0.12150838226079941
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=3.
+         end=3.
+    5.339s (f 128) →   6.298s (f 151)  dur  0.959s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 5.714–6.674
+      [Opacity] (AE.ADBE Opacity)
+         Opacity=100.
+         Blend Mode=18
+         Blend Mode=0
+    9.301s (f 223) →  10.636s (f 255)  dur  1.335s  'Graphic'  src 3599.983–3601.318
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.21944443881511688:0.4739583432674408
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.125:0.37135419249534607
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=-1.
+         end=-1.
+
+--- V10  ''  (2 clips)
+    1.752s (f  42) →   2.377s (f  57)  dur  0.626s  'Graphic'  src 3599.983–3600.609
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.41203704476356506:0.74479169026017189
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.20790433883666992:0.013020833022892475
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=-1.
+         end=-1.
+   35.662s (f 855) →  36.455s (f 874)  dur  0.792s  'fanout-loader-alpha-prores4444 (1).mov'  src 0.000–1.585 SPEED 200%
+      [Motion] (AE.ADBE Motion)
+         Position=0.5:0.66666668653488159
+         Scale=44.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Tint] (AE.ADBE Tint)
+         Map Black To=18374718365995376128
+         Map White To=280379743338240
+         Amount to Tint=100.
+
+--- V11  ''  (1 clips)
+    9.593s (f 230) →  10.636s (f 255)  dur  1.043s  'Graphic'  src 3599.983–3601.026
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.5:0.47760418057441711
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.125:0.37135419249534607
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+         start=16.
+         end=16.
+
+--- V12  ''  (1 clips)
+    9.969s (f 239) →  10.636s (f 255)  dur  0.667s  'Graphic'  src 3599.983–3600.650
+      [Vector Motion] (AE.ADBE Graphic Group)
+         Position=0.5:0.55677083134651184
+         Scale=100.
+         Scale Width=100.
+         Anchor Point=0.5:0.5
+      [Text] (AE.ADBE Text)
+         Source Text=None
+         Position=0.125:0.37135419249534607
+         Scale=100.
+         Horizontal Scale=100.
+         Opacity=100.
+         Anchor Point=0:0
+
+--- V13  ''  (0 clips)
+
+==================== AUDIO TRACKS ====================
+
+--- A1  ''  (12 clips)
+    0.000s (f   0) →   2.377s (f  57)  dur  2.377s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 0.000–2.377
+    2.377s (f  57) →   3.545s (f  85)  dur  1.168s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 2.377–3.545
+    6.131s (f 147) →   8.843s (f 212)  dur  2.711s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 6.715–9.427
+   10.386s (f 249) →  12.972s (f 311)  dur  2.586s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 11.595–14.182
+   17.935s (f 430) →  19.479s (f 467)  dur  1.543s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 19.896–21.439
+   19.479s (f 467) →  21.272s (f 510)  dur  1.794s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 21.439–23.233
+   21.523s (f 516) →  23.650s (f 567)  dur  2.127s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 23.900–26.027
+   23.650s (f 567) →  24.484s (f 587)  dur  0.834s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 26.027–26.861
+   24.484s (f 587) →  26.152s (f 627)  dur  1.668s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 26.861–28.530
+   26.152s (f 627) →  26.778s (f 642)  dur  0.626s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 28.530–29.156
+   30.240s (f 725) →  31.325s (f 751)  dur  1.084s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 33.201–34.286
+   31.325s (f 751) →  33.994s (f 815)  dur  2.669s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 34.286–36.955
+
+--- A2  ''  (14 clips)
+    3.170s (f  76) →   5.339s (f 128)  dur  2.169s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 3.545–5.714
+    5.339s (f 128) →   6.340s (f 152)  dur  1.001s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 5.714–6.715
+    8.676s (f 208) →  10.845s (f 260)  dur  2.169s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 9.427–11.595
+   13.973s (f 335) →  15.099s (f 362)  dur  1.126s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 15.641–16.768
+   15.099s (f 362) →  17.518s (f 420)  dur  2.419s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 16.768–19.187
+   17.518s (f 420) →  18.227s (f 437)  dur  0.709s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 19.187–19.896
+   21.147s (f 507) →  21.815s (f 523)  dur  0.667s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 23.233–23.900
+   26.486s (f 635) →  27.571s (f 661)  dur  1.084s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 29.156–30.240
+   27.571s (f 661) →  28.947s (f 694)  dur  1.376s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 30.240–31.616
+   28.947s (f 694) →  29.948s (f 718)  dur  1.001s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 31.616–32.618
+   29.948s (f 718) →  30.532s (f 732)  dur  0.584s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 32.618–33.201
+   33.744s (f 809) →  35.662s (f 855)  dur  1.919s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 36.955–38.874
+   35.662s (f 855) →  36.330s (f 871)  dur  0.667s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 38.874–39.541
+   36.330s (f 871) →  38.666s (f 927)  dur  2.336s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 39.541–41.877
+
+--- A3  ''  (5 clips)
+    6.131s (f 147) →   6.799s (f 163)  dur  0.667s  'ES_Mechanical, Click, Buttons, Switches, Mixed, Antique, Special, Clicks - Epidemic Sound.mp3'  src 2.419–3.087
+   12.763s (f 306) →  14.223s (f 341)  dur  1.460s  'IliiUD5WCcn_Eb6udsbzeg.mp4'  src 14.182–15.641
+   19.228s (f 461) →  19.896s (f 477)  dur  0.667s  'ES_Mechanical, Click, Buttons, Switches, Mixed, Antique, Special, Clicks - Epidemic Sound.mp3'  src 2.419–3.087
+   24.275s (f 582) →  24.943s (f 598)  dur  0.667s  'ES_Mechanical, Click, Buttons, Switches, Mixed, Antique, Special, Clicks - Epidemic Sound.mp3'  src 2.419–3.087
+   31.158s (f 747) →  31.825s (f 763)  dur  0.667s  'ES_Mechanical, Click, Buttons, Switches, Mixed, Antique, Special, Clicks - Epidemic Sound.mp3'  src 2.419–3.087
+
+--- A4  ''  (1 clips)
+    0.000s (f   0) →  40.876s (f 980)  dur 40.876s  'Every Living Breathing Moment.mp3'  src 19.854–60.730
+      [AudioFilterComponent] (None)
+         Level=0.177827939391 KF[-3574.577s (f-85700)→0.324233442545 interp0 | -3574.017s (f-85686)→0.271835893393 interp0 | -3573.270s (f-85669)→0.177827939391 interp0]
+      [AudioFilterComponent] (None)
+         Left=0.177827939391
+         Right=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+         None=0.177827939391
+
+--- A5  ''  (3 clips)
+    2.044s (f  49) →   2.836s (f  68)  dur  0.792s  'ES_Swooshes, Whoosh, Airy, Light 03 - Epidemic Sound.mp3'  src 2.878–3.671
+   14.932s (f 358) →  15.600s (f 374)  dur  0.667s  'ES_Mechanical, Click, Buttons, Switches, Mixed, Antique, Special, Clicks - Epidemic Sound.mp3'  src 2.419–3.087
+   35.496s (f 851) →  36.163s (f 867)  dur  0.667s  'ES_Mechanical, Click, Buttons, Switches, Mixed, Antique, Special, Clicks - Epidemic Sound.mp3'  src 2.419–3.087
+
+--- A6  ''  (2 clips)
+    2.294s (f  55) →   2.544s (f  61)  dur  0.250s  'ES_Mechanical, Click, Miniature Button, Multiple Pushes - Epidemic Sound.mp3'  src 1.877–2.127
+   15.433s (f 370) →  16.100s (f 386)  dur  0.667s  'ES_Mechanical, Click, Buttons, Switches, Mixed, Antique, Special, Clicks - Epidemic Sound.mp3'  src 2.419–3.087
+
+--- A7  ''  (2 clips)
+    2.294s (f  55) →   2.544s (f  61)  dur  0.250s  'ES_Mechanical, Click, Miniature Button, Multiple Pushes - Epidemic Sound.mp3'  src 1.877–2.127
+   15.099s (f 362) →  15.725s (f 377)  dur  0.626s  'ES_User Interface, Misc, Pings, Tings, Generic, High, Tings - Epidemic Sound.mp3'  src 0.000–0.626
+
+--- A8  ''  (2 clips)
+    3.462s (f  83) →   4.838s (f 116)  dur  1.376s  'Denis Liudkevich - Delicate Antiques - Adjusting Ratchet Mech.wav'  src 0.000–0.826 SPEED 60%
+   15.600s (f 374) →  16.225s (f 389)  dur  0.626s  'ES_User Interface, Misc, Pings, Tings, Generic, High, Tings - Epidemic Sound.mp3'  src 0.000–0.626
+
+--- A9  ''  (1 clips)
+    3.379s (f  81) →   4.672s (f 112)  dur  1.293s  'Unrealsfx - Dramatic Clocks Vol 2 - Rotating Dials Clock Mechanism Beat.wav'  src 0.459–1.752
+
+==================== CAPTIONS 'None' ====================
+    6.298s (f 151) →   6.799s (f 163)  dur  0.501s  ['SFPro-Medium', 'I searched']
+    6.799s (f 163) →   7.383s (f 177)  dur  0.584s  ['SFPro-Medium', 'YouTube,']
+    7.383s (f 177) →   8.008s (f 192)  dur  0.626s  ['SFPro-Medium', 'I read a bunch']
+    8.008s (f 192) →   8.676s (f 208)  dur  0.667s  ['SFPro-Medium', 'of blogs.']
+    8.676s (f 208) →   9.301s (f 223)  dur  0.626s  ['SFPro-Medium', 'I even asked']
+   10.636s (f 255) →  11.178s (f 268)  dur  0.542s  ['SFPro-Medium', 'and I found out']
+   11.178s (f 268) →  11.554s (f 277)  dur  0.375s  ['SFPro-Medium', 'what you']
+   11.554s (f 277) →  12.138s (f 291)  dur  0.584s  ['SFPro-Medium', 'actually need']
+   12.138s (f 291) →  12.763s (f 306)  dur  0.626s  ['SFPro-Medium', 'to learn']
+   14.223s (f 341) →  14.432s (f 346)  dur  0.209s  ['SFPro-Medium', "That's how"]
+   14.432s (f 346) →  15.099s (f 362)  dur  0.667s  ['SFPro-Medium', 'apps like']
+   15.099s (f 362) →  15.349s (f 368)  dur  0.250s  ['SFPro-Medium', 'Netflix']
+   15.349s (f 368) →  15.933s (f 382)  dur  0.584s  ['SFPro-Medium', 'and Uber']
+   15.933s (f 382) →  16.768s (f 402)  dur  0.834s  ['SFPro-Medium', 'handle millions']
+   16.768s (f 402) →  17.518s (f 420)  dur  0.751s  ['SFPro-Medium', 'of people.']
+   19.479s (f 467) →  20.063s (f 481)  dur  0.584s  ['SFPro-Medium', 'starting from']
+   20.063s (f 481) →  21.147s (f 507)  dur  1.084s  ['SFPro-Medium', 'the very basics.']
+   23.650s (f 567) →  24.484s (f 587)  dur  0.834s  ['SFPro-Medium', 'for example.']
+   24.484s (f 587) →  25.485s (f 611)  dur  1.001s  ['SFPro-Medium', 'Attention is all']
+   25.485s (f 611) →  26.152s (f 627)  dur  0.667s  ['SFPro-Medium', 'you need']
+   27.571s (f 661) →  28.196s (f 676)  dur  0.626s  ['SFPro-Medium', 'which is how']
+   28.196s (f 676) →  28.864s (f 692)  dur  0.667s  ['SFPro-Medium', 'AI models']
+   28.864s (f 692) →  29.948s (f 718)  dur  1.084s  ['SFPro-Medium', 'actually run.']
+   31.325s (f 751) →  32.034s (f 768)  dur  0.709s  ['SFPro-Medium', 'which is building']
+   32.034s (f 768) →  32.826s (f 787)  dur  0.792s  ['SFPro-Medium', 'real products']
+   32.826s (f 787) →  33.911s (f 813)  dur  1.084s  ['SFPro-Medium', 'with those models.']
+   33.911s (f 813) →  34.453s (f 826)  dur  0.542s  ['SFPro-Medium', 'And you can find']
+   34.453s (f 826) →  35.037s (f 840)  dur  0.584s  ['SFPro-Medium', 'all of these']
+   35.037s (f 840) →  35.662s (f 855)  dur  0.626s  ['SFPro-Medium', 'only on']
