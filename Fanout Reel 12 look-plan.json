@@ -1,0 +1,800 @@
+{
+ "aroll": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 12/Media/sauce full aroll.mp4",
+ "matte_dir": "/private/tmp/claude-501/-Users-abiknewar-Work-Claude-Editing-2/50ae89ed-a5e9-41ec-bd82-530f1b1ca78b/scratchpad/r12/frames",
+ "covers": [
+  "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316766.png",
+  "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316747.png",
+  "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316748.png",
+  "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316749.png",
+  "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316775.png"
+ ],
+ "man": "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/",
+ "loader": "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/fanout-loader-alpha-prores4444 (1).mov",
+ "beats": [
+  {
+   "type": "pres",
+   "src": [
+    2,
+    55
+   ],
+   "scale": {
+    "kf": [
+     [
+      0,
+      100
+     ],
+     [
+      14,
+      114
+     ]
+    ]
+   },
+   "pos": {
+    "kf": [
+     [
+      0,
+      [
+       0.5,
+       0.5
+      ]
+     ],
+     [
+      14,
+      [
+       0.5,
+       0.54
+      ]
+     ]
+    ]
+   },
+   "words": [
+    {
+     "text": "reveal",
+     "style": "key",
+     "x": 0.5,
+     "align": "c",
+     "y": 0.266,
+     "start": 14,
+     "end": 22,
+     "size": 270
+    },
+    {
+     "text": "I'm",
+     "style": "small",
+     "x": 0.18155092592592592,
+     "y": 0.178875,
+     "start": 3,
+     "end": 22
+    },
+    {
+     "text": "about",
+     "style": "small",
+     "x": 0.2704435185185185,
+     "y": 0.178875,
+     "start": 6,
+     "end": 22
+    },
+    {
+     "text": "to",
+     "style": "small",
+     "x": 0.4300175925925926,
+     "y": 0.178875,
+     "start": 10,
+     "end": 22
+    },
+    {
+     "text": "engineers",
+     "style": "key",
+     "x": 0.5,
+     "align": "c",
+     "y": 0.248,
+     "start": 45,
+     "end": 55,
+     "size": 194
+    },
+    {
+     "text": "some",
+     "style": "small",
+     "x": 0.13733703703703704,
+     "y": 0.1814583333333333,
+     "start": 22,
+     "end": 55
+    },
+    {
+     "text": "sauce",
+     "style": "small",
+     "x": 0.6290111111111112,
+     "y": 0.1814583333333333,
+     "start": 29,
+     "end": 55
+    },
+    {
+     "text": "for",
+     "style": "small",
+     "x": 0.7941407407407408,
+     "y": 0.1814583333333333,
+     "start": 39,
+     "end": 55
+    }
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    55,
+    82
+   ],
+   "scale": 168,
+   "pos": [
+    0.5,
+    0.451
+   ],
+   "words": [
+    {
+     "text": "that's",
+     "style": "small",
+     "x": 0.7,
+     "y": 0.632,
+     "start": 55,
+     "end": 82
+    },
+    {
+     "text": "not",
+     "style": "small",
+     "x": 0.7,
+     "y": 0.675,
+     "start": 65,
+     "end": 82
+    },
+    {
+     "text": "out",
+     "style": "small",
+     "x": 0.7,
+     "y": 0.718,
+     "start": 69,
+     "end": 82
+    },
+    {
+     "text": "there",
+     "style": "small",
+     "x": 0.7,
+     "y": 0.761,
+     "start": 73,
+     "end": 82
+    }
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    95,
+    169
+   ],
+   "scale": 120,
+   "pos": [
+    0.5,
+    0.582
+   ],
+   "ring": {
+    "start": 95,
+    "frames": 32
+   },
+   "words": [
+    {
+     "text": "to",
+     "style": "small",
+     "x": 0.6728888888888889,
+     "y": 0.222,
+     "start": 121,
+     "end": 136
+    },
+    {
+     "text": "actually",
+     "style": "small",
+     "x": 0.7361629629629629,
+     "y": 0.222,
+     "start": 129,
+     "end": 136
+    },
+    {
+     "text": "senior",
+     "style": "key",
+     "x": 0.5,
+     "align": "c",
+     "y": 0.245,
+     "start": 150,
+     "end": 169,
+     "size": 316,
+     "behind": true
+    },
+    {
+     "text": "engineer",
+     "style": "key",
+     "x": 0.5,
+     "align": "c",
+     "y": 0.318,
+     "start": 156,
+     "end": 169,
+     "size": 222,
+     "behind": true
+    },
+    {
+     "text": "become",
+     "style": "small",
+     "x": 0.2328796296296296,
+     "y": 0.14541666666666664,
+     "start": 136,
+     "end": 169,
+     "behind": true
+    },
+    {
+     "text": "a",
+     "style": "small",
+     "x": 0.45418333333333333,
+     "y": 0.14541666666666664,
+     "start": 144,
+     "end": 169,
+     "behind": true
+    }
+   ]
+  },
+  {
+   "type": "rec",
+   "src": [
+    177,
+    201
+   ],
+   "file": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 9/Media/r9_youtube.mov",
+   "cut_scale": 95,
+   "cut_pos": [
+    0.38,
+    0.76
+   ],
+   "pills": [
+    [
+     "I searched",
+     178,
+     187
+    ],
+    [
+     "YouTube,",
+     187,
+     201
+    ]
+   ],
+   "click": true
+  },
+  {
+   "type": "rec",
+   "src": [
+    210,
+    239
+   ],
+   "file": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 9/Media/r9_blogs.mov",
+   "cut_scale": 95,
+   "cut_pos": [
+    0.62,
+    0.76
+   ],
+   "pills": [
+    [
+     "I read a bunch",
+     211,
+     225
+    ],
+    [
+     "of blogs.",
+     225,
+     239
+    ]
+   ]
+  },
+  {
+   "type": "broll",
+   "src": [
+    243,
+    288
+   ],
+   "file": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4",
+   "in_s": 1220.4,
+   "frame_w": 1920,
+   "scale": 182,
+   "pos": {
+    "kf": [
+     [
+      13,
+      [
+       -0.35,
+       0.5
+      ]
+     ],
+     [
+      35,
+      [
+       0.75,
+       0.5
+      ]
+     ]
+    ]
+   },
+   "pills": [
+    [
+     "I even asked",
+     244,
+     258
+    ]
+   ],
+   "words": [
+    {
+     "text": "a few",
+     "style": "med",
+     "x": 0.145,
+     "y": 0.645,
+     "start": 258,
+     "end": 288
+    },
+    {
+     "text": "senior",
+     "style": "keymed",
+     "x": 0.865,
+     "align": "r",
+     "y": 0.655,
+     "start": 263,
+     "end": 288,
+     "size": 150
+    },
+    {
+     "text": "engineers",
+     "style": "keymed",
+     "x": 0.5,
+     "align": "c",
+     "y": 0.735,
+     "start": 271,
+     "end": 288,
+     "size": 175
+    }
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    297,
+    344
+   ],
+   "scale": 159,
+   "pos": [
+    0.5,
+    0.446
+   ],
+   "pills": [
+    [
+     "and I found out",
+     298,
+     311
+    ],
+    [
+     "what you",
+     311,
+     317
+    ],
+    [
+     "actually need",
+     317,
+     332
+    ],
+    [
+     "to learn",
+     332,
+     344
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "src": [
+    350,
+    373
+   ],
+   "n": 1,
+   "cover": "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316766.png",
+   "lines": [
+    [
+     "SYSTEM",
+     "big",
+     351
+    ],
+    [
+     "DESIGN",
+     "big",
+     360
+    ]
+   ],
+   "click": true
+  },
+  {
+   "type": "pres",
+   "src": [
+    380,
+    400
+   ],
+   "scale": 139,
+   "pos": [
+    0.5,
+    0.435
+   ],
+   "pills": [
+    [
+     "That's how",
+     381,
+     388
+    ],
+    [
+     "apps like",
+     388,
+     400
+    ]
+   ]
+  },
+  {
+   "type": "rec",
+   "src": [
+    400,
+    462
+   ],
+   "file": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 9/Media/r9_company_guides.mov",
+   "cut_scale": 95,
+   "cut_pos": [
+    0.5,
+    0.76
+   ],
+   "click": true,
+   "pills": [
+    [
+     "Netflix",
+     400,
+     409
+    ],
+    [
+     "and Uber",
+     409,
+     423
+    ],
+    [
+     "handle millions",
+     423,
+     446
+    ],
+    [
+     "of people.",
+     446,
+     462
+    ]
+   ],
+   "logos": [
+    [
+     "netflix",
+     400,
+     412
+    ],
+    [
+     "uber",
+     412,
+     424
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "src": [
+    469,
+    518
+   ],
+   "n": 2,
+   "cover": "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316747.png",
+   "lines": [
+    [
+     "MATH BEHIND",
+     "lead",
+     485
+    ],
+    [
+     "MACHINE",
+     "big",
+     499
+    ],
+    [
+     "LEARNING",
+     "big",
+     506
+    ]
+   ],
+   "click": true
+  },
+  {
+   "type": "pres",
+   "src": [
+    519,
+    557
+   ],
+   "scale": 144,
+   "pos": [
+    0.5,
+    0.438
+   ],
+   "pills": [
+    [
+     "starting from",
+     520,
+     529
+    ],
+    [
+     "the very basics.",
+     529,
+     557
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "src": [
+    566,
+    631
+   ],
+   "n": 3,
+   "cover": "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316748.png",
+   "lines": [
+    [
+     "THE FAMOUS",
+     "lead",
+     587
+    ],
+    [
+     "AI RESEARCH",
+     "big",
+     596
+    ],
+    [
+     "PAPERS",
+     "big",
+     614
+    ]
+   ],
+   "click": true
+  },
+  {
+   "type": "pres",
+   "src": [
+    634,
+    653
+   ],
+   "scale": 146,
+   "pos": [
+    0.5,
+    0.439
+   ],
+   "pills": [
+    [
+     "for example.",
+     635,
+     653
+    ]
+   ]
+  },
+  {
+   "type": "rec",
+   "src": [
+    658,
+    690
+   ],
+   "file": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 9/Media/r9_attention.mov",
+   "rec_scale": 98,
+   "rec_pos": [
+    0.5,
+    0.584
+   ],
+   "cut_scale": 85,
+   "cut_pos": [
+    0.6,
+    0.76
+   ],
+   "pill_y": 0.5,
+   "click": true,
+   "pills": [
+    [
+     "Attention is all",
+     659,
+     677
+    ],
+    [
+     "you need",
+     677,
+     690
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "src": [
+    697,
+    725
+   ],
+   "n": 4,
+   "cover": "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316749.png",
+   "lines": [
+    [
+     "INFERENCE",
+     "big",
+     698
+    ],
+    [
+     "ENGINEERING",
+     "big",
+     707
+    ]
+   ],
+   "click": true
+  },
+  {
+   "type": "pres",
+   "src": [
+    731,
+    786
+   ],
+   "scale": 130,
+   "pos": [
+    0.5,
+    0.43
+   ],
+   "pills": [
+    [
+     "which is how",
+     732,
+     743
+    ],
+    [
+     "AI models",
+     743,
+     760
+    ],
+    [
+     "actually run.",
+     760,
+     786
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "src": [
+    793,
+    830
+   ],
+   "n": 5,
+   "cover": "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316775.png",
+   "lines": [
+    [
+     "ARTIFICIAL",
+     "big",
+     811
+    ],
+    [
+     "INTELLIGENCE",
+     "big",
+     813
+    ],
+    [
+     "ENGINEERING",
+     "big",
+     816
+    ]
+   ],
+   "click": true
+  },
+  {
+   "type": "rec",
+   "src": [
+    830,
+    892
+   ],
+   "file": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 9/Media/r9_ai_engineering.mov",
+   "cut_scale": 95,
+   "cut_pos": [
+    0.61,
+    0.76
+   ],
+   "click": true,
+   "pills": [
+    [
+     "which is building",
+     831,
+     844
+    ],
+    [
+     "real products",
+     844,
+     863
+    ],
+    [
+     "with those models.",
+     863,
+     892
+    ]
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    898,
+    935
+   ],
+   "scale": 128,
+   "pos": [
+    0.5,
+    0.429
+   ],
+   "pills": [
+    [
+     "And you can find",
+     899,
+     912
+    ],
+    [
+     "all of these",
+     912,
+     935
+    ]
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    941,
+    967
+   ],
+   "scale": 166,
+   "pos": [
+    0.5,
+    0.45
+   ],
+   "pills": [
+    [
+     "only on",
+     942,
+     955
+    ]
+   ],
+   "logo_chest": {
+    "start": 955
+   },
+   "click": true
+  },
+  {
+   "type": "end",
+   "src": [
+    968,
+    1015
+   ],
+   "words": [
+    [
+     "{ curated }",
+     968,
+     985
+    ],
+    [
+     "{ mapped }",
+     985,
+     1000
+    ],
+    [
+     "{ complete }",
+     1000,
+     1015
+    ]
+   ]
+  },
+  {
+   "type": "loader",
+   "n_frames": 72
+  }
+ ]
+}

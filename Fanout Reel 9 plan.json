@@ -1,0 +1,2159 @@
+{
+ "reference": "/Users/abiknewar/Work/Claude Editing 2/reference/abik edits 2026-11-12/Fanout Reel 7 - hook A_1.prproj",
+ "media_copy_dirs": [],
+ "media_skip": [],
+ "old_sequence_name": "Fanout Reel 7 - hook A",
+ "media_flat": true,
+ "preview_grade": true,
+ "caption_font": "regular",
+ "exemplars": {
+  "aroll": {
+   "kind": "video",
+   "track": "Aroll",
+   "start": 0.0
+  },
+  "matte": {
+   "kind": "video",
+   "track": "Color mate Background",
+   "start": 2.2916666666666665
+  },
+  "rec": {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "start": 10.041666666666666
+  },
+  "shot_slide": {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "start": 25.416666666666668
+  },
+  "shot_slide2": {
+   "kind": "video",
+   "track": "Screen Recording 2",
+   "start": 25.416666666666668
+  },
+  "broll1": {
+   "kind": "video",
+   "track": "Broll 1",
+   "start": 2.2916666666666665
+  },
+  "broll2": {
+   "kind": "video",
+   "track": "Broll 2",
+   "start": 3.7083333333333335
+  },
+  "adj": {
+   "kind": "video",
+   "track": "Adjustment effects Grains & Fades",
+   "start": 2.2916666666666665
+  },
+  "outro": {
+   "kind": "video",
+   "track": "Outro Animation",
+   "start": 35.125
+  },
+  "g_lead": {
+   "kind": "video",
+   "track": "Text Graphics 1",
+   "start": 6.125
+  },
+  "g_key": {
+   "kind": "video",
+   "track": "Text Graphics 2",
+   "start": 6.875
+  },
+  "g_tail": {
+   "kind": "video",
+   "track": "Text Graphics 3",
+   "start": 3.5833333333333335
+  },
+  "g_lead2": {
+   "kind": "video",
+   "track": "Text Graphics 2",
+   "start": 13.75
+  },
+  "g_key3": {
+   "kind": "video",
+   "track": "Text Graphics 3",
+   "start": 14.458333333333334
+  },
+  "logo_netflix": {
+   "kind": "video",
+   "track": "Logos",
+   "start": 23.75
+  },
+  "logo_uber": {
+   "kind": "video",
+   "track": "Logos",
+   "start": 24.291666666666668
+  },
+  "cap_layout": {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "start": 10.041666666666666
+  },
+  "cap_youll": {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "start": 7.875
+  },
+  "cap_low": {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "start": 32.541666666666664
+  },
+  "dialog": {
+   "kind": "audio",
+   "track": "Aroll Sound",
+   "start": 0.0
+  },
+  "sfx_click": {
+   "kind": "audio",
+   "track": "SFX 1",
+   "start": 2.125
+  },
+  "sfx_ui_b": {
+   "kind": "audio",
+   "track": "SFX 5",
+   "start": 3.5416666666666665
+  },
+  "sfx_whoosh": {
+   "kind": "audio",
+   "track": "SFX 3",
+   "start": 0.625
+  },
+  "sfx_button": {
+   "kind": "audio",
+   "track": "SFX 4",
+   "start": 0.875
+  },
+  "sfx_ting": {
+   "kind": "audio",
+   "track": "SFX 3",
+   "start": 23.666666666666668
+  },
+  "music": {
+   "kind": "audio",
+   "track": "Background music",
+   "start": 0.0
+  }
+ },
+ "output_dir": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 9/Copied_Fanout Reel 9",
+ "project_name": "Fanout Reel 9",
+ "sequence_name": "Fanout Reel 9",
+ "total_frames": 1047,
+ "media": {
+  "aroll": "senior aroll.mp4",
+  "cutout": "senior_cutout_alpha.mov",
+  "aroll_frames": 1009
+ },
+ "media_copy": [
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 9/Media/senior aroll.mp4",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 9/Media/senior_cutout_alpha.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 9/Media/r9_youtube.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 9/Media/r9_blogs.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 9/Media/r9_company_guides.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 9/Media/r9_system_overview.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 9/Media/r9_ml_math.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 9/Media/r9_papers.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 9/Media/r9_attention.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 9/Media/r9_inference.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 9/Media/r9_ai_engineering.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 9/Media/r9_home.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/ES_Electronica the Witch - Andreas Dahlback.mp3",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/ES_Mechanical, Click, Buttons, Switches, Mixed, Antique, Special, Clicks - Epidemic Sound.mp3",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/ES_Mechanical, Click, Miniature Button, Multiple Pushes - Epidemic Sound.mp3",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/ES_Swooshes, Whoosh, Airy, Light 03 - Epidemic Sound.mp3",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/ES_User Interface, Click, On & Off, Small, Short 02 - Epidemic Sound.mp3",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/ES_User Interface, Misc, Pings, Tings, Generic, High, Tings - Epidemic Sound.mp3",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/fanout-loader-alpha-prores4444 (1).mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/Netflix_2015_logo.svg.webp",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/5ij5qdSHFzJ2piPRuoTL5F.jpg",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/Transition_Woosh.mp3",
+  "/Users/abiknewar/Work/Claude Editing 2/B-roll library/movies/Good Will Hunting - Will solves the math challenge.mp4",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4"
+ ],
+ "retarget": [
+  {
+   "old_title": "sysdesign aroll.mp4",
+   "new_file": "senior aroll.mp4",
+   "duration_s": 42.041666666666664,
+   "audio_rate": 48000,
+   "frame_rect": "0,0,1080,1920"
+  }
+ ],
+ "new_media": [
+  {
+   "key": "cutout",
+   "exemplar_title": "fanout-loader-alpha-prores4444 (1).mov",
+   "new_file": "senior_cutout_alpha.mov",
+   "duration_s": 42.041666666666664,
+   "frame_rect": "0,0,1080,1920"
+  },
+  {
+   "key": "youtube",
+   "exemplar_title": "r7_home.mov",
+   "new_file": "r9_youtube.mov",
+   "duration_s": 1.667,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "blogs",
+   "exemplar_title": "r7_home.mov",
+   "new_file": "r9_blogs.mov",
+   "duration_s": 1.667,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "guides",
+   "exemplar_title": "r7_home.mov",
+   "new_file": "r9_company_guides.mov",
+   "duration_s": 2.5,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "sys_overview",
+   "exemplar_title": "r7_home.mov",
+   "new_file": "r9_system_overview.mov",
+   "duration_s": 1.833,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "ml_math",
+   "exemplar_title": "r7_home.mov",
+   "new_file": "r9_ml_math.mov",
+   "duration_s": 2.5,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "papers",
+   "exemplar_title": "r7_home.mov",
+   "new_file": "r9_papers.mov",
+   "duration_s": 1.667,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "attention",
+   "exemplar_title": "r7_home.mov",
+   "new_file": "r9_attention.mov",
+   "duration_s": 1.917,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "inference",
+   "exemplar_title": "r7_home.mov",
+   "new_file": "r9_inference.mov",
+   "duration_s": 2.083,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "ai_eng",
+   "exemplar_title": "r7_home.mov",
+   "new_file": "r9_ai_engineering.mov",
+   "duration_s": 3.0,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "home",
+   "exemplar_title": "r7_home.mov",
+   "new_file": "r9_home.mov",
+   "duration_s": 2.667,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "gwh",
+   "exemplar_title": "vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4",
+   "new_file": "Good Will Hunting - Will solves the math challenge.mp4",
+   "duration_s": 255.7,
+   "frame_rect": "0,0,1920,1080"
+  }
+ ],
+ "items": [
+  {
+   "kind": "video",
+   "track": "Aroll",
+   "exemplar": "aroll",
+   "start_f": 0,
+   "end_f": 79,
+   "in_f": 3,
+   "link": "a0",
+   "motion": {
+    "Scale": 114,
+    "Position": [
+     0.5,
+     0.57
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll",
+   "exemplar": "aroll",
+   "start_f": 79,
+   "end_f": 997,
+   "in_f": 87,
+   "link": "a1",
+   "motion": {
+    "Scale": 114,
+    "Position": [
+     0.5,
+     0.57
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Color mate Background",
+   "exemplar": "matte",
+   "start_f": 0,
+   "end_f": 1047
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 0,
+   "end_f": 21,
+   "in_f": 3,
+   "motion": {
+    "Scale": 114,
+    "Position": [
+     0.5,
+     0.57
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Broll 1",
+   "exemplar": "broll1",
+   "start_f": 21,
+   "end_f": 37,
+   "in_s": 1235.85,
+   "file": "vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4",
+   "motion": {
+    "Scale": 180,
+    "Position": [
+     0.8,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Broll 2",
+   "exemplar": "broll1",
+   "start_f": 37,
+   "end_f": 52,
+   "in_s": 1153.8,
+   "file": "vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4",
+   "motion": {
+    "Scale": 180,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 52,
+   "end_f": 79,
+   "in_f": 55,
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.62
+    ]
+   }
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 3",
+   "exemplar": "sfx_whoosh",
+   "gain_db": -15,
+   "start_f": 46,
+   "end_f": 65,
+   "in_s": 2.875
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 4",
+   "exemplar": "sfx_button",
+   "gain_db": -25,
+   "start_f": 52,
+   "end_f": 58,
+   "in_s": 1.875
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 5",
+   "exemplar": "sfx_button",
+   "gain_db": -25,
+   "start_f": 52,
+   "end_f": 58,
+   "in_s": 1.875
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_lead",
+   "title": {
+    "text": "I'm about to",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 0,
+   "end_f": 52,
+   "motion": {
+    "Position": [
+     0.727,
+     0.165
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "reveal some sauce",
+    "style": "plain-bold",
+    "size": 112
+   },
+   "start_f": 10,
+   "end_f": 52,
+   "motion": {
+    "Position": [
+     0.5,
+     0.223
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 3",
+   "exemplar": "g_tail",
+   "title": {
+    "text": "for engineers",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 34,
+   "end_f": 52,
+   "motion": {
+    "Position": [
+     0.717,
+     0.273
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_lead",
+   "title": {
+    "text": "that's",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 52,
+   "end_f": 79,
+   "motion": {
+    "Position": [
+     0.761,
+     0.165
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "not out there.",
+    "style": "plain-bold",
+    "size": 125
+   },
+   "start_f": 60,
+   "end_f": 79,
+   "motion": {
+    "Position": [
+     0.5,
+     0.223
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 79,
+   "end_f": 111,
+   "in_f": 87,
+   "motion": {
+    "Scale": 114,
+    "Position": [
+     0.5,
+     0.57
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 111,
+   "end_f": 155,
+   "in_f": 119,
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.62
+    ]
+   }
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 3",
+   "exemplar": "sfx_whoosh",
+   "gain_db": -15,
+   "start_f": 105,
+   "end_f": 124,
+   "in_s": 2.875
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 4",
+   "exemplar": "sfx_button",
+   "gain_db": -25,
+   "start_f": 111,
+   "end_f": 117,
+   "in_s": 1.875
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 5",
+   "exemplar": "sfx_button",
+   "gain_db": -25,
+   "start_f": 111,
+   "end_f": 117,
+   "in_s": 1.875
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_lead",
+   "title": {
+    "text": "This is all",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 82,
+   "end_f": 111,
+   "motion": {
+    "Position": [
+     0.717,
+     0.165
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "you need to know",
+    "style": "plain-bold",
+    "size": 112
+   },
+   "start_f": 93,
+   "end_f": 111,
+   "motion": {
+    "Position": [
+     0.5,
+     0.223
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_lead",
+   "title": {
+    "text": "to actually",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 111,
+   "end_f": 152,
+   "motion": {
+    "Position": [
+     0.802,
+     0.165
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "become a senior engineer.",
+    "style": "plain-bold",
+    "size": 90
+   },
+   "start_f": 120,
+   "end_f": 152,
+   "motion": {
+    "Position": [
+     0.5,
+     0.223
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 155,
+   "end_f": 186,
+   "media_key": "youtube",
+   "file": "r9_youtube.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 155,
+   "end_f": 186,
+   "media_key": "cutout",
+   "in_f": 163,
+   "motion": {
+    "Scale": 88,
+    "Position": [
+     0.5,
+     0.717
+    ],
+    "Rotation": 0
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "I searched",
+   "start_f": 159,
+   "end_f": 172
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "YouTube,",
+   "start_f": 172,
+   "end_f": 186
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 186,
+   "end_f": 216,
+   "media_key": "blogs",
+   "file": "r9_blogs.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 186,
+   "end_f": 216,
+   "media_key": "cutout",
+   "in_f": 194,
+   "motion": {
+    "Scale": 88,
+    "Position": [
+     0.34,
+     0.717
+    ],
+    "Rotation": 12
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "I read a bunch",
+   "start_f": 188,
+   "end_f": 201
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "of blogs,",
+   "start_f": 201,
+   "end_f": 216
+  },
+  {
+   "kind": "video",
+   "track": "Broll 1",
+   "exemplar": "broll1",
+   "start_f": 216,
+   "end_f": 242,
+   "in_s": 498.45,
+   "file": "vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4",
+   "motion": {
+    "Scale": 198,
+    "Position": [
+     0.62,
+     0.47
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 216,
+   "end_f": 242,
+   "media_key": "cutout",
+   "in_f": 224,
+   "motion": {
+    "Scale": 88,
+    "Position": [
+     0.62,
+     0.717
+    ],
+    "Rotation": -10
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Broll 2",
+   "exemplar": "broll1",
+   "start_f": 242,
+   "end_f": 268,
+   "in_s": 801.9,
+   "file": "vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4",
+   "motion": {
+    "Scale": 198,
+    "Position": [
+     0.1,
+     0.47
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 242,
+   "end_f": 268,
+   "media_key": "cutout",
+   "in_f": 250,
+   "motion": {
+    "Scale": 88,
+    "Position": [
+     0.62,
+     0.717
+    ],
+    "Rotation": -10
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_lead",
+   "title": {
+    "text": "I even asked",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 218,
+   "end_f": 268,
+   "motion": {
+    "Position": [
+     0.3,
+     0.345
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "a few senior engineers.",
+    "style": "plain-bold",
+    "size": 90
+   },
+   "start_f": 234,
+   "end_f": 268,
+   "motion": {
+    "Position": [
+     0.5,
+     0.403
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 268,
+   "end_f": 332,
+   "in_f": 276,
+   "motion": {
+    "Scale": 114,
+    "Position": [
+     0.5,
+     0.57
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_lead",
+   "title": {
+    "text": "And I found out",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 271,
+   "end_f": 313,
+   "motion": {
+    "Position": [
+     0.696,
+     0.165
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "what you actually",
+    "style": "plain-bold",
+    "size": 112
+   },
+   "start_f": 291,
+   "end_f": 313,
+   "motion": {
+    "Position": [
+     0.5,
+     0.223
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "need to learn.",
+    "style": "plain-bold",
+    "size": 125
+   },
+   "start_f": 313,
+   "end_f": 330,
+   "motion": {
+    "Position": [
+     0.5,
+     0.223
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 332,
+   "end_f": 369,
+   "in_f": 340,
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.62
+    ]
+   }
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 3",
+   "exemplar": "sfx_whoosh",
+   "gain_db": -15,
+   "start_f": 326,
+   "end_f": 345,
+   "in_s": 2.875
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 4",
+   "exemplar": "sfx_button",
+   "gain_db": -25,
+   "start_f": 332,
+   "end_f": 338,
+   "in_s": 1.875
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 5",
+   "exemplar": "sfx_button",
+   "gain_db": -25,
+   "start_f": 332,
+   "end_f": 338,
+   "in_s": 1.875
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_lead",
+   "title": {
+    "text": "One,",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 335,
+   "end_f": 369,
+   "motion": {
+    "Position": [
+     0.782,
+     0.165
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "System design.",
+    "style": "plain-bold",
+    "size": 125
+   },
+   "start_f": 346,
+   "end_f": 369,
+   "motion": {
+    "Position": [
+     0.5,
+     0.223
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 369,
+   "end_f": 413,
+   "media_key": "guides",
+   "file": "r9_company_guides.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 369,
+   "end_f": 413,
+   "media_key": "cutout",
+   "in_f": 377,
+   "motion": {
+    "Scale": 88,
+    "Position": [
+     0.34,
+     0.717
+    ],
+    "Rotation": 12
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "That's how apps like",
+   "start_f": 372,
+   "end_f": 389
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "Netflix",
+   "start_f": 389,
+   "end_f": 401
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "and Uber",
+   "start_f": 401,
+   "end_f": 413
+  },
+  {
+   "kind": "video",
+   "track": "Logos",
+   "exemplar": "logo_netflix",
+   "start_f": 389,
+   "end_f": 401,
+   "still": "Netflix_2015_logo",
+   "motion": {
+    "Scale": {
+     "keyframes": [
+      [
+       0,
+       0
+      ],
+      [
+       3,
+       18
+      ]
+     ]
+    },
+    "Position": [
+     0.5,
+     0.2875
+    ]
+   }
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 3",
+   "exemplar": "sfx_ting",
+   "gain_db": -10,
+   "start_f": 387,
+   "end_f": 402,
+   "in_s": 0.0
+  },
+  {
+   "kind": "video",
+   "track": "Logos",
+   "exemplar": "logo_uber",
+   "start_f": 401,
+   "end_f": 413,
+   "still": "5ij5qdSHFzJ2piPRuoTL5F",
+   "motion": {
+    "Scale": {
+     "keyframes": [
+      [
+       0,
+       0
+      ],
+      [
+       2,
+       33
+      ]
+     ]
+    },
+    "Position": [
+     0.5,
+     0.283
+    ]
+   }
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 4",
+   "exemplar": "sfx_ting",
+   "gain_db": -10,
+   "start_f": 399,
+   "end_f": 414,
+   "in_s": 0.0
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 413,
+   "end_f": 453,
+   "media_key": "sys_overview",
+   "file": "r9_system_overview.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 413,
+   "end_f": 453,
+   "media_key": "cutout",
+   "in_f": 421,
+   "motion": {
+    "Scale": 88,
+    "Position": [
+     0.62,
+     0.717
+    ],
+    "Rotation": -10
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "handle millions",
+   "start_f": 413,
+   "end_f": 435
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "of people.",
+   "start_f": 435,
+   "end_f": 450
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 453,
+   "end_f": 509,
+   "media_key": "ml_math",
+   "file": "r9_ml_math.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 453,
+   "end_f": 509,
+   "media_key": "cutout",
+   "in_f": 461,
+   "motion": {
+    "Scale": 88,
+    "Position": [
+     0.5,
+     0.717
+    ],
+    "Rotation": 0
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "Two,",
+   "start_f": 457,
+   "end_f": 466
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "the math behind",
+   "start_f": 474,
+   "end_f": 489
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "machine learning,",
+   "start_f": 489,
+   "end_f": 507
+  },
+  {
+   "kind": "video",
+   "track": "Broll 1",
+   "exemplar": "broll1",
+   "start_f": 509,
+   "end_f": 529,
+   "in_s": 64.8,
+   "file": "Good Will Hunting - Will solves the math challenge.mp4",
+   "motion": {
+    "Scale": 180,
+    "Position": [
+     0.12,
+     0.5
+    ]
+   },
+   "media_key": "gwh"
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 509,
+   "end_f": 529,
+   "media_key": "cutout",
+   "in_f": 517,
+   "motion": {
+    "Scale": 88,
+    "Position": [
+     0.34,
+     0.717
+    ],
+    "Rotation": 12
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Broll 2",
+   "exemplar": "broll1",
+   "start_f": 529,
+   "end_f": 548,
+   "in_s": 101.4,
+   "file": "Good Will Hunting - Will solves the math challenge.mp4",
+   "motion": {
+    "Scale": 180,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   },
+   "media_key": "gwh"
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 529,
+   "end_f": 548,
+   "media_key": "cutout",
+   "in_f": 537,
+   "motion": {
+    "Scale": 88,
+    "Position": [
+     0.34,
+     0.717
+    ],
+    "Rotation": 12
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_lead",
+   "title": {
+    "text": "starting from",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 509,
+   "end_f": 548,
+   "motion": {
+    "Position": [
+     0.304,
+     0.15
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "the very basics.",
+    "style": "plain-bold",
+    "size": 112
+   },
+   "start_f": 524,
+   "end_f": 548,
+   "motion": {
+    "Position": [
+     0.5,
+     0.208
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 548,
+   "end_f": 582,
+   "in_f": 556,
+   "motion": {
+    "Scale": 114,
+    "Position": [
+     0.5,
+     0.57
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 582,
+   "end_f": 618,
+   "in_f": 590,
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.62
+    ]
+   }
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 3",
+   "exemplar": "sfx_whoosh",
+   "gain_db": -15,
+   "start_f": 576,
+   "end_f": 595,
+   "in_s": 2.875
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 4",
+   "exemplar": "sfx_button",
+   "gain_db": -25,
+   "start_f": 582,
+   "end_f": 588,
+   "in_s": 1.875
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 5",
+   "exemplar": "sfx_button",
+   "gain_db": -25,
+   "start_f": 582,
+   "end_f": 588,
+   "in_s": 1.875
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_lead",
+   "title": {
+    "text": "Three,",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 553,
+   "end_f": 582,
+   "motion": {
+    "Position": [
+     0.697,
+     0.165
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "the famous",
+    "style": "plain-bold",
+    "size": 140
+   },
+   "start_f": 572,
+   "end_f": 582,
+   "motion": {
+    "Position": [
+     0.5,
+     0.223
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "AI research papers.",
+    "style": "plain-bold",
+    "size": 100
+   },
+   "start_f": 582,
+   "end_f": 616,
+   "motion": {
+    "Position": [
+     0.5,
+     0.223
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 618,
+   "end_f": 641,
+   "media_key": "papers",
+   "file": "r9_papers.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 618,
+   "end_f": 641,
+   "media_key": "cutout",
+   "in_f": 626,
+   "motion": {
+    "Scale": 88,
+    "Position": [
+     0.62,
+     0.717
+    ],
+    "Rotation": -10
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "For example,",
+   "start_f": 620,
+   "end_f": 637
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 641,
+   "end_f": 678,
+   "media_key": "attention",
+   "file": "r9_attention.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 90,
+    "Position": [
+     0.5,
+     0.636
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 641,
+   "end_f": 678,
+   "media_key": "cutout",
+   "in_f": 649,
+   "motion": {
+    "Scale": 88,
+    "Position": [
+     0.5,
+     0.717
+    ],
+    "Rotation": 0
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "Attention Is",
+   "start_f": 641,
+   "end_f": 657
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "All You Need.",
+   "start_f": 657,
+   "end_f": 675
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 678,
+   "end_f": 722,
+   "media_key": "inference",
+   "file": "r9_inference.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 678,
+   "end_f": 722,
+   "media_key": "cutout",
+   "in_f": 686,
+   "motion": {
+    "Scale": 88,
+    "Position": [
+     0.34,
+     0.717
+    ],
+    "Rotation": 12
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "Four,",
+   "start_f": 681,
+   "end_f": 690
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "inference engineering,",
+   "start_f": 698,
+   "end_f": 722
+  },
+  {
+   "kind": "video",
+   "track": "Broll 1",
+   "exemplar": "broll1",
+   "start_f": 722,
+   "end_f": 749,
+   "in_s": 1244.0,
+   "file": "vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4",
+   "motion": {
+    "Scale": 180,
+    "Position": [
+     0.34,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 722,
+   "end_f": 749,
+   "media_key": "cutout",
+   "in_f": 730,
+   "motion": {
+    "Scale": 88,
+    "Position": [
+     0.62,
+     0.717
+    ],
+    "Rotation": -10
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Broll 2",
+   "exemplar": "broll1",
+   "start_f": 749,
+   "end_f": 775,
+   "in_s": 420.4,
+   "file": "vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4",
+   "motion": {
+    "Scale": 216,
+    "Position": [
+     0.66,
+     0.4
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 749,
+   "end_f": 775,
+   "media_key": "cutout",
+   "in_f": 757,
+   "motion": {
+    "Scale": 88,
+    "Position": [
+     0.62,
+     0.717
+    ],
+    "Rotation": -10
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_lead",
+   "title": {
+    "text": "which is how AI models",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 722,
+   "end_f": 775,
+   "motion": {
+    "Position": [
+     0.428,
+     0.345
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "actually run.",
+    "style": "plain-bold",
+    "size": 125
+   },
+   "start_f": 749,
+   "end_f": 775,
+   "motion": {
+    "Position": [
+     0.5,
+     0.403
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 775,
+   "end_f": 817,
+   "in_f": 783,
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.62
+    ]
+   }
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 3",
+   "exemplar": "sfx_whoosh",
+   "gain_db": -15,
+   "start_f": 769,
+   "end_f": 788,
+   "in_s": 2.875
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 4",
+   "exemplar": "sfx_button",
+   "gain_db": -25,
+   "start_f": 775,
+   "end_f": 781,
+   "in_s": 1.875
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 5",
+   "exemplar": "sfx_button",
+   "gain_db": -25,
+   "start_f": 775,
+   "end_f": 781,
+   "in_s": 1.875
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_lead",
+   "title": {
+    "text": "Five,",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 778,
+   "end_f": 817,
+   "motion": {
+    "Position": [
+     0.759,
+     0.165
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "AI engineering,",
+    "style": "plain-bold",
+    "size": 112
+   },
+   "start_f": 796,
+   "end_f": 817,
+   "motion": {
+    "Position": [
+     0.5,
+     0.223
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 817,
+   "end_f": 881,
+   "media_key": "ai_eng",
+   "file": "r9_ai_engineering.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 817,
+   "end_f": 881,
+   "media_key": "cutout",
+   "in_f": 825,
+   "motion": {
+    "Scale": 88,
+    "Position": [
+     0.34,
+     0.717
+    ],
+    "Rotation": 12
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "which is building",
+   "start_f": 817,
+   "end_f": 831
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "real products",
+   "start_f": 831,
+   "end_f": 850
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "with those models.",
+   "start_f": 850,
+   "end_f": 877
+  },
+  {
+   "kind": "video",
+   "track": "Screen Recording 1",
+   "exemplar": "rec",
+   "start_f": 881,
+   "end_f": 940,
+   "media_key": "home",
+   "file": "r9_home.mov",
+   "in_s": 0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Cutout",
+   "exemplar": "aroll",
+   "start_f": 881,
+   "end_f": 940,
+   "media_key": "cutout",
+   "in_f": 889,
+   "motion": {
+    "Scale": 88,
+    "Position": [
+     0.5,
+     0.717
+    ],
+    "Rotation": 0
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "And you can find",
+   "start_f": 885,
+   "end_f": 903
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "all of these",
+   "start_f": 903,
+   "end_f": 919
+  },
+  {
+   "kind": "caption",
+   "track": "Subtitle 1",
+   "exemplar": "cap_layout",
+   "text": "only on Fanout,",
+   "start_f": 919,
+   "end_f": 938
+  },
+  {
+   "kind": "video",
+   "track": "Aroll Full Screen",
+   "exemplar": "aroll",
+   "start_f": 940,
+   "end_f": 997,
+   "in_f": 948,
+   "motion": {
+    "Scale": 140,
+    "Position": [
+     0.5,
+     0.62
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 1",
+   "exemplar": "g_lead",
+   "title": {
+    "text": "Curated,",
+    "style": "serif-regular",
+    "size": 68
+   },
+   "start_f": 944,
+   "end_f": 997,
+   "motion": {
+    "Position": [
+     0.75,
+     0.165
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "Text Graphics 2",
+   "exemplar": "g_key",
+   "title": {
+    "text": "mapped & complete.",
+    "style": "plain-bold",
+    "size": 100
+   },
+   "start_f": 966,
+   "end_f": 997,
+   "motion": {
+    "Position": [
+     0.5,
+     0.223
+    ]
+   }
+  },
+  {
+   "kind": "audio",
+   "track": "Aroll Sound",
+   "exemplar": "dialog",
+   "gain_db": 0,
+   "start_f": 0,
+   "end_f": 79,
+   "in_f": 3,
+   "link": "a0"
+  },
+  {
+   "kind": "audio",
+   "track": "Aroll Sound",
+   "exemplar": "dialog",
+   "gain_db": 0,
+   "start_f": 79,
+   "end_f": 997,
+   "in_f": 87,
+   "link": "a1"
+  },
+  {
+   "kind": "video",
+   "track": "Adjustment effects Grains & Fades",
+   "exemplar": "adj",
+   "start_f": 0,
+   "end_f": 997
+  },
+  {
+   "kind": "video",
+   "track": "Outro Animation",
+   "exemplar": "outro",
+   "start_f": 997,
+   "end_f": 1047,
+   "in_s": 0,
+   "motion": {
+    "Scale": 48,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 17,
+   "end_f": 33,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 75,
+   "end_f": 91,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 151,
+   "end_f": 167,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 182,
+   "end_f": 198,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 212,
+   "end_f": 228,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 264,
+   "end_f": 280,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 365,
+   "end_f": 381,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 409,
+   "end_f": 425,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 449,
+   "end_f": 465,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 505,
+   "end_f": 521,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 544,
+   "end_f": 560,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 614,
+   "end_f": 630,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 637,
+   "end_f": 653,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 674,
+   "end_f": 690,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 718,
+   "end_f": 734,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 813,
+   "end_f": 829,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 1",
+   "exemplar": "sfx_click",
+   "gain_db": -10,
+   "start_f": 877,
+   "end_f": 893,
+   "in_s": 2.417
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 5",
+   "exemplar": "sfx_ui_b",
+   "gain_db": -15,
+   "start_f": 33,
+   "end_f": 37,
+   "in_s": 0.0
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 5",
+   "exemplar": "sfx_ui_b",
+   "gain_db": -15,
+   "start_f": 238,
+   "end_f": 242,
+   "in_s": 0.0
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 5",
+   "exemplar": "sfx_ui_b",
+   "gain_db": -15,
+   "start_f": 525,
+   "end_f": 529,
+   "in_s": 0.0
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 5",
+   "exemplar": "sfx_ui_b",
+   "gain_db": -15,
+   "start_f": 745,
+   "end_f": 749,
+   "in_s": 0.0
+  },
+  {
+   "kind": "audio",
+   "track": "SFX 2",
+   "exemplar": "sfx_ui_b",
+   "gain_db": -15,
+   "start_f": 997,
+   "end_f": 1001,
+   "in_s": 0.0
+  },
+  {
+   "kind": "audio",
+   "track": "Background music",
+   "exemplar": "music",
+   "gain_db": -30,
+   "start_f": 0,
+   "end_f": 1047,
+   "in_s": 14.875,
+   "fade_out_f": 7
+  }
+ ]
+}

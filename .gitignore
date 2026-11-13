@@ -20,6 +20,10 @@ B-roll library/
 
 # over GitHub's 100 MB limit, regenerable with tools/matte_birefnet.py
 *_cutout_alpha.mov
+* cutout alpha.mov
+
+# zipped working folders
+*.zip
 
 # caches
 *.pek

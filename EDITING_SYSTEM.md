@@ -256,3 +256,70 @@ Both styles
 ### Framing and pacing
 - Hard punch-ins between phrases on full-frame beats: close presenter 114 → 173–214, far presenter 140 → 197–226, with the position nudged to keep the eyes in place. No zoom inside a phrase.
 - He cuts lines that slow the video ("Page three. First equation. Laptop closed." was removed) and trims dead air between sentences.
+
+## 22. Abik's manual edit of the "sauce for engineers" reel (2026-11-13) — the style to follow from here
+
+Source: `reference/abik manual edit 2026-11-13/` (his `.prproj`, the `.aep` with six linked comps, the collect report, the five course-cover PNGs, `timeline_dump.txt`, contact sheets of every sixth frame). Export: `dataset/human_finals/Fanout_Reel_9_manual_edit_human_final.mp4` (web copy; original at `/Users/abiknewar/Work/Fanout/AI UGC manual edits/EXO/IliiUD5WCcn_Eb6udsbzeg.mp4`). Same A-roll and script as my Reel 9 build (§ Reel 9, `tools/gen_reel9_plan.py`), so the two can be compared beat for beat.
+
+**Format.** 1080x1920, 23.976 fps (the A-roll's own rate, not 24), 999 frames = 41.67 s. Flat timeline: V1 A-roll and AE comps, V2 b-roll / recordings / colour mattes, V3–V12 one text word per track plus the presenter cut-outs. No adjustment layer, no grain, no grade in Premiere (the AE comps carry Add Grain).
+
+**Pace.** Every pause is cut. The 41.9 s take becomes 16 A-roll pieces; speech runs 38.7 s. Dialogue is checkerboarded on A1/A2 with a few frames of overlap at each join. The voice keeps running under full-screen graphics (number cards, end card), so the presenter is off screen for those words.
+
+**Presenter framing.** Head high in frame: Position y 0.33–0.41, eyes about one third down. Scale changes at almost every cut: 100→116 (push over the first 14 frames), 168, 146, 159, 139, 144, 130, 128, 166. Never two consecutive A-roll pieces at the same scale.
+
+**Hook text: word by word, one yellow keyword.**
+- Small words: SF Pro Semibold, white, about 68 px, tracking −49. Each word is its own graphic on its own track, cut in on the frame it is spoken; all words of the phrase cut out together.
+- Keyword: SF Pro Bold, yellow `#FADE4E`, about 265 px (3.9x the small words, 60–70% of the frame width), tracking −49, Impact Text Animator in. It sits directly under the small line with almost no gap, small line overlapping its ascenders.
+- One keyword per phrase: "I'm about to **reveal**", "some sauce for **engineers**", "become a **senior engineers**" (two lines, second line a little smaller).
+- Placement: top of the frame above the head (y 0.13–0.27). It goes over the ceiling, the light and the exit sign without worry; yellow bold reads on anything.
+- On the punch-in ("that's not out there") the words stack vertically, left of the face at shoulder height (x 0.21, y 0.62–0.75), one word per line.
+- Over b-roll the same idea in SF Pro Medium: "a few" white, "senior / engineers" yellow, lower middle of the frame.
+
+**Captions (all non-keyword lines).** SF Pro Medium, dark text on a peach pill `#EFB176`, rounded corners, 2–3 words per caption, about 50 px text / 75 px pill height. On full-frame presenter beats the pill sits on the chest (y ≈ 0.66), which solves the white T-shirt. Over a recording it sits just above the cut-out's head (y 0.43–0.51).
+
+**Preview ring (hook, "this is all you need to know to actually become a senior engineer").** AE comp 01, 71 frames: the five fanout course covers arranged in a 3D ring (radius 700, covers at 35%, one turn per 12 s, camera zoom 1800 at distance 2200; `3D_Horizontal_Image_Ring.jsx`) rotating behind the presenter's head. The presenter is rotoscoped in AE (Object Matte & Refine Edge) so the covers pass behind him. SFX under it: a ratchet mechanism at 60% speed and a rotating-dials clock beat.
+
+**Number cards (one per list item).** AE comps 02–06, full screen, each exactly as long as the spoken heading (33–60 frames):
+- off-white background, a giant numeral filling the frame in a pale tint of the cover's colour;
+- the course cover drops in from the left to upper centre (centre y ≈ 0.40);
+- title under it in SF Pro Bold capitals, tight tracking, in a dark shade of the cover's colour: small lead line ("MATH BEHIND", "THE FAMOUS") then big words ("MACHINE / LEARNING", "AI RESEARCH / PAPERS"), each word arriving with its spoken word through a short lens-blur;
+- voice continues underneath; hard cut back to the presenter for the explanation.
+Covers: `covers/Group 1321316747…775.png` (System design, Mathematics for Machine learning, AI research, Inference engineering, AI engineering).
+
+**Explanations.** Alternate presenter-with-pills and recording-with-cut-out. He kept four of my recordings (YouTube search, dev.to blogs, company guides, the Attention explainer) at scale 70.8 / 98 and added his own screen recording for AI engineering. Presenter cut-outs are Premiere masks on a duplicate A-roll clip (`AEMask2`, `.prmf` files), scale 81–105, bottom of frame, head top ≈ 0.53–0.59. Netflix and Uber logos as before, Uber now with Invert + Luma Key so only the wordmark shows.
+
+**B-roll.** One shot only (Silicon Valley, 1048.2 s), full screen with no presenter, with a keyframed whip pan across it (Position x 0.83 → −0.01 in 28 frames, eased). He dropped my other seven shots: the number cards do that job.
+
+**Ending.** "only on fanout": punch-in (166) and the fanout logo animation (loader at 200%, tinted white, scale 44) plays on his chest. Then a white colour matte with `{ curated }`, `{ mapped }`, `{ complete }` (SF Pro Semibold, dark, tracking −83), centred, one at a time for 17–19 frames each while he says them, then the loader on the same white for 72 frames.
+
+**Sound.** Music "Every Living Breathing Moment" at −15 dB (starts at −10 dB and settles over the first 1.3 s). The same mechanical click on seven cuts into graphics or recordings, whoosh + button on the first punch-in, tings on the logos, ratchet + clock under the ring. Far fewer SFX than my builds.
+
+**What I did differently in Reel 9, and what changes.**
+| My Reel 9 | His edit | From now on |
+|---|---|---|
+| Kept the take whole, 43.6 s | Cut every pause, 41.7 s | Trim every pause; voice may run under graphics |
+| Serif lead + bold white key, two-line stacks | Word-by-word small white + one huge yellow keyword | His hook text |
+| Number and name as a title over the presenter | Full-screen number card with the course cover | Number cards for lists |
+| Green serif pills only over recordings | Peach SF Pro pills on every non-keyword line | His pills, on the chest for presenter beats |
+| Eight b-roll shots | One shot with a whip pan | B-roll only where a graphic does not do the job better |
+| Face pushed low to free the ceiling for titles | Face high, text over the ceiling | Face high |
+| Ended on the presenter | Logo on "fanout", bracket end card, loader | His ending |
+| Music −30 dB | −15 dB | Ask; level depends on the track |
+
+## 23. Building in the manual-edit look (Reels 10 to 14, 2026-11-13) — what held up
+
+Working instructions are in `MANUAL_EDIT_LOOK_CONTEXT.md`; this section records the findings behind them.
+
+**Preview.** `tools/manual_reel.py` renders a list of beats (`pres`, `rec`, `broll`, `card`, `end`, `loader`). Each beat names the A-roll frames whose sound plays under it, so pause cuts and voice-under-graphics come from the same list. `tools/manual_look.py` holds the tracked text, the keyword fit (up to 270 px, 75% of the width) and the cover ring (each cover makes one right-to-left pass). Plans: `tools/gen_reel10_hook.py`, `gen_sauce_hook.py`, `gen_reel12.py`, `gen_reel13.py`, `gen_reel14.py`.
+
+**Framing per presenter.** Eyes at 0.36 of the frame at any scale: `pos_y = 0.36 + (0.5 − eyes_raw) × scale/100`. With eyes_raw 0.387 the frame only fills from scale 105 up. Hook text above the head needs the head lower: push to 112–114 with pos y 0.54–0.57 and keep the keyword baseline at 0.24–0.27; check the hair, not the forehead line the face detector reports.
+
+**Text.** Raise the small word row when the keyword has ascenders (`tall=True`). A keyword block behind the head (ring beat) needs the frame at about 135 @ y 0.675. When the presenter holds something at chest height, put the pill under it and drop the logo-on-chest; bring the cover card in on "Fanout" instead.
+
+**Recordings.** Pro lesson pages on fanout.sh show a paywall card with prices right under the intro; record the lesson's card on the course overview punched in (`rec_scale` 120) instead. Daily paper pages: 1.8 px per frame and stop before the paywall. The recorder removes purchase toasts ("bought", "started the monthly plan").
+
+**Editable Premiere project.** `tools/build_manual_prproj.py` clones every item from Abik's manual project. Facts: his sequence is 23.9748 fps (10595108966 ticks per frame); tracks are unnamed and addressed by position; A-roll and cut-out go in as frame-for-frame 23.976 copies; his sequence's stale preview renders must be removed; text origins inside his graphics are small (0.25558, 0.12151), keyword (0.12048, 0.16250), b-roll words (0.125, 0.37135), and Vector Motion position = target − scale × (origin − 0.5); his caption blobs keep y as a float at byte 228 with the same mapping as the older family at byte 232 (y 0.385 → −0.5521, slope 1/0.98).
+
+**After Effects.** Premiere's Dynamic Link identifies a comp by its item id inside the `.aep`: the linked media has `ImporterPrefs` = base64 of UTF-16LE `"%08x-0000-0000-0000-000000000000" % id` and Title `<comp name>/<file>.aep`. An `.aep` can only be written by After Effects, so `tools/gen_ae_script.py` writes an ExtendScript that Abik runs once; it builds the card comps, saves the `.aep` and writes the comp ids for the Premiere builder. Folder layout mirrors his collected folder: `(Footage)/`, `<project>Report.txt`.
+
+**Not verified as of 2026-11-14:** neither the generated Premiere projects (Reels 13, 14) nor the AE scripts have been opened in the real apps.

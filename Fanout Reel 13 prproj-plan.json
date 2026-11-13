@@ -1,0 +1,1264 @@
+{
+ "reference": "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/AI UGC Manual Edits.prproj",
+ "output_dir": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 13/Copied_Fanout Reel 13",
+ "media_flat": true,
+ "media_copy": [
+  "/Users/abiknewar/Work/Claude Editing 2/B-roll library/movies/Silicon Valley - middle out whiteboard.mp4",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 13/Media/before bed aroll 23976.mp4",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 13/Media/before bed cutout alpha.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 13/Media/r13_build.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 13/Media/r13_card_05.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 13/Media/r13_modules.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 13/Media/r13_rag.mov",
+  "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/5ij5qdSHFzJ2piPRuoTL5F.jpg",
+  "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/Denis Liudkevich - Delicate Antiques - Adjusting Ratchet Mech.wav",
+  "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/ES_Mechanical, Click, Buttons, Switches, Mixed, Antique, Special, Clicks - Epidemic Sound.mp3",
+  "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/ES_Mechanical, Click, Miniature Button, Multiple Pushes - Epidemic Sound.mp3",
+  "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/ES_Swooshes, Whoosh, Airy, Light 03 - Epidemic Sound.mp3",
+  "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/ES_User Interface, Misc, Pings, Tings, Generic, High, Tings - Epidemic Sound.mp3",
+  "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/Every Living Breathing Moment.mp3",
+  "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/Netflix_2015_logo.svg.webp",
+  "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/Unrealsfx - Dramatic Clocks Vol 2 - Rotating Dials Clock Mechanism Beat.wav",
+  "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/fanout-loader-alpha-prores4444 (1).mov"
+ ],
+ "media_copy_dirs": [],
+ "media_skip": [],
+ "exemplars": {
+  "aroll": {
+   "kind": "video",
+   "track": "V1",
+   "start": 2.377
+  },
+  "aroll_kf": {
+   "kind": "video",
+   "track": "V1",
+   "start": 0.0
+  },
+  "rec": {
+   "kind": "video",
+   "track": "V3",
+   "start": 6.298
+  },
+  "broll": {
+   "kind": "video",
+   "track": "V2",
+   "start": 8.676
+  },
+  "matte": {
+   "kind": "video",
+   "track": "V2",
+   "start": 36.455
+  },
+  "loader": {
+   "kind": "video",
+   "track": "V3",
+   "start": 38.666
+  },
+  "logo_chest": {
+   "kind": "video",
+   "track": "V10",
+   "start": 35.662
+  },
+  "g_small": {
+   "kind": "video",
+   "track": "V4",
+   "start": 0.209
+  },
+  "g_key": {
+   "kind": "video",
+   "track": "V6",
+   "start": 0.542
+  },
+  "g_med": {
+   "kind": "video",
+   "track": "V9",
+   "start": 9.301
+  },
+  "g_keymed": {
+   "kind": "video",
+   "track": "V11",
+   "start": 9.593
+  },
+  "g_end1": {
+   "kind": "video",
+   "track": "V3",
+   "start": 36.455
+  },
+  "g_end2": {
+   "kind": "video",
+   "track": "V4",
+   "start": 37.164
+  },
+  "g_end3": {
+   "kind": "video",
+   "track": "V5",
+   "start": 37.873
+  },
+  "cap_pres": {
+   "kind": "caption",
+   "track": "C1",
+   "start": 10.636
+  },
+  "cap_rec": {
+   "kind": "caption",
+   "track": "C1",
+   "start": 6.298
+  },
+  "cap_rec_low": {
+   "kind": "caption",
+   "track": "C1",
+   "start": 24.484
+  },
+  "dialog": {
+   "kind": "audio",
+   "track": "A1",
+   "start": 0.0
+  },
+  "music": {
+   "kind": "audio",
+   "track": "A4",
+   "start": 0.0
+  },
+  "sfx_click": {
+   "kind": "audio",
+   "track": "A3",
+   "start": 6.131
+  },
+  "sfx_whoosh": {
+   "kind": "audio",
+   "track": "A5",
+   "start": 2.044
+  },
+  "sfx_button": {
+   "kind": "audio",
+   "track": "A6",
+   "start": 2.294
+  }
+ },
+ "retarget": [
+  {
+   "old_title": "IliiUD5WCcn_Eb6udsbzeg.mp4",
+   "new_file": "before bed aroll 23976.mp4",
+   "duration_s": 36.87016666666667,
+   "audio_rate": 48000,
+   "frame_rect": "0,0,1080,1920"
+  },
+  {
+   "old_title": "r9_youtube.mov",
+   "new_file": "r13_modules.mov",
+   "duration_s": 2.9166666666666665,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "old_title": "r9_blogs.mov",
+   "new_file": "r13_rag.mov",
+   "duration_s": 3.5,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "old_title": "r9_company_guides.mov",
+   "new_file": "r13_build.mov",
+   "duration_s": 3.9166666666666665,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "old_title": "vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4",
+   "new_file": "Silicon Valley - middle out whiteboard.mp4",
+   "duration_s": 259.0,
+   "frame_rect": "0,0,1920,1080"
+  }
+ ],
+ "new_media": [
+  {
+   "key": "card5",
+   "exemplar_title": "r9_attention.mov",
+   "new_file": "r13_card_05.mov",
+   "duration_s": 1.126125,
+   "frame_rect": "0,0,1080,1920"
+  },
+  {
+   "key": "cutout",
+   "exemplar_title": "fanout-loader-alpha-prores4444 (1).mov",
+   "new_file": "before bed cutout alpha.mov",
+   "duration_s": 36.87016666666667,
+   "frame_rect": "0,0,1080,1920"
+  }
+ ],
+ "items": [
+  {
+   "kind": "audio",
+   "track": "A1",
+   "exemplar": "dialog",
+   "start_f": 0,
+   "end_f": 58,
+   "in_f": 2
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll_kf",
+   "start_f": 0,
+   "end_f": 58,
+   "in_f": 2,
+   "motion": {
+    "Scale": {
+     "keyframes": [
+      [
+       0,
+       100
+      ],
+      [
+       14,
+       114
+      ]
+     ]
+    },
+    "Position": {
+     "keyframes": [
+      [
+       0,
+       [
+        0.5,
+        0.5
+       ]
+      ],
+      [
+       14,
+       [
+        0.5,
+        0.54
+       ]
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "kind": "audio",
+   "track": "A4",
+   "exemplar": "music",
+   "start_f": 0,
+   "end_f": 847,
+   "in_s": 19.854
+  },
+  {
+   "kind": "graphic",
+   "track": "V5",
+   "exemplar": "g_small",
+   "title": {
+    "text": "If"
+   },
+   "start_f": 1,
+   "end_f": 19,
+   "motion": {
+    "Position": [
+     0.3701,
+     0.57091
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "V6",
+   "exemplar": "g_small",
+   "title": {
+    "text": "you're"
+   },
+   "start_f": 4,
+   "end_f": 19,
+   "motion": {
+    "Position": [
+     0.41393,
+     0.57091
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "V7",
+   "exemplar": "g_small",
+   "title": {
+    "text": "an"
+   },
+   "start_f": 8,
+   "end_f": 19,
+   "motion": {
+    "Position": [
+     0.58338,
+     0.57091
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "V4",
+   "exemplar": "g_key",
+   "title": {
+    "text": "engineer"
+   },
+   "start_f": 10,
+   "end_f": 19,
+   "motion": {
+    "Position": [
+     0.43491,
+     0.541
+    ],
+    "Scale": 81.48
+   },
+   "anim_in_f": 5
+  },
+  {
+   "kind": "graphic",
+   "track": "V5",
+   "exemplar": "g_small",
+   "title": {
+    "text": "scrolling"
+   },
+   "start_f": 19,
+   "end_f": 58,
+   "motion": {
+    "Position": [
+     0.3796,
+     0.56418
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "V6",
+   "exemplar": "g_small",
+   "title": {
+    "text": "reels"
+   },
+   "start_f": 31,
+   "end_f": 58,
+   "motion": {
+    "Position": [
+     0.98547,
+     0.56418
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "V4",
+   "exemplar": "g_key",
+   "title": {
+    "text": "before bed"
+   },
+   "start_f": 40,
+   "end_f": 58,
+   "motion": {
+    "Position": [
+     0.37819,
+     0.487
+    ],
+    "Scale": 66.67
+   },
+   "anim_in_f": 5
+  },
+  {
+   "kind": "audio",
+   "track": "A5",
+   "exemplar": "sfx_whoosh",
+   "start_f": 50,
+   "end_f": 69,
+   "in_s": 2.878
+  },
+  {
+   "kind": "audio",
+   "track": "A6",
+   "exemplar": "sfx_button",
+   "start_f": 56,
+   "end_f": 62,
+   "in_s": 1.877
+  },
+  {
+   "kind": "audio",
+   "track": "A7",
+   "exemplar": "sfx_button",
+   "start_f": 56,
+   "end_f": 62,
+   "in_s": 1.877
+  },
+  {
+   "kind": "audio",
+   "track": "A2",
+   "exemplar": "dialog",
+   "start_f": 58,
+   "end_f": 76,
+   "in_f": 70
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 58,
+   "end_f": 76,
+   "in_f": 70,
+   "motion": {
+    "Scale": 168,
+    "Position": [
+     0.5,
+     0.451
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "V4",
+   "exemplar": "g_small",
+   "title": {
+    "text": "this"
+   },
+   "start_f": 59,
+   "end_f": 76,
+   "motion": {
+    "Position": [
+     0.94442,
+     1.01049
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "V5",
+   "exemplar": "g_small",
+   "title": {
+    "text": "is"
+   },
+   "start_f": 63,
+   "end_f": 76,
+   "motion": {
+    "Position": [
+     0.94442,
+     1.05349
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "V6",
+   "exemplar": "g_small",
+   "title": {
+    "text": "for"
+   },
+   "start_f": 66,
+   "end_f": 76,
+   "motion": {
+    "Position": [
+     0.94442,
+     1.09649
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "V7",
+   "exemplar": "g_small",
+   "title": {
+    "text": "you"
+   },
+   "start_f": 70,
+   "end_f": 76,
+   "motion": {
+    "Position": [
+     0.94442,
+     1.13949
+    ]
+   }
+  },
+  {
+   "kind": "audio",
+   "track": "A3",
+   "exemplar": "sfx_click",
+   "start_f": 72,
+   "end_f": 88,
+   "in_s": 2.419
+  },
+  {
+   "kind": "audio",
+   "track": "A1",
+   "exemplar": "dialog",
+   "start_f": 76,
+   "end_f": 138,
+   "in_f": 105
+  },
+  {
+   "kind": "video",
+   "track": "V2",
+   "exemplar": "rec",
+   "start_f": 76,
+   "end_f": 138,
+   "in_s": 0.0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "V3",
+   "exemplar": "rec",
+   "media_key": "cutout",
+   "start_f": 76,
+   "end_f": 138,
+   "in_f": 105,
+   "motion": {
+    "Scale": 95,
+    "Position": [
+     0.38,
+     0.76
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec",
+   "text": "I started doing",
+   "start_f": 77,
+   "end_f": 91
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec",
+   "text": "one or two modules",
+   "start_f": 91,
+   "end_f": 118
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec",
+   "text": "on Fanout",
+   "start_f": 118,
+   "end_f": 138
+  },
+  {
+   "kind": "audio",
+   "track": "A2",
+   "exemplar": "dialog",
+   "start_f": 138,
+   "end_f": 184,
+   "in_f": 168
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 138,
+   "end_f": 184,
+   "in_f": 168,
+   "motion": {
+    "Scale": 146,
+    "Position": [
+     0.5,
+     0.439
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "every day",
+   "start_f": 139,
+   "end_f": 150
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "before I hit the bed,",
+   "start_f": 150,
+   "end_f": 184
+  },
+  {
+   "kind": "audio",
+   "track": "A1",
+   "exemplar": "dialog",
+   "start_f": 184,
+   "end_f": 207,
+   "in_f": 214
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 184,
+   "end_f": 207,
+   "in_f": 214,
+   "motion": {
+    "Scale": 159,
+    "Position": [
+     0.5,
+     0.446
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "and I'm actually",
+   "start_f": 185,
+   "end_f": 196
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "starting to get",
+   "start_f": 196,
+   "end_f": 207
+  },
+  {
+   "kind": "audio",
+   "track": "A3",
+   "exemplar": "sfx_click",
+   "start_f": 203,
+   "end_f": 219,
+   "in_s": 2.419
+  },
+  {
+   "kind": "audio",
+   "track": "A2",
+   "exemplar": "dialog",
+   "start_f": 207,
+   "end_f": 234,
+   "in_f": 237
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "rec",
+   "media_key": "card5",
+   "start_f": 207,
+   "end_f": 234,
+   "in_f": 0,
+   "motion": {
+    "Scale": 100,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "audio",
+   "track": "A1",
+   "exemplar": "dialog",
+   "start_f": 234,
+   "end_f": 285,
+   "in_f": 277
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 234,
+   "end_f": 285,
+   "in_f": 277,
+   "motion": {
+    "Scale": 130,
+    "Position": [
+     0.5,
+     0.43
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "A few weeks ago,",
+   "start_f": 235,
+   "end_f": 257
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "I couldn't have",
+   "start_f": 257,
+   "end_f": 271
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "told you",
+   "start_f": 271,
+   "end_f": 285
+  },
+  {
+   "kind": "audio",
+   "track": "A3",
+   "exemplar": "sfx_click",
+   "start_f": 281,
+   "end_f": 297,
+   "in_s": 2.419
+  },
+  {
+   "kind": "audio",
+   "track": "A2",
+   "exemplar": "dialog",
+   "start_f": 285,
+   "end_f": 360,
+   "in_f": 333
+  },
+  {
+   "kind": "video",
+   "track": "V2",
+   "exemplar": "rec",
+   "start_f": 285,
+   "end_f": 360,
+   "in_s": 0.0,
+   "motion": {
+    "Scale": 98,
+    "Position": [
+     0.5,
+     0.584
+    ]
+   },
+   "media_title": "r13_rag.mov"
+  },
+  {
+   "kind": "video",
+   "track": "V3",
+   "exemplar": "rec",
+   "media_key": "cutout",
+   "start_f": 285,
+   "end_f": 360,
+   "in_f": 333,
+   "motion": {
+    "Scale": 85,
+    "Position": [
+     0.6,
+     0.76
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec_low",
+   "text": "how a chatbot",
+   "start_f": 286,
+   "end_f": 303
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec_low",
+   "text": "answers from",
+   "start_f": 303,
+   "end_f": 321
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec_low",
+   "text": "your company's",
+   "start_f": 321,
+   "end_f": 337
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec_low",
+   "text": "own documents.",
+   "start_f": 337,
+   "end_f": 360
+  },
+  {
+   "kind": "audio",
+   "track": "A1",
+   "exemplar": "dialog",
+   "start_f": 360,
+   "end_f": 383,
+   "in_f": 415
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 360,
+   "end_f": 383,
+   "in_f": 415,
+   "motion": {
+    "Scale": 166,
+    "Position": [
+     0.5,
+     0.45
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "Now I can",
+   "start_f": 361,
+   "end_f": 371
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "explain it.",
+   "start_f": 371,
+   "end_f": 383
+  },
+  {
+   "kind": "audio",
+   "track": "A2",
+   "exemplar": "dialog",
+   "start_f": 383,
+   "end_f": 454,
+   "in_f": 445
+  },
+  {
+   "kind": "video",
+   "track": "V2",
+   "exemplar": "broll",
+   "start_f": 383,
+   "end_f": 454,
+   "in_s": 187.0,
+   "motion": {
+    "Scale": 182,
+    "Position": {
+     "keyframes": [
+      [
+       6,
+       [
+        0.6,
+        0.5
+       ]
+      ],
+      [
+       30,
+       [
+        1.15,
+        0.5
+       ]
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "And also",
+   "start_f": 384,
+   "end_f": 394
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "actually build",
+   "start_f": 394,
+   "end_f": 416
+  },
+  {
+   "kind": "graphic",
+   "track": "V4",
+   "exemplar": "g_med",
+   "title": {
+    "text": "production-grade"
+   },
+   "start_f": 416,
+   "end_f": 454,
+   "motion": {
+    "Position": [
+     0.52,
+     0.78365
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "V5",
+   "exemplar": "g_keymed",
+   "title": {
+    "text": "AI products"
+   },
+   "start_f": 432,
+   "end_f": 454,
+   "motion": {
+    "Position": [
+     0.57442,
+     0.89509
+    ],
+    "Scale": 116.67
+   },
+   "anim_in_f": 5
+  },
+  {
+   "kind": "audio",
+   "track": "A1",
+   "exemplar": "dialog",
+   "start_f": 454,
+   "end_f": 474,
+   "in_f": 516
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 454,
+   "end_f": 474,
+   "in_f": 516,
+   "motion": {
+    "Scale": 128,
+    "Position": [
+     0.5,
+     0.429
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "all by myself.",
+   "start_f": 454,
+   "end_f": 474
+  },
+  {
+   "kind": "audio",
+   "track": "A2",
+   "exemplar": "dialog",
+   "start_f": 474,
+   "end_f": 527,
+   "in_f": 538
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 474,
+   "end_f": 527,
+   "in_f": 538,
+   "motion": {
+    "Scale": 150,
+    "Position": [
+     0.5,
+     0.441
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "I feel like",
+   "start_f": 475,
+   "end_f": 488
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "an AI engineer",
+   "start_f": 488,
+   "end_f": 506
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "already,",
+   "start_f": 506,
+   "end_f": 527
+  },
+  {
+   "kind": "audio",
+   "track": "A3",
+   "exemplar": "sfx_click",
+   "start_f": 523,
+   "end_f": 539,
+   "in_s": 2.419
+  },
+  {
+   "kind": "audio",
+   "track": "A1",
+   "exemplar": "dialog",
+   "start_f": 527,
+   "end_f": 612,
+   "in_f": 591
+  },
+  {
+   "kind": "video",
+   "track": "V2",
+   "exemplar": "rec",
+   "start_f": 527,
+   "end_f": 612,
+   "in_s": 0.0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   },
+   "media_title": "r13_build.mov"
+  },
+  {
+   "kind": "video",
+   "track": "V3",
+   "exemplar": "rec",
+   "media_key": "cutout",
+   "start_f": 527,
+   "end_f": 612,
+   "in_f": 591,
+   "motion": {
+    "Scale": 95,
+    "Position": [
+     0.62,
+     0.76
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec",
+   "text": "and like I can build",
+   "start_f": 528,
+   "end_f": 553
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec",
+   "text": "on top of",
+   "start_f": 553,
+   "end_f": 567
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec",
+   "text": "this technology",
+   "start_f": 567,
+   "end_f": 584
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec",
+   "text": "very comfortably.",
+   "start_f": 584,
+   "end_f": 612
+  },
+  {
+   "kind": "audio",
+   "track": "A2",
+   "exemplar": "dialog",
+   "start_f": 612,
+   "end_f": 654,
+   "in_f": 682
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 612,
+   "end_f": 654,
+   "in_f": 682,
+   "motion": {
+    "Scale": 128,
+    "Position": [
+     0.5,
+     0.429
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "So tonight,",
+   "start_f": 613,
+   "end_f": 628
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "try swapping",
+   "start_f": 628,
+   "end_f": 640
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "doomscrolling",
+   "start_f": 640,
+   "end_f": 654
+  },
+  {
+   "kind": "audio",
+   "track": "A3",
+   "exemplar": "sfx_click",
+   "start_f": 650,
+   "end_f": 666,
+   "in_s": 2.419
+  },
+  {
+   "kind": "audio",
+   "track": "A1",
+   "exemplar": "dialog",
+   "start_f": 654,
+   "end_f": 700,
+   "in_f": 724
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 654,
+   "end_f": 700,
+   "in_f": 724,
+   "motion": {
+    "Scale": 166,
+    "Position": [
+     0.5,
+     0.45
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "for one module",
+   "start_f": 654,
+   "end_f": 677
+  },
+  {
+   "kind": "video",
+   "track": "V10",
+   "exemplar": "logo_chest",
+   "start_f": 677,
+   "end_f": 700,
+   "in_s": 0.0,
+   "speed": 2,
+   "motion": {
+    "Scale": 44,
+    "Position": [
+     0.5,
+     0.667
+    ]
+   }
+  },
+  {
+   "kind": "audio",
+   "track": "A2",
+   "exemplar": "dialog",
+   "start_f": 700,
+   "end_f": 737,
+   "in_f": 780
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 700,
+   "end_f": 737,
+   "in_f": 780,
+   "motion": {
+    "Scale": 139,
+    "Position": [
+     0.5,
+     0.435
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "And you'll feel",
+   "start_f": 701,
+   "end_f": 712
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "the difference",
+   "start_f": 712,
+   "end_f": 722
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "yourself.",
+   "start_f": 722,
+   "end_f": 737
+  },
+  {
+   "kind": "audio",
+   "track": "A1",
+   "exemplar": "dialog",
+   "start_f": 737,
+   "end_f": 789,
+   "in_f": 822
+  },
+  {
+   "kind": "video",
+   "track": "V2",
+   "exemplar": "matte",
+   "start_f": 737,
+   "end_f": 861
+  },
+  {
+   "kind": "graphic",
+   "track": "V3",
+   "exemplar": "g_end1",
+   "start_f": 737,
+   "end_f": 755,
+   "anim_in_f": 0
+  },
+  {
+   "kind": "graphic",
+   "track": "V4",
+   "exemplar": "g_end2",
+   "start_f": 755,
+   "end_f": 775,
+   "anim_in_f": 0
+  },
+  {
+   "kind": "graphic",
+   "track": "V5",
+   "exemplar": "g_end3",
+   "start_f": 775,
+   "end_f": 789,
+   "anim_in_f": 0
+  },
+  {
+   "kind": "video",
+   "track": "V3",
+   "exemplar": "loader",
+   "start_f": 789,
+   "end_f": 861,
+   "in_s": 0.0
+  }
+ ],
+ "total_frames": 861,
+ "project_name": "Fanout Reel 13",
+ "sequence_name": "Fanout Reel 13",
+ "old_sequence_name": "IliiUD5WCcn_Eb6udsbzeg"
+}

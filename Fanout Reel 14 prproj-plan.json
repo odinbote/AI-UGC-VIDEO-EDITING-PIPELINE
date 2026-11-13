@@ -1,0 +1,1583 @@
+{
+ "reference": "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/AI UGC Manual Edits.prproj",
+ "output_dir": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 14/Copied_Fanout Reel 14",
+ "media_flat": true,
+ "media_copy": [
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 14/Media/ai words aroll 23976.mp4",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 14/Media/ai words cutout alpha.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 14/Media/r14_agents.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 14/Media/r14_card_16.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 14/Media/r14_modules.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 14/Media/r14_order.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 14/Media/r14_rag.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 14/Media/r14_vectors.mov",
+  "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4",
+  "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/5ij5qdSHFzJ2piPRuoTL5F.jpg",
+  "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/Denis Liudkevich - Delicate Antiques - Adjusting Ratchet Mech.wav",
+  "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/ES_Mechanical, Click, Buttons, Switches, Mixed, Antique, Special, Clicks - Epidemic Sound.mp3",
+  "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/ES_Mechanical, Click, Miniature Button, Multiple Pushes - Epidemic Sound.mp3",
+  "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/ES_Swooshes, Whoosh, Airy, Light 03 - Epidemic Sound.mp3",
+  "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/ES_User Interface, Misc, Pings, Tings, Generic, High, Tings - Epidemic Sound.mp3",
+  "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/Every Living Breathing Moment.mp3",
+  "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/Netflix_2015_logo.svg.webp",
+  "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/Unrealsfx - Dramatic Clocks Vol 2 - Rotating Dials Clock Mechanism Beat.wav",
+  "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/fanout-loader-alpha-prores4444 (1).mov"
+ ],
+ "media_copy_dirs": [],
+ "media_skip": [],
+ "exemplars": {
+  "aroll": {
+   "kind": "video",
+   "track": "V1",
+   "start": 2.377
+  },
+  "aroll_kf": {
+   "kind": "video",
+   "track": "V1",
+   "start": 0.0
+  },
+  "rec": {
+   "kind": "video",
+   "track": "V3",
+   "start": 6.298
+  },
+  "broll": {
+   "kind": "video",
+   "track": "V2",
+   "start": 8.676
+  },
+  "loader": {
+   "kind": "video",
+   "track": "V3",
+   "start": 38.666
+  },
+  "g_small": {
+   "kind": "video",
+   "track": "V4",
+   "start": 0.209
+  },
+  "g_key": {
+   "kind": "video",
+   "track": "V6",
+   "start": 0.542
+  },
+  "g_med": {
+   "kind": "video",
+   "track": "V9",
+   "start": 9.301
+  },
+  "g_keymed": {
+   "kind": "video",
+   "track": "V11",
+   "start": 9.593
+  },
+  "cap_pres": {
+   "kind": "caption",
+   "track": "C1",
+   "start": 10.636
+  },
+  "cap_rec_low": {
+   "kind": "caption",
+   "track": "C1",
+   "start": 24.484
+  },
+  "dialog": {
+   "kind": "audio",
+   "track": "A1",
+   "start": 0.0
+  },
+  "music": {
+   "kind": "audio",
+   "track": "A4",
+   "start": 0.0
+  },
+  "sfx_click": {
+   "kind": "audio",
+   "track": "A3",
+   "start": 6.131
+  },
+  "sfx_whoosh": {
+   "kind": "audio",
+   "track": "A5",
+   "start": 2.044
+  },
+  "sfx_button": {
+   "kind": "audio",
+   "track": "A6",
+   "start": 2.294
+  }
+ },
+ "retarget": [
+  {
+   "old_title": "IliiUD5WCcn_Eb6udsbzeg.mp4",
+   "new_file": "ai words aroll 23976.mp4",
+   "duration_s": 49.25754166666667,
+   "audio_rate": 48000,
+   "frame_rect": "0,0,1080,1920"
+  },
+  {
+   "old_title": "r9_youtube.mov",
+   "new_file": "r14_rag.mov",
+   "duration_s": 3.1666666666666665,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "old_title": "r9_blogs.mov",
+   "new_file": "r14_agents.mov",
+   "duration_s": 3.5833333333333335,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "old_title": "r9_company_guides.mov",
+   "new_file": "r14_vectors.mov",
+   "duration_s": 3.0,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "old_title": "vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4",
+   "new_file": "vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4",
+   "duration_s": 1292.37,
+   "frame_rect": "0,0,1920,1080"
+  }
+ ],
+ "new_media": [
+  {
+   "key": "card16",
+   "exemplar_title": "r9_attention.mov",
+   "new_file": "r14_card_16.mov",
+   "duration_s": 1.9602916666666668,
+   "frame_rect": "0,0,1080,1920"
+  },
+  {
+   "key": "rec_r14_order.mov",
+   "exemplar_title": "r9_attention.mov",
+   "new_file": "r14_order.mov",
+   "duration_s": 2.3333333333333335,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "rec_r14_modules.mov",
+   "exemplar_title": "r9_attention.mov",
+   "new_file": "r14_modules.mov",
+   "duration_s": 1.6666666666666667,
+   "frame_rect": "0,0,1526,2712"
+  },
+  {
+   "key": "cutout",
+   "exemplar_title": "fanout-loader-alpha-prores4444 (1).mov",
+   "new_file": "ai words cutout alpha.mov",
+   "duration_s": 49.25754166666667,
+   "frame_rect": "0,0,1080,1920"
+  }
+ ],
+ "items": [
+  {
+   "kind": "audio",
+   "track": "A1",
+   "exemplar": "dialog",
+   "start_f": 0,
+   "end_f": 82,
+   "in_f": 1
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll_kf",
+   "start_f": 0,
+   "end_f": 82,
+   "in_f": 1,
+   "motion": {
+    "Scale": {
+     "keyframes": [
+      [
+       0,
+       100
+      ],
+      [
+       14,
+       112
+      ]
+     ]
+    },
+    "Position": {
+     "keyframes": [
+      [
+       0,
+       [
+        0.5,
+        0.5
+       ]
+      ],
+      [
+       14,
+       [
+        0.5,
+        0.56
+       ]
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "kind": "audio",
+   "track": "A4",
+   "exemplar": "music",
+   "start_f": 0,
+   "end_f": 1109,
+   "in_s": 19.854
+  },
+  {
+   "kind": "graphic",
+   "track": "V4",
+   "exemplar": "g_key",
+   "title": {
+    "text": "RAG"
+   },
+   "start_f": 2,
+   "end_f": 17,
+   "motion": {
+    "Position": [
+     0.63436,
+     0.5735
+    ]
+   },
+   "anim_in_f": 5
+  },
+  {
+   "kind": "graphic",
+   "track": "V4",
+   "exemplar": "g_key",
+   "title": {
+    "text": "Agents"
+   },
+   "start_f": 17,
+   "end_f": 32,
+   "motion": {
+    "Position": [
+     0.49898,
+     0.5685
+    ],
+    "Scale": 98.52
+   },
+   "anim_in_f": 5
+  },
+  {
+   "kind": "graphic",
+   "track": "V4",
+   "exemplar": "g_key",
+   "title": {
+    "text": "MCP"
+   },
+   "start_f": 32,
+   "end_f": 55,
+   "motion": {
+    "Position": [
+     0.6177,
+     0.5735
+    ]
+   },
+   "anim_in_f": 5
+  },
+  {
+   "kind": "graphic",
+   "track": "V5",
+   "exemplar": "g_small",
+   "title": {
+    "text": "Vector"
+   },
+   "start_f": 55,
+   "end_f": 82,
+   "motion": {
+    "Position": [
+     0.37041,
+     0.53661
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "V4",
+   "exemplar": "g_key",
+   "title": {
+    "text": "databases"
+   },
+   "start_f": 62,
+   "end_f": 82,
+   "motion": {
+    "Position": [
+     0.38462,
+     0.466
+    ],
+    "Scale": 68.15
+   },
+   "anim_in_f": 5
+  },
+  {
+   "kind": "audio",
+   "track": "A5",
+   "exemplar": "sfx_whoosh",
+   "start_f": 74,
+   "end_f": 93,
+   "in_s": 2.878
+  },
+  {
+   "kind": "audio",
+   "track": "A6",
+   "exemplar": "sfx_button",
+   "start_f": 80,
+   "end_f": 86,
+   "in_s": 1.877
+  },
+  {
+   "kind": "audio",
+   "track": "A7",
+   "exemplar": "sfx_button",
+   "start_f": 80,
+   "end_f": 86,
+   "in_s": 1.877
+  },
+  {
+   "kind": "audio",
+   "track": "A2",
+   "exemplar": "dialog",
+   "start_f": 82,
+   "end_f": 131,
+   "in_f": 86
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 82,
+   "end_f": 131,
+   "in_f": 86,
+   "motion": {
+    "Scale": 125,
+    "Position": [
+     0.5,
+     0.6
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "V5",
+   "exemplar": "g_small",
+   "title": {
+    "text": "Every"
+   },
+   "start_f": 83,
+   "end_f": 131,
+   "motion": {
+    "Position": [
+     0.37066,
+     0.50927
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "V6",
+   "exemplar": "g_small",
+   "title": {
+    "text": "week"
+   },
+   "start_f": 89,
+   "end_f": 131,
+   "motion": {
+    "Position": [
+     0.52375,
+     0.50927
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "V7",
+   "exemplar": "g_small",
+   "title": {
+    "text": "there's"
+   },
+   "start_f": 94,
+   "end_f": 131,
+   "motion": {
+    "Position": [
+     0.67345,
+     0.50927
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "V8",
+   "exemplar": "g_small",
+   "title": {
+    "text": "a"
+   },
+   "start_f": 101,
+   "end_f": 131,
+   "motion": {
+    "Position": [
+     0.86018,
+     0.50927
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "V9",
+   "exemplar": "g_small",
+   "title": {
+    "text": "new"
+   },
+   "start_f": 104,
+   "end_f": 131,
+   "motion": {
+    "Position": [
+     0.9034,
+     0.50927
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "V4",
+   "exemplar": "g_key",
+   "title": {
+    "text": "AI word"
+   },
+   "start_f": 111,
+   "end_f": 131,
+   "motion": {
+    "Position": [
+     0.48327,
+     0.5535
+    ],
+    "Scale": 94.07
+   },
+   "anim_in_f": 5
+  },
+  {
+   "kind": "audio",
+   "track": "A1",
+   "exemplar": "dialog",
+   "start_f": 131,
+   "end_f": 196,
+   "in_f": 137
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 131,
+   "end_f": 196,
+   "in_f": 137,
+   "motion": {
+    "Scale": 150,
+    "Position": [
+     0.5,
+     0.529
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "and I had no idea",
+   "start_f": 131,
+   "end_f": 160,
+   "y": 0.694
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "what this stack",
+   "start_f": 160,
+   "end_f": 175,
+   "y": 0.694
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "even was",
+   "start_f": 175,
+   "end_f": 196,
+   "y": 0.694
+  },
+  {
+   "kind": "audio",
+   "track": "A2",
+   "exemplar": "dialog",
+   "start_f": 196,
+   "end_f": 216,
+   "in_f": 206
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 196,
+   "end_f": 216,
+   "in_f": 206,
+   "motion": {
+    "Scale": 168,
+    "Position": [
+     0.5,
+     0.55
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "or where to start.",
+   "start_f": 196,
+   "end_f": 216,
+   "y": 0.727
+  },
+  {
+   "kind": "audio",
+   "track": "A1",
+   "exemplar": "dialog",
+   "start_f": 216,
+   "end_f": 251,
+   "in_f": 234
+  },
+  {
+   "kind": "video",
+   "track": "V2",
+   "exemplar": "broll",
+   "start_f": 216,
+   "end_f": 251,
+   "in_s": 32.6,
+   "motion": {
+    "Scale": 182,
+    "Position": {
+     "keyframes": [
+      [
+       5,
+       [
+        1.31,
+        0.5
+       ]
+      ],
+      [
+       24,
+       [
+        -0.12,
+        0.5
+       ]
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "V4",
+   "exemplar": "g_med",
+   "title": {
+    "text": "I build"
+   },
+   "start_f": 218,
+   "end_f": 251,
+   "motion": {
+    "Position": [
+     0.52,
+     0.77365
+    ]
+   }
+  },
+  {
+   "kind": "graphic",
+   "track": "V5",
+   "exemplar": "g_keymed",
+   "title": {
+    "text": "normal"
+   },
+   "start_f": 224,
+   "end_f": 251,
+   "motion": {
+    "Position": [
+     0.85921,
+     0.78365
+    ]
+   },
+   "anim_in_f": 5
+  },
+  {
+   "kind": "graphic",
+   "track": "V6",
+   "exemplar": "g_keymed",
+   "title": {
+    "text": "software"
+   },
+   "start_f": 231,
+   "end_f": 251,
+   "motion": {
+    "Position": [
+     0.65834,
+     0.88509
+    ],
+    "Scale": 116.67
+   },
+   "anim_in_f": 5
+  },
+  {
+   "kind": "audio",
+   "track": "A2",
+   "exemplar": "dialog",
+   "start_f": 251,
+   "end_f": 306,
+   "in_f": 279
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 251,
+   "end_f": 306,
+   "in_f": 279,
+   "motion": {
+    "Scale": 132,
+    "Position": [
+     0.5,
+     0.509
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "and suddenly",
+   "start_f": 251,
+   "end_f": 264,
+   "y": 0.663
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "every meeting",
+   "start_f": 264,
+   "end_f": 283,
+   "y": 0.663
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "is about AI.",
+   "start_f": 283,
+   "end_f": 306,
+   "y": 0.663
+  },
+  {
+   "kind": "audio",
+   "track": "A1",
+   "exemplar": "dialog",
+   "start_f": 306,
+   "end_f": 339,
+   "in_f": 339
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 306,
+   "end_f": 339,
+   "in_f": 339,
+   "motion": {
+    "Scale": 158,
+    "Position": [
+     0.5,
+     0.539
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "Then someone",
+   "start_f": 306,
+   "end_f": 317,
+   "y": 0.71
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "explained it to me,",
+   "start_f": 317,
+   "end_f": 339,
+   "y": 0.71
+  },
+  {
+   "kind": "audio",
+   "track": "A2",
+   "exemplar": "dialog",
+   "start_f": 339,
+   "end_f": 364,
+   "in_f": 381
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 339,
+   "end_f": 364,
+   "in_f": 381,
+   "motion": {
+    "Scale": 122,
+    "Position": [
+     0.5,
+     0.498
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "without the jargon.",
+   "start_f": 339,
+   "end_f": 364,
+   "y": 0.653
+  },
+  {
+   "kind": "audio",
+   "track": "A3",
+   "exemplar": "sfx_click",
+   "start_f": 360,
+   "end_f": 376,
+   "in_s": 2.419
+  },
+  {
+   "kind": "audio",
+   "track": "A1",
+   "exemplar": "dialog",
+   "start_f": 364,
+   "end_f": 429,
+   "in_f": 413
+  },
+  {
+   "kind": "video",
+   "track": "V2",
+   "exemplar": "rec",
+   "start_f": 364,
+   "end_f": 429,
+   "in_s": 0.0,
+   "motion": {
+    "Scale": 120,
+    "Position": [
+     0.848,
+     0.285
+    ]
+   }
+  },
+  {
+   "kind": "video",
+   "track": "V3",
+   "exemplar": "rec",
+   "media_key": "cutout",
+   "start_f": 364,
+   "end_f": 429,
+   "in_f": 413,
+   "motion": {
+    "Scale": 105,
+    "Position": [
+     0.5,
+     0.83
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec_low",
+   "text": "RAG just means",
+   "start_f": 364,
+   "end_f": 382,
+   "y": 0.508
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec_low",
+   "text": "looking it up",
+   "start_f": 382,
+   "end_f": 397,
+   "y": 0.508
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec_low",
+   "text": "in your documents",
+   "start_f": 397,
+   "end_f": 413,
+   "y": 0.508
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec_low",
+   "text": "first,",
+   "start_f": 413,
+   "end_f": 429,
+   "y": 0.508
+  },
+  {
+   "kind": "audio",
+   "track": "A2",
+   "exemplar": "dialog",
+   "start_f": 429,
+   "end_f": 450,
+   "in_f": 488
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 429,
+   "end_f": 450,
+   "in_f": 488,
+   "motion": {
+    "Scale": 166,
+    "Position": [
+     0.5,
+     0.548
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "then answering.",
+   "start_f": 429,
+   "end_f": 450,
+   "y": 0.724
+  },
+  {
+   "kind": "audio",
+   "track": "A3",
+   "exemplar": "sfx_click",
+   "start_f": 446,
+   "end_f": 462,
+   "in_s": 2.419
+  },
+  {
+   "kind": "audio",
+   "track": "A1",
+   "exemplar": "dialog",
+   "start_f": 450,
+   "end_f": 526,
+   "in_f": 516
+  },
+  {
+   "kind": "video",
+   "track": "V2",
+   "exemplar": "rec",
+   "start_f": 450,
+   "end_f": 526,
+   "in_s": 0.0,
+   "motion": {
+    "Scale": 120,
+    "Position": [
+     0.152,
+     0.285
+    ]
+   },
+   "media_title": "r14_agents.mov"
+  },
+  {
+   "kind": "video",
+   "track": "V3",
+   "exemplar": "rec",
+   "media_key": "cutout",
+   "start_f": 450,
+   "end_f": 526,
+   "in_f": 516,
+   "motion": {
+    "Scale": 105,
+    "Position": [
+     0.5,
+     0.83
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec_low",
+   "text": "An agent is",
+   "start_f": 450,
+   "end_f": 468,
+   "y": 0.508
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec_low",
+   "text": "just a model",
+   "start_f": 468,
+   "end_f": 484,
+   "y": 0.508
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec_low",
+   "text": "that can use",
+   "start_f": 484,
+   "end_f": 505,
+   "y": 0.508
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec_low",
+   "text": "your tools,",
+   "start_f": 505,
+   "end_f": 526,
+   "y": 0.508
+  },
+  {
+   "kind": "audio",
+   "track": "A2",
+   "exemplar": "dialog",
+   "start_f": 526,
+   "end_f": 541,
+   "in_f": 594
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 526,
+   "end_f": 541,
+   "in_f": 594,
+   "motion": {
+    "Scale": 150,
+    "Position": [
+     0.5,
+     0.529
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "in a loop,",
+   "start_f": 526,
+   "end_f": 541,
+   "y": 0.694
+  },
+  {
+   "kind": "audio",
+   "track": "A1",
+   "exemplar": "dialog",
+   "start_f": 541,
+   "end_f": 570,
+   "in_f": 613
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 541,
+   "end_f": 570,
+   "in_f": 613,
+   "motion": {
+    "Scale": 128,
+    "Position": [
+     0.5,
+     0.505
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "until the job",
+   "start_f": 541,
+   "end_f": 556,
+   "y": 0.656
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "is done.",
+   "start_f": 556,
+   "end_f": 570,
+   "y": 0.656
+  },
+  {
+   "kind": "audio",
+   "track": "A2",
+   "exemplar": "dialog",
+   "start_f": 570,
+   "end_f": 615,
+   "in_f": 648
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 570,
+   "end_f": 615,
+   "in_f": 648,
+   "motion": {
+    "Scale": 160,
+    "Position": [
+     0.5,
+     0.541
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "Meaning it's",
+   "start_f": 570,
+   "end_f": 584,
+   "y": 0.713
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "not as hard",
+   "start_f": 584,
+   "end_f": 595,
+   "y": 0.713
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "as it sounds.",
+   "start_f": 595,
+   "end_f": 615,
+   "y": 0.713
+  },
+  {
+   "kind": "audio",
+   "track": "A1",
+   "exemplar": "dialog",
+   "start_f": 615,
+   "end_f": 658,
+   "in_f": 694
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 615,
+   "end_f": 658,
+   "in_f": 694,
+   "motion": {
+    "Scale": 135,
+    "Position": [
+     0.5,
+     0.513
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "It's a few",
+   "start_f": 615,
+   "end_f": 628,
+   "y": 0.669
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "simple systems.",
+   "start_f": 628,
+   "end_f": 658,
+   "y": 0.669
+  },
+  {
+   "kind": "audio",
+   "track": "A2",
+   "exemplar": "dialog",
+   "start_f": 658,
+   "end_f": 671,
+   "in_f": 743
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 658,
+   "end_f": 671,
+   "in_f": 743,
+   "motion": {
+    "Scale": 125,
+    "Position": [
+     0.5,
+     0.501
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "This is how",
+   "start_f": 658,
+   "end_f": 671,
+   "y": 0.653
+  },
+  {
+   "kind": "audio",
+   "track": "A3",
+   "exemplar": "sfx_click",
+   "start_f": 667,
+   "end_f": 683,
+   "in_s": 2.419
+  },
+  {
+   "kind": "audio",
+   "track": "A1",
+   "exemplar": "dialog",
+   "start_f": 671,
+   "end_f": 718,
+   "in_f": 756
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "rec",
+   "media_key": "card16",
+   "start_f": 671,
+   "end_f": 718,
+   "in_f": 0,
+   "motion": {
+    "Scale": 100,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   }
+  },
+  {
+   "kind": "audio",
+   "track": "A3",
+   "exemplar": "sfx_click",
+   "start_f": 714,
+   "end_f": 730,
+   "in_s": 2.419
+  },
+  {
+   "kind": "audio",
+   "track": "A2",
+   "exemplar": "dialog",
+   "start_f": 718,
+   "end_f": 779,
+   "in_f": 810
+  },
+  {
+   "kind": "video",
+   "track": "V2",
+   "exemplar": "rec",
+   "start_f": 718,
+   "end_f": 779,
+   "in_s": 0.0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   },
+   "media_title": "r14_vectors.mov"
+  },
+  {
+   "kind": "video",
+   "track": "V3",
+   "exemplar": "rec",
+   "media_key": "cutout",
+   "start_f": 718,
+   "end_f": 779,
+   "in_f": 810,
+   "motion": {
+    "Scale": 105,
+    "Position": [
+     0.42,
+     0.83
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec_low",
+   "text": "Every lesson",
+   "start_f": 718,
+   "end_f": 734,
+   "y": 0.508
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec_low",
+   "text": "breaks one of",
+   "start_f": 734,
+   "end_f": 750,
+   "y": 0.508
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec_low",
+   "text": "these concepts down",
+   "start_f": 750,
+   "end_f": 779,
+   "y": 0.508
+  },
+  {
+   "kind": "audio",
+   "track": "A1",
+   "exemplar": "dialog",
+   "start_f": 779,
+   "end_f": 828,
+   "in_f": 876
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 779,
+   "end_f": 828,
+   "in_f": 876,
+   "motion": {
+    "Scale": 148,
+    "Position": [
+     0.5,
+     0.527
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "in a way you'll",
+   "start_f": 779,
+   "end_f": 793,
+   "y": 0.691
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "actually understand,",
+   "start_f": 793,
+   "end_f": 828,
+   "y": 0.691
+  },
+  {
+   "kind": "audio",
+   "track": "A3",
+   "exemplar": "sfx_click",
+   "start_f": 824,
+   "end_f": 840,
+   "in_s": 2.419
+  },
+  {
+   "kind": "audio",
+   "track": "A2",
+   "exemplar": "dialog",
+   "start_f": 828,
+   "end_f": 872,
+   "in_f": 935
+  },
+  {
+   "kind": "video",
+   "track": "V2",
+   "exemplar": "rec",
+   "start_f": 828,
+   "end_f": 872,
+   "in_s": 0.0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   },
+   "media_key": "rec_r14_order.mov"
+  },
+  {
+   "kind": "video",
+   "track": "V3",
+   "exemplar": "rec",
+   "media_key": "cutout",
+   "start_f": 828,
+   "end_f": 872,
+   "in_f": 935,
+   "motion": {
+    "Scale": 105,
+    "Position": [
+     0.58,
+     0.83
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec_low",
+   "text": "in the order",
+   "start_f": 828,
+   "end_f": 840,
+   "y": 0.508
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec_low",
+   "text": "that makes it",
+   "start_f": 840,
+   "end_f": 853,
+   "y": 0.508
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec_low",
+   "text": "easy to learn.",
+   "start_f": 853,
+   "end_f": 872,
+   "y": 0.508
+  },
+  {
+   "kind": "audio",
+   "track": "A1",
+   "exemplar": "dialog",
+   "start_f": 872,
+   "end_f": 930,
+   "in_f": 985
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 872,
+   "end_f": 930,
+   "in_f": 985,
+   "motion": {
+    "Scale": 130,
+    "Position": [
+     0.5,
+     0.507
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "It's wild to me",
+   "start_f": 872,
+   "end_f": 892,
+   "y": 0.659
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "how far ahead",
+   "start_f": 892,
+   "end_f": 909,
+   "y": 0.659
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "I already feel,",
+   "start_f": 909,
+   "end_f": 930,
+   "y": 0.659
+  },
+  {
+   "kind": "audio",
+   "track": "A2",
+   "exemplar": "dialog",
+   "start_f": 930,
+   "end_f": 966,
+   "in_f": 1045
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 930,
+   "end_f": 966,
+   "in_f": 1045,
+   "motion": {
+    "Scale": 160,
+    "Position": [
+     0.5,
+     0.541
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "and I'm seeing it",
+   "start_f": 930,
+   "end_f": 948,
+   "y": 0.713
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "in my work.",
+   "start_f": 948,
+   "end_f": 966,
+   "y": 0.713
+  },
+  {
+   "kind": "audio",
+   "track": "A3",
+   "exemplar": "sfx_click",
+   "start_f": 962,
+   "end_f": 978,
+   "in_s": 2.419
+  },
+  {
+   "kind": "audio",
+   "track": "A1",
+   "exemplar": "dialog",
+   "start_f": 966,
+   "end_f": 993,
+   "in_f": 1088
+  },
+  {
+   "kind": "video",
+   "track": "V2",
+   "exemplar": "rec",
+   "start_f": 966,
+   "end_f": 993,
+   "in_s": 0.0,
+   "motion": {
+    "Scale": 70.8,
+    "Position": [
+     0.5,
+     0.5
+    ]
+   },
+   "media_key": "rec_r14_modules.mov"
+  },
+  {
+   "kind": "video",
+   "track": "V3",
+   "exemplar": "rec",
+   "media_key": "cutout",
+   "start_f": 966,
+   "end_f": 993,
+   "in_f": 1088,
+   "motion": {
+    "Scale": 105,
+    "Position": [
+     0.42,
+     0.83
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_rec_low",
+   "text": "Try a few modules.",
+   "start_f": 966,
+   "end_f": 993,
+   "y": 0.508
+  },
+  {
+   "kind": "audio",
+   "track": "A2",
+   "exemplar": "dialog",
+   "start_f": 993,
+   "end_f": 1051,
+   "in_f": 1119
+  },
+  {
+   "kind": "video",
+   "track": "V1",
+   "exemplar": "aroll",
+   "start_f": 993,
+   "end_f": 1051,
+   "in_f": 1119,
+   "motion": {
+    "Scale": 138,
+    "Position": [
+     0.5,
+     0.516
+    ]
+   }
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "There's no better way",
+   "start_f": 993,
+   "end_f": 1012,
+   "y": 0.674
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "to learn",
+   "start_f": 1012,
+   "end_f": 1023,
+   "y": 0.674
+  },
+  {
+   "kind": "caption",
+   "track": "C1",
+   "exemplar": "cap_pres",
+   "text": "AI engineering.",
+   "start_f": 1023,
+   "end_f": 1051,
+   "y": 0.674
+  },
+  {
+   "kind": "video",
+   "track": "V3",
+   "exemplar": "loader",
+   "start_f": 1051,
+   "end_f": 1123,
+   "in_s": 0.0
+  }
+ ],
+ "total_frames": 1123,
+ "project_name": "Fanout Reel 14",
+ "sequence_name": "Fanout Reel 14",
+ "old_sequence_name": "IliiUD5WCcn_Eb6udsbzeg"
+}

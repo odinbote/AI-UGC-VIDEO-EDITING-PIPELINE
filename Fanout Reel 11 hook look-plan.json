@@ -1,0 +1,276 @@
+{
+ "aroll": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 11/Media/sauce hook 3 aroll.mp4",
+ "matte_dir": "/private/tmp/claude-501/-Users-abiknewar-Work-Claude-Editing-2/50ae89ed-a5e9-41ec-bd82-530f1b1ca78b/scratchpad/r11/frames",
+ "pieces": [
+  {
+   "src_in": 13,
+   "src_out": 67,
+   "scale": {
+    "kf": [
+     [
+      0,
+      100
+     ],
+     [
+      14,
+      114
+     ]
+    ]
+   },
+   "pos": {
+    "kf": [
+     [
+      0,
+      [
+       0.5,
+       0.5
+      ]
+     ],
+     [
+      14,
+      [
+       0.5,
+       0.522
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "src_in": 67,
+   "src_out": 95,
+   "scale": 168,
+   "pos": [
+    0.5,
+    0.4
+   ]
+  },
+  {
+   "src_in": 105,
+   "src_out": 183,
+   "scale": 120,
+   "pos": [
+    0.5,
+    0.564
+   ]
+  }
+ ],
+ "words": [
+  {
+   "text": "reveal",
+   "style": "key",
+   "x": 0.5,
+   "align": "c",
+   "y": 0.266,
+   "start": 13,
+   "end": 21,
+   "size": 270
+  },
+  {
+   "text": "I'm",
+   "style": "small",
+   "x": 0.18155092592592592,
+   "y": 0.178875,
+   "start": 2,
+   "end": 21
+  },
+  {
+   "text": "about",
+   "style": "small",
+   "x": 0.2704435185185185,
+   "y": 0.178875,
+   "start": 5,
+   "end": 21
+  },
+  {
+   "text": "to",
+   "style": "small",
+   "x": 0.4300175925925926,
+   "y": 0.178875,
+   "start": 9,
+   "end": 21
+  },
+  {
+   "text": "engineers",
+   "style": "key",
+   "x": 0.5,
+   "align": "c",
+   "y": 0.248,
+   "start": 44,
+   "end": 54,
+   "size": 194
+  },
+  {
+   "text": "some",
+   "style": "small",
+   "x": 0.13733703703703704,
+   "y": 0.1814583333333333,
+   "start": 21,
+   "end": 54
+  },
+  {
+   "text": "sauce",
+   "style": "small",
+   "x": 0.6290111111111112,
+   "y": 0.1814583333333333,
+   "start": 28,
+   "end": 54
+  },
+  {
+   "text": "for",
+   "style": "small",
+   "x": 0.7941407407407408,
+   "y": 0.1814583333333333,
+   "start": 38,
+   "end": 54
+  },
+  {
+   "text": "that's",
+   "style": "small",
+   "x": 0.7,
+   "y": 0.632,
+   "start": 54,
+   "end": 82
+  },
+  {
+   "text": "not",
+   "style": "small",
+   "x": 0.7,
+   "y": 0.675,
+   "start": 63,
+   "end": 82
+  },
+  {
+   "text": "out",
+   "style": "small",
+   "x": 0.7,
+   "y": 0.718,
+   "start": 67,
+   "end": 82
+  },
+  {
+   "text": "there",
+   "style": "small",
+   "x": 0.7,
+   "y": 0.761,
+   "start": 72,
+   "end": 82
+  },
+  {
+   "text": "to",
+   "style": "small",
+   "x": 0.6728888888888889,
+   "y": 0.222,
+   "start": 109,
+   "end": 125
+  },
+  {
+   "text": "actually",
+   "style": "small",
+   "x": 0.7361629629629629,
+   "y": 0.222,
+   "start": 117,
+   "end": 125
+  },
+  {
+   "text": "senior",
+   "style": "key",
+   "x": 0.5,
+   "align": "c",
+   "y": 0.245,
+   "start": 139,
+   "end": 160,
+   "size": 316,
+   "behind": true
+  },
+  {
+   "text": "engineer",
+   "style": "key",
+   "x": 0.5,
+   "align": "c",
+   "y": 0.318,
+   "start": 145,
+   "end": 160,
+   "size": 222,
+   "behind": true
+  },
+  {
+   "text": "become",
+   "style": "small",
+   "x": 0.2328796296296296,
+   "y": 0.14541666666666664,
+   "start": 125,
+   "end": 160,
+   "behind": true
+  },
+  {
+   "text": "a",
+   "style": "small",
+   "x": 0.45418333333333333,
+   "y": 0.14541666666666664,
+   "start": 133,
+   "end": 160,
+   "behind": true
+  }
+ ],
+ "ring": {
+  "start": 82,
+  "end": 114,
+  "phase0": 0.27,
+  "turns": -1.34,
+  "covers": [
+   "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316766.png",
+   "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316747.png",
+   "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316748.png",
+   "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316749.png",
+   "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316775.png"
+  ],
+  "geom": {
+   "cx": 0.5,
+   "cy": 0.205,
+   "radius": 560,
+   "card_h": 647
+  }
+ },
+ "audio": {
+  "layers": [
+   {
+    "file": "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/Every Living Breathing Moment.mp3",
+    "in_s": 19.854,
+    "start": 0,
+    "end": 160,
+    "gain_db": -15,
+    "fade_out": 6
+   },
+   {
+    "file": "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/ES_Swooshes, Whoosh, Airy, Light 03 - Epidemic Sound.mp3",
+    "in_s": 2.878,
+    "start": 46,
+    "end": 65,
+    "gain_db": -15
+   },
+   {
+    "file": "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/ES_Mechanical, Click, Miniature Button, Multiple Pushes - Epidemic Sound.mp3",
+    "in_s": 1.877,
+    "start": 52,
+    "end": 58,
+    "gain_db": -22
+   },
+   {
+    "file": "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/Denis Liudkevich - Delicate Antiques - Adjusting Ratchet Mech.wav",
+    "in_s": 0.0,
+    "start": 85,
+    "end": 118,
+    "speed": 0.6,
+    "gain_db": -12
+   },
+   {
+    "file": "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/Unrealsfx - Dramatic Clocks Vol 2 - Rotating Dials Clock Mechanism Beat.wav",
+    "in_s": 0.459,
+    "start": 83,
+    "end": 114,
+    "gain_db": -12
+   }
+  ]
+ }
+}

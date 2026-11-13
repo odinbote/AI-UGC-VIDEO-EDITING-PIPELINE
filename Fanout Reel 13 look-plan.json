@@ -1,0 +1,612 @@
+{
+ "aroll": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 13/Media/before bed aroll.mp4",
+ "matte_dir": "/private/tmp/claude-501/-Users-abiknewar-Work-Claude-Editing-2/50ae89ed-a5e9-41ec-bd82-530f1b1ca78b/scratchpad/r13/frames",
+ "covers": [
+  "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316766.png",
+  "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316747.png",
+  "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316748.png",
+  "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316749.png",
+  "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316775.png"
+ ],
+ "man": "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/",
+ "loader": "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/fanout-loader-alpha-prores4444 (1).mov",
+ "beats": [
+  {
+   "type": "pres",
+   "src": [
+    2,
+    60
+   ],
+   "scale": {
+    "kf": [
+     [
+      0,
+      100
+     ],
+     [
+      14,
+      114
+     ]
+    ]
+   },
+   "pos": {
+    "kf": [
+     [
+      0,
+      [
+       0.5,
+       0.5
+      ]
+     ],
+     [
+      14,
+      [
+       0.5,
+       0.54
+      ]
+     ]
+    ]
+   },
+   "words": [
+    {
+     "text": "engineer",
+     "style": "key",
+     "x": 0.5,
+     "align": "c",
+     "y": 0.266,
+     "start": 12,
+     "end": 21,
+     "size": 220
+    },
+    {
+     "text": "If",
+     "style": "small",
+     "x": 0.12567592592592597,
+     "y": 0.19241666666666668,
+     "start": 3,
+     "end": 21
+    },
+    {
+     "text": "you're",
+     "style": "small",
+     "x": 0.1695055555555556,
+     "y": 0.19241666666666668,
+     "start": 6,
+     "end": 21
+    },
+    {
+     "text": "an",
+     "style": "small",
+     "x": 0.33895740740740743,
+     "y": 0.19241666666666668,
+     "start": 10,
+     "end": 21
+    },
+    {
+     "text": "before bed",
+     "style": "key",
+     "x": 0.5,
+     "align": "c",
+     "y": 0.262,
+     "start": 42,
+     "end": 60,
+     "size": 180
+    },
+    {
+     "text": "scrolling",
+     "style": "small",
+     "x": 0.13517592592592592,
+     "y": 0.1856875,
+     "start": 21,
+     "end": 60
+    },
+    {
+     "text": "reels",
+     "style": "small",
+     "x": 0.7410537037037037,
+     "y": 0.1856875,
+     "start": 33,
+     "end": 60
+    }
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    70,
+    88
+   ],
+   "scale": 168,
+   "pos": [
+    0.5,
+    0.451
+   ],
+   "words": [
+    {
+     "text": "this",
+     "style": "small",
+     "x": 0.7,
+     "y": 0.632,
+     "start": 71,
+     "end": 88
+    },
+    {
+     "text": "is",
+     "style": "small",
+     "x": 0.7,
+     "y": 0.675,
+     "start": 75,
+     "end": 88
+    },
+    {
+     "text": "for",
+     "style": "small",
+     "x": 0.7,
+     "y": 0.718,
+     "start": 78,
+     "end": 88
+    },
+    {
+     "text": "you",
+     "style": "small",
+     "x": 0.7,
+     "y": 0.761,
+     "start": 82,
+     "end": 88
+    }
+   ],
+   "whoosh": true
+  },
+  {
+   "type": "rec",
+   "src": [
+    105,
+    167
+   ],
+   "file": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 13/Media/r13_modules.mov",
+   "cut_scale": 95,
+   "cut_pos": [
+    0.38,
+    0.76
+   ],
+   "click": true,
+   "pills": [
+    [
+     "I started doing",
+     106,
+     120
+    ],
+    [
+     "one or two modules",
+     120,
+     147
+    ],
+    [
+     "on Fanout",
+     147,
+     167
+    ]
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    168,
+    214
+   ],
+   "scale": 146,
+   "pos": [
+    0.5,
+    0.439
+   ],
+   "pills": [
+    [
+     "every day",
+     169,
+     180
+    ],
+    [
+     "before I hit the bed,",
+     180,
+     214
+    ]
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    214,
+    237
+   ],
+   "scale": 159,
+   "pos": [
+    0.5,
+    0.446
+   ],
+   "pills": [
+    [
+     "and I'm actually",
+     215,
+     226
+    ],
+    [
+     "starting to get",
+     226,
+     237
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "src": [
+    237,
+    264
+   ],
+   "n": null,
+   "col": 5,
+   "cover": "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316775.png",
+   "lines": [
+    [
+     "AI",
+     "big",
+     239
+    ],
+    [
+     "ENGINEERING",
+     "big",
+     247
+    ]
+   ],
+   "click": true
+  },
+  {
+   "type": "pres",
+   "src": [
+    277,
+    328
+   ],
+   "scale": 130,
+   "pos": [
+    0.5,
+    0.43
+   ],
+   "pills": [
+    [
+     "A few weeks ago,",
+     278,
+     300
+    ],
+    [
+     "I couldn't have",
+     300,
+     314
+    ],
+    [
+     "told you",
+     314,
+     328
+    ]
+   ]
+  },
+  {
+   "type": "rec",
+   "src": [
+    333,
+    408
+   ],
+   "file": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 13/Media/r13_rag.mov",
+   "rec_scale": 98,
+   "rec_pos": [
+    0.5,
+    0.584
+   ],
+   "cut_scale": 85,
+   "cut_pos": [
+    0.6,
+    0.76
+   ],
+   "pill_y": 0.5,
+   "click": true,
+   "pills": [
+    [
+     "how a chatbot",
+     334,
+     351
+    ],
+    [
+     "answers from",
+     351,
+     369
+    ],
+    [
+     "your company's",
+     369,
+     385
+    ],
+    [
+     "own documents.",
+     385,
+     408
+    ]
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    415,
+    438
+   ],
+   "scale": 166,
+   "pos": [
+    0.5,
+    0.45
+   ],
+   "pills": [
+    [
+     "Now I can",
+     416,
+     426
+    ],
+    [
+     "explain it.",
+     426,
+     438
+    ]
+   ]
+  },
+  {
+   "type": "broll",
+   "src": [
+    445,
+    516
+   ],
+   "file": "/Users/abiknewar/Work/Claude Editing 2/B-roll library/movies/Silicon Valley - middle out whiteboard.mp4",
+   "in_s": 187.0,
+   "frame_w": 1920,
+   "scale": 182,
+   "pos": {
+    "kf": [
+     [
+      6,
+      [
+       0.6,
+       0.5
+      ]
+     ],
+     [
+      30,
+      [
+       1.15,
+       0.5
+      ]
+     ]
+    ]
+   },
+   "pills": [
+    [
+     "And also",
+     446,
+     456
+    ],
+    [
+     "actually build",
+     456,
+     478
+    ]
+   ],
+   "words": [
+    {
+     "text": "production-grade",
+     "style": "med",
+     "x": 0.145,
+     "y": 0.655,
+     "start": 478,
+     "end": 516
+    },
+    {
+     "text": "AI products",
+     "style": "keymed",
+     "x": 0.5,
+     "align": "c",
+     "y": 0.745,
+     "start": 494,
+     "end": 516,
+     "size": 175
+    }
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    516,
+    536
+   ],
+   "scale": 128,
+   "pos": [
+    0.5,
+    0.429
+   ],
+   "pills": [
+    [
+     "all by myself.",
+     516,
+     536
+    ]
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    538,
+    591
+   ],
+   "scale": 150,
+   "pos": [
+    0.5,
+    0.441
+   ],
+   "pills": [
+    [
+     "I feel like",
+     539,
+     552
+    ],
+    [
+     "an AI engineer",
+     552,
+     570
+    ],
+    [
+     "already,",
+     570,
+     591
+    ]
+   ]
+  },
+  {
+   "type": "rec",
+   "src": [
+    591,
+    676
+   ],
+   "file": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 13/Media/r13_build.mov",
+   "cut_scale": 95,
+   "cut_pos": [
+    0.62,
+    0.76
+   ],
+   "click": true,
+   "pills": [
+    [
+     "and like I can build",
+     592,
+     617
+    ],
+    [
+     "on top of",
+     617,
+     631
+    ],
+    [
+     "this technology",
+     631,
+     648
+    ],
+    [
+     "very comfortably.",
+     648,
+     676
+    ]
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    682,
+    724
+   ],
+   "scale": 128,
+   "pos": [
+    0.5,
+    0.429
+   ],
+   "pills": [
+    [
+     "So tonight,",
+     683,
+     698
+    ],
+    [
+     "try swapping",
+     698,
+     710
+    ],
+    [
+     "doomscrolling",
+     710,
+     724
+    ]
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    724,
+    770
+   ],
+   "scale": 166,
+   "pos": [
+    0.5,
+    0.45
+   ],
+   "pills": [
+    [
+     "for one module",
+     724,
+     747
+    ]
+   ],
+   "logo_chest": {
+    "start": 747
+   },
+   "click": true
+  },
+  {
+   "type": "pres",
+   "src": [
+    780,
+    817
+   ],
+   "scale": 139,
+   "pos": [
+    0.5,
+    0.435
+   ],
+   "pills": [
+    [
+     "And you'll feel",
+     781,
+     792
+    ],
+    [
+     "the difference",
+     792,
+     802
+    ],
+    [
+     "yourself.",
+     802,
+     817
+    ]
+   ]
+  },
+  {
+   "type": "end",
+   "src": [
+    822,
+    874
+   ],
+   "words": [
+    [
+     "{ curated }",
+     822,
+     840
+    ],
+    [
+     "{ mapped }",
+     840,
+     860
+    ],
+    [
+     "{ complete }",
+     860,
+     874
+    ]
+   ]
+  },
+  {
+   "type": "loader",
+   "n_frames": 72
+  }
+ ]
+}

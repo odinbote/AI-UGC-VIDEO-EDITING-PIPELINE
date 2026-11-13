@@ -1,0 +1,813 @@
+{
+ "aroll": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 14/Media/ai words aroll.mp4",
+ "matte_dir": "/private/tmp/claude-501/-Users-abiknewar-Work-Claude-Editing-2/50ae89ed-a5e9-41ec-bd82-530f1b1ca78b/scratchpad/r14/frames",
+ "covers": [
+  "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316766.png",
+  "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316747.png",
+  "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316748.png",
+  "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316749.png",
+  "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316775.png"
+ ],
+ "man": "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/",
+ "loader": "/Users/abiknewar/Work/Fanout/AI Trianing UGC Prject Filea/Copied_AI UGC Manual Edits/fanout-loader-alpha-prores4444 (1).mov",
+ "beats": [
+  {
+   "type": "pres",
+   "src": [
+    1,
+    83
+   ],
+   "scale": {
+    "kf": [
+     [
+      0,
+      100
+     ],
+     [
+      14,
+      112
+     ]
+    ]
+   },
+   "pos": {
+    "kf": [
+     [
+      0,
+      [
+       0.5,
+       0.5
+      ]
+     ],
+     [
+      14,
+      [
+       0.5,
+       0.56
+      ]
+     ]
+    ]
+   },
+   "words": [
+    {
+     "text": "RAG",
+     "style": "key",
+     "x": 0.5,
+     "align": "c",
+     "y": 0.236,
+     "start": 3,
+     "end": 18,
+     "size": 270
+    },
+    {
+     "text": "Agents",
+     "style": "key",
+     "x": 0.5,
+     "align": "c",
+     "y": 0.236,
+     "start": 18,
+     "end": 33,
+     "size": 266
+    },
+    {
+     "text": "MCP",
+     "style": "key",
+     "x": 0.5,
+     "align": "c",
+     "y": 0.236,
+     "start": 33,
+     "end": 56,
+     "size": 270
+    },
+    {
+     "text": "databases",
+     "style": "key",
+     "x": 0.5,
+     "align": "c",
+     "y": 0.236,
+     "start": 63,
+     "end": 83,
+     "size": 184
+    },
+    {
+     "text": "Vector",
+     "style": "small",
+     "x": 0.1259851851851852,
+     "y": 0.158125,
+     "start": 56,
+     "end": 83
+    }
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    86,
+    135
+   ],
+   "scale": 125,
+   "pos": [
+    0.5,
+    0.6
+   ],
+   "words": [
+    {
+     "text": "AI word",
+     "style": "key",
+     "x": 0.5,
+     "align": "c",
+     "y": 0.236,
+     "start": 115,
+     "end": 135,
+     "size": 254
+    },
+    {
+     "text": "Every",
+     "style": "small",
+     "x": 0.1262388888888889,
+     "y": 0.13078125,
+     "start": 87,
+     "end": 135
+    },
+    {
+     "text": "week",
+     "style": "small",
+     "x": 0.27933148148148146,
+     "y": 0.13078125,
+     "start": 93,
+     "end": 135
+    },
+    {
+     "text": "there's",
+     "style": "small",
+     "x": 0.4290277777777778,
+     "y": 0.13078125,
+     "start": 98,
+     "end": 135
+    },
+    {
+     "text": "a",
+     "style": "small",
+     "x": 0.6157648148148148,
+     "y": 0.13078125,
+     "start": 105,
+     "end": 135
+    },
+    {
+     "text": "new",
+     "style": "small",
+     "x": 0.6589759259259259,
+     "y": 0.13078125,
+     "start": 108,
+     "end": 135
+    }
+   ],
+   "whoosh": true
+  },
+  {
+   "type": "pres",
+   "src": [
+    137,
+    202
+   ],
+   "scale": 150,
+   "pos": [
+    0.5,
+    0.529
+   ],
+   "pills": [
+    [
+     "and I had no idea",
+     137,
+     166,
+     0.701
+    ],
+    [
+     "what this stack",
+     166,
+     181,
+     0.701
+    ],
+    [
+     "even was",
+     181,
+     202,
+     0.701
+    ]
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    206,
+    226
+   ],
+   "scale": 168,
+   "pos": [
+    0.5,
+    0.55
+   ],
+   "pills": [
+    [
+     "or where to start.",
+     206,
+     226,
+     0.734
+    ]
+   ]
+  },
+  {
+   "type": "broll",
+   "src": [
+    234,
+    269
+   ],
+   "file": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4",
+   "in_s": 32.6,
+   "frame_w": 1920,
+   "scale": 182,
+   "pos": {
+    "kf": [
+     [
+      5,
+      [
+       1.31,
+       0.5
+      ]
+     ],
+     [
+      24,
+      [
+       -0.12,
+       0.5
+      ]
+     ]
+    ]
+   },
+   "words": [
+    {
+     "text": "I build",
+     "style": "med",
+     "x": 0.145,
+     "y": 0.645,
+     "start": 236,
+     "end": 269
+    },
+    {
+     "text": "normal",
+     "style": "keymed",
+     "x": 0.865,
+     "align": "r",
+     "y": 0.655,
+     "start": 242,
+     "end": 269,
+     "size": 150
+    },
+    {
+     "text": "software",
+     "style": "keymed",
+     "x": 0.5,
+     "align": "c",
+     "y": 0.735,
+     "start": 249,
+     "end": 269,
+     "size": 175
+    }
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    279,
+    334
+   ],
+   "scale": 132,
+   "pos": [
+    0.5,
+    0.509
+   ],
+   "pills": [
+    [
+     "and suddenly",
+     279,
+     292,
+     0.67
+    ],
+    [
+     "every meeting",
+     292,
+     311,
+     0.67
+    ],
+    [
+     "is about AI.",
+     311,
+     334,
+     0.67
+    ]
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    339,
+    372
+   ],
+   "scale": 158,
+   "pos": [
+    0.5,
+    0.539
+   ],
+   "pills": [
+    [
+     "Then someone",
+     339,
+     350,
+     0.717
+    ],
+    [
+     "explained it to me,",
+     350,
+     372,
+     0.717
+    ]
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    381,
+    406
+   ],
+   "scale": 122,
+   "pos": [
+    0.5,
+    0.498
+   ],
+   "pills": [
+    [
+     "without the jargon.",
+     381,
+     406,
+     0.66
+    ]
+   ]
+  },
+  {
+   "type": "rec",
+   "src": [
+    413,
+    478
+   ],
+   "file": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 14/Media/r14_rag.mov",
+   "rec_scale": 120,
+   "rec_pos": [
+    0.848,
+    0.285
+   ],
+   "cut_scale": 105,
+   "cut_pos": [
+    0.5,
+    0.83
+   ],
+   "pill_y": 0.515,
+   "click": true,
+   "pills": [
+    [
+     "RAG just means",
+     413,
+     431
+    ],
+    [
+     "looking it up",
+     431,
+     446
+    ],
+    [
+     "in your documents",
+     446,
+     462
+    ],
+    [
+     "first,",
+     462,
+     478
+    ]
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    488,
+    509
+   ],
+   "scale": 166,
+   "pos": [
+    0.5,
+    0.548
+   ],
+   "pills": [
+    [
+     "then answering.",
+     488,
+     509,
+     0.731
+    ]
+   ]
+  },
+  {
+   "type": "rec",
+   "src": [
+    516,
+    592
+   ],
+   "file": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 14/Media/r14_agents.mov",
+   "rec_scale": 120,
+   "rec_pos": [
+    0.152,
+    0.285
+   ],
+   "cut_scale": 105,
+   "cut_pos": [
+    0.5,
+    0.83
+   ],
+   "pill_y": 0.515,
+   "click": true,
+   "pills": [
+    [
+     "An agent is",
+     516,
+     534
+    ],
+    [
+     "just a model",
+     534,
+     550
+    ],
+    [
+     "that can use",
+     550,
+     571
+    ],
+    [
+     "your tools,",
+     571,
+     592
+    ]
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    594,
+    609
+   ],
+   "scale": 150,
+   "pos": [
+    0.5,
+    0.529
+   ],
+   "pills": [
+    [
+     "in a loop,",
+     594,
+     609,
+     0.701
+    ]
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    613,
+    642
+   ],
+   "scale": 128,
+   "pos": [
+    0.5,
+    0.505
+   ],
+   "pills": [
+    [
+     "until the job",
+     613,
+     628,
+     0.663
+    ],
+    [
+     "is done.",
+     628,
+     642,
+     0.663
+    ]
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    648,
+    693
+   ],
+   "scale": 160,
+   "pos": [
+    0.5,
+    0.541
+   ],
+   "pills": [
+    [
+     "Meaning it's",
+     648,
+     662,
+     0.72
+    ],
+    [
+     "not as hard",
+     662,
+     673,
+     0.72
+    ],
+    [
+     "as it sounds.",
+     673,
+     693,
+     0.72
+    ]
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    694,
+    737
+   ],
+   "scale": 135,
+   "pos": [
+    0.5,
+    0.513
+   ],
+   "pills": [
+    [
+     "It's a few",
+     694,
+     707,
+     0.676
+    ],
+    [
+     "simple systems.",
+     707,
+     737,
+     0.676
+    ]
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    743,
+    756
+   ],
+   "scale": 125,
+   "pos": [
+    0.5,
+    0.501
+   ],
+   "pills": [
+    [
+     "This is how",
+     743,
+     756,
+     0.66
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "src": [
+    756,
+    803
+   ],
+   "n": null,
+   "col": 5,
+   "cover": "/Users/abiknewar/Work/Claude Editing 2/reference/abik manual edit 2026-11-13/covers/Group 1321316775.png",
+   "lines": [
+    [
+     "AI",
+     "big",
+     777
+    ],
+    [
+     "ENGINEERING",
+     "big",
+     785
+    ]
+   ],
+   "click": true
+  },
+  {
+   "type": "rec",
+   "src": [
+    810,
+    871
+   ],
+   "file": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 14/Media/r14_vectors.mov",
+   "cut_scale": 105,
+   "cut_pos": [
+    0.42,
+    0.83
+   ],
+   "pill_y": 0.515,
+   "click": true,
+   "pills": [
+    [
+     "Every lesson",
+     810,
+     826
+    ],
+    [
+     "breaks one of",
+     826,
+     842
+    ],
+    [
+     "these concepts down",
+     842,
+     871
+    ]
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    876,
+    925
+   ],
+   "scale": 148,
+   "pos": [
+    0.5,
+    0.527
+   ],
+   "pills": [
+    [
+     "in a way you'll",
+     876,
+     890,
+     0.698
+    ],
+    [
+     "actually understand,",
+     890,
+     925,
+     0.698
+    ]
+   ]
+  },
+  {
+   "type": "rec",
+   "src": [
+    935,
+    979
+   ],
+   "file": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 14/Media/r14_order.mov",
+   "cut_scale": 105,
+   "cut_pos": [
+    0.58,
+    0.83
+   ],
+   "pill_y": 0.515,
+   "click": true,
+   "pills": [
+    [
+     "in the order",
+     935,
+     947
+    ],
+    [
+     "that makes it",
+     947,
+     960
+    ],
+    [
+     "easy to learn.",
+     960,
+     979
+    ]
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    985,
+    1043
+   ],
+   "scale": 130,
+   "pos": [
+    0.5,
+    0.507
+   ],
+   "pills": [
+    [
+     "It's wild to me",
+     985,
+     1005,
+     0.666
+    ],
+    [
+     "how far ahead",
+     1005,
+     1022,
+     0.666
+    ],
+    [
+     "I already feel,",
+     1022,
+     1043,
+     0.666
+    ]
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    1045,
+    1081
+   ],
+   "scale": 160,
+   "pos": [
+    0.5,
+    0.541
+   ],
+   "pills": [
+    [
+     "and I'm seeing it",
+     1045,
+     1063,
+     0.72
+    ],
+    [
+     "in my work.",
+     1063,
+     1081,
+     0.72
+    ]
+   ]
+  },
+  {
+   "type": "rec",
+   "src": [
+    1088,
+    1115
+   ],
+   "file": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 14/Media/r14_modules.mov",
+   "cut_scale": 105,
+   "cut_pos": [
+    0.42,
+    0.83
+   ],
+   "pill_y": 0.515,
+   "click": true,
+   "pills": [
+    [
+     "Try a few modules.",
+     1088,
+     1115
+    ]
+   ]
+  },
+  {
+   "type": "pres",
+   "src": [
+    1119,
+    1177
+   ],
+   "scale": 138,
+   "pos": [
+    0.5,
+    0.516
+   ],
+   "pills": [
+    [
+     "There's no better way",
+     1119,
+     1138,
+     0.681
+    ],
+    [
+     "to learn",
+     1138,
+     1149,
+     0.681
+    ],
+    [
+     "AI engineering.",
+     1149,
+     1177,
+     0.681
+    ]
+   ]
+  },
+  {
+   "type": "loader",
+   "n_frames": 72
+  }
+ ]
+}
