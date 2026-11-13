@@ -9,3 +9,4 @@
 - [Abik's Reel 6/7 edits: b-roll and style](abik-edits-reel-6-7-broll-style.md) — 2026-11-12: b-roll literal to the line, fast cuts, in hooks too, different per video; bold white titles; punch-ins between phrases; _1.prproj editable directly
 - [ASK FIRST: title style](ask-title-style-every-video.md) — RULE 2026-11-12: before every video ask "background type of text or without background?"; numbers for both styles
 - [B-roll library](broll-library.md) — movies/TV/stock clips + shot catalogue + theme index + used-shots ledger at `B-roll library/`; never repeat a shot across videos
+- [Abik manual edit style 2026-11-13](abik-manual-edit-style-2026-11-13.md) — NEWEST LOOK: his own Premiere+AE edit of the Reel 9 A-roll; word-by-word hook with yellow keyword, peach pills, number cards from course covers, cover ring, every pause cut; spec §22
