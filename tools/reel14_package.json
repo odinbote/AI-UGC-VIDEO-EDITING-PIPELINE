@@ -1,0 +1,24 @@
+{
+ "aroll": "ai words aroll 23976.mp4",
+ "cutout": "ai words cutout alpha.mov",
+ "aroll_frames": 1181,
+ "rec_retarget": {
+  "r9_youtube.mov": "r14_rag.mov",
+  "r9_blogs.mov": "r14_agents.mov",
+  "r9_company_guides.mov": "r14_vectors.mov"
+ },
+ "rec_frames": {
+  "r14_rag.mov": 76,
+  "r14_agents.mov": 86,
+  "r14_vectors.mov": 72
+ },
+ "rec_new": {
+  "r14_order.mov": 56,
+  "r14_modules.mov": 40
+ },
+ "broll": {
+  "file": "/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 7/Copied_Fanout Reel 7/vidssave.com Silicon Valley _ Season 1-5 _ Dinesh and Gilfoyle 1080P.mp4",
+  "duration_s": 1292.37,
+  "frame_rect": "0,0,1920,1080"
+ }
+}

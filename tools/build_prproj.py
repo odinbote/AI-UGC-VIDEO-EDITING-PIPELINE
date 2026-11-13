@@ -66,10 +66,15 @@ class Project:
     def track(self, kind, name):
         """kind: 'video' | 'audio' | 'caption'"""
         if kind == 'caption':
-            for e in self.root:
-                if e.tag == 'CaptionDataClipTrack' and e.findtext('.//MZ.TrackName') == name:
+            caps = [e for e in self.root if e.tag == 'CaptionDataClipTrack']
+            for e in caps:
+                if e.findtext('.//MZ.TrackName') == name:
                     return e
+            if re.fullmatch(r'C\d+', name or ''):          # unnamed caption tracks: C1 = first
+                return caps[int(name[1:]) - 1]
         grp = [e for e in self.root if e.tag == ('VideoTrackGroup' if kind == 'video' else 'AudioTrackGroup')][0]
+        if re.fullmatch(r'[VA]\d+', name or ''):          # unnamed tracks (Abik's manual project): V1.. / A1.. by position
+            return self.ref(grp.find('TrackGroup/Tracks').findall('Track')[int(name[1:]) - 1])
         for t in grp.find('TrackGroup/Tracks').findall('Track'):
             te = self.ref(t)
             if te is not None and te.findtext('.//MZ.TrackName') == name:
@@ -603,7 +608,7 @@ def build(plan):
             in_t = f2t(it['in_f'])
         else:
             in_t = H3600 + (f2t(s_f) if kind == 'caption' else 0)
-        P.set_item_times(new, f2t(s_f), f2t(e_f), in_t, in_t + dur_t)
+        P.set_item_times(new, f2t(s_f), f2t(e_f), in_t, in_t + int(round(dur_t * it.get('speed', 1))))   # speed: clip plays faster/slower than 100%
 
         if it.get('media_key'):
             nmu = new_media_uids[it['media_key']]
@@ -674,10 +679,12 @@ def build(plan):
                 ftd.text = P.replace_caption_text(ftd.text, it['text'])
             if 'y' in it and mode not in ('keep', 'rehash'):
                 d = bytearray(base64.b64decode(ftd.text))
-                cur = struct.unpack_from('<f', d, 232)[0]
-                if -0.7 < cur < -0.2:   # standard caption blob family: float @232 maps y=0.385 -> -0.5521, y=0.70 -> -0.2307
-                    struct.pack_into('<f', d, 232, (it['y'] - 0.385) / 0.98 - 0.5521)
-                    ftd.text = base64.b64encode(bytes(d)).decode()
+                for off in (232, 228):   # 232: standard caption blob family; 228: Abik's manual-edit captions (same mapping)
+                    cur = struct.unpack_from('<f', d, off)[0]
+                    if -0.7 < cur < -0.2:   # y=0.385 -> -0.5521, y=0.70 -> -0.2307
+                        struct.pack_into('<f', d, off, (it['y'] - 0.385) / 0.98 - 0.5521)
+                        ftd.text = base64.b64encode(bytes(d)).decode()
+                        break
             if mode != 'keep':
                 P.rehash(ftd, mode)
         P.add_track_item(te, new.attrib['ObjectID'])

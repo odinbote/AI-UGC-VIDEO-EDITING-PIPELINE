@@ -1,0 +1,8 @@
+{
+ "aroll": "before bed aroll 23976.mp4",
+ "cutout": "before bed cutout alpha.mov",
+ "aroll_frames": 884,
+ "rec_retarget": {"r9_youtube.mov": "r13_modules.mov", "r9_blogs.mov": "r13_rag.mov", "r9_company_guides.mov": "r13_build.mov"},
+ "rec_frames": {"r13_modules.mov": 70, "r13_rag.mov": 84, "r13_build.mov": 94},
+ "broll": {"file": "/Users/abiknewar/Work/Claude Editing 2/B-roll library/movies/Silicon Valley - middle out whiteboard.mp4", "duration_s": 259.0, "frame_rect": "0,0,1920,1080"}
+}

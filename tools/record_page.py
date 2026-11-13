@@ -38,10 +38,10 @@ CLEAN_JS = """
     const cs = getComputedStyle(el);
     if ((cs.position === 'fixed' || cs.position === 'sticky') && /cookie/i.test(el.innerText || '') && el.getBoundingClientRect().height < 700) el.remove();
   }
-  // "X from Y bought lifetime access" purchase toasts (bottom of the window)
+  // "X from Y bought lifetime access" / "started the monthly plan" purchase toasts (bottom of the window)
   for (const el of document.querySelectorAll('div,li,aside,section')) {
     const t = el.innerText || '';
-    if (t.includes('bought') && t.length < 140 && el.getBoundingClientRect().width < 640) { el.remove(); break; }
+    if ((t.includes('bought') || t.includes('started the')) && t.length < 140 && el.getBoundingClientRect().width < 640) { el.remove(); break; }
   }
 }
 """
