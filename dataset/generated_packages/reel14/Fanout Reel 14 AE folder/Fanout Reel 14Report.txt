@@ -1,0 +1,27 @@
+Project name: 	Fanout Reel 14.aep
+Source files collected to: 	/Users/abiknewar/Work/Claude Editing 2/Fanout Reel 14/Fanout Reel 14 AE folder
+Source files collected: All
+
+Collected comps:  
+	Fanout Reel 14 Linked Comp 01   (AI ENGINEERING, 47 frames at 23.976 fps, 1080x1920)
+
+Number of collected files:  1
+
+Collected source files: 
+	(Footage)/Group 1321316775.png
+
+Rendering plug-ins:
+	Classic 3D
+
+Effects used:  1
+Effect:  Camera Lens Blur
+
+Layer:  Text Layer
+
+External dependencies:  
+	Font family: “SF Pro”, Font style: “Bold”
+
+How this project is made:
+	The .aep is written by After Effects when "Build Fanout Reel 14 AE.jsx" is run once
+	(File > Scripts > Run Script File). The script also writes ae_comp_ids.json, which the Premiere project builder
+	uses to Dynamic Link each comp.
