@@ -115,5 +115,59 @@
    "scale": 135,
    "y": 0.888
   }
+ },
+ "reel9_sauce_take1": {
+  "eyes": 0.462,
+  "chin": 0.612,
+  "head_top": 0.379,
+  "source_px": "1080x1920",
+  "fps": 24,
+  "duration_s": 42.04,
+  "note": "manual-edit look: presenter framed with eyes at 0.36 of the frame, pos_y = 0.36 + (0.5 - eyes) * scale/100"
+ },
+ "reel10_sauce_hook": {
+  "eyes": 0.394,
+  "chin": 0.543,
+  "head_top": 0.314,
+  "source_px": "1080x1920",
+  "fps": 24,
+  "duration_s": 8.04,
+  "note": "manual-edit look: presenter framed with eyes at 0.36 of the frame, pos_y = 0.36 + (0.5 - eyes) * scale/100"
+ },
+ "reel11_sauce_hook": {
+  "eyes": 0.467,
+  "chin": 0.623,
+  "head_top": 0.384,
+  "source_px": "1080x1920",
+  "fps": 24,
+  "duration_s": 8.04,
+  "note": "manual-edit look: presenter framed with eyes at 0.36 of the frame, pos_y = 0.36 + (0.5 - eyes) * scale/100"
+ },
+ "reel12_sauce_full": {
+  "eyes": 0.444,
+  "chin": 0.585,
+  "head_top": 0.368,
+  "source_px": "1080x1920",
+  "fps": 24,
+  "duration_s": 42.47,
+  "note": "manual-edit look: presenter framed with eyes at 0.36 of the frame, pos_y = 0.36 + (0.5 - eyes) * scale/100"
+ },
+ "reel13_before_bed": {
+  "eyes": 0.453,
+  "chin": 0.599,
+  "head_top": 0.373,
+  "source_px": "1080x1920",
+  "fps": 24,
+  "duration_s": 36.83,
+  "note": "manual-edit look: presenter framed with eyes at 0.36 of the frame, pos_y = 0.36 + (0.5 - eyes) * scale/100"
+ },
+ "reel14_ai_words": {
+  "eyes": 0.382,
+  "chin": 0.521,
+  "head_top": 0.308,
+  "source_px": "1080x1920",
+  "fps": 24,
+  "duration_s": 49.21,
+  "note": "manual-edit look: presenter framed with eyes at 0.36 of the frame, pos_y = 0.36 + (0.5 - eyes) * scale/100; top of her hair bun at 0.248, coin held at about (0.47, 0.565); cutout over recordings scale 105 at y 0.83"
  }
 }
