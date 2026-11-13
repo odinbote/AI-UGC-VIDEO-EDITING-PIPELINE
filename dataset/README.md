@@ -61,6 +61,17 @@ Everything else (`raw_aroll/reel2_veo31_take3.mp4`, the page recordings, project
 - `page_recordings/reel5|6|7|8/` are half-resolution H.264 proxies (764 px wide) of the ProRes recordings; `page_stills/reel5|6|7|8/` are the stills at full size.
 - Large videos in this batch are web copies too (two-pass H.264 at the original resolution and frame rate, about 9 MB each): `reel5_cut2.mp4`, all eight previews and the six human finals.
 
+## Reels 9 to 14 (added 2026-11-14): the manual-edit look
+
+Start with `../MANUAL_EDIT_LOOK_CONTEXT.md`.
+
+- **The human edit that defines the look:** `human_finals/Fanout_Reel_9_manual_edit_human_final.mp4` is Abik's own Premiere + After Effects edit of the take `raw_aroll/reel9_sauce_take1.mp4`. His project files are in `../reference/abik manual edit 2026-11-13/` (`.prproj`, `.aep`, the After Effects collect report, the five course covers, a timeline dump, contact sheets). `generated_previews/reel9_preview.mp4` is the assistant's build of the same take in the older style, so the two can be compared beat for beat (`../EDITING_SYSTEM.md` §22).
+- `raw_aroll/reel9_sauce_take1.mp4`, `reel10_sauce_hook.mp4`, `reel11_sauce_hook.mp4`, `reel12_sauce_full.mp4`, `reel13_before_bed.mp4`, `reel14_ai_words.mp4`: single generated takes, published as the 24 fps working copies the plans count frames on. Scripts in `raw_aroll/scripts.md`, word timings in `raw_aroll/transcripts/reelN_*_words.json`, face lines in `raw_aroll/face_measurements.json`.
+- `generated_previews/reel10_hook_preview.mp4`, `reel11_hook_preview.mp4` (hook only), `reel12_preview.mp4`, `reel13_preview.mp4`, `reel14_preview.mp4`: previews in the manual-edit look, rendered by `../tools/manual_look.py` / `../tools/manual_reel.py` from `../tools/gen_reel*.py`.
+- `generated_packages/reel9/` (Premiere project, older style), `generated_packages/reel13/` and `reel14/` (Premiere project cloned from Abik's manual project, the package README, and the After Effects folder: build script, report, footage). The `.aep` files are not here: After Effects writes them when the build script is run.
+- `page_recordings/reel9|13|14/`: half-resolution H.264 proxies (764 px wide) of the ProRes recordings. Reel 12 reuses the Reel 9 recordings.
+- Web copies in this batch (two-pass H.264, same resolution and frame rate, about 9 MB each): the four long takes, five of the six previews, and the manual-edit export (114.7 MB originally). `reel10_sauce_hook.mp4`, `reel11_sauce_hook.mp4` and `reel11_hook_preview.mp4` are the original files.
+
 ## What is not here
 
 See `excluded_third_party.md`. In short: licensed music and sound effects, movie clips, other creators' ad videos, third-party logos, and the cutout mattes are not published. The finished renders (`human_finals/`, `generated_previews/`, `reference_edit/AI_UGC_1_human_final.mp4`) do contain the music bed at low level and a few seconds of movie b-roll, as any exported reel does.

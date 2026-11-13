@@ -96,6 +96,64 @@
    "verdict": "sent 2026-11-12, no verdict recorded",
    "feedback": [],
    "note": "first build using the learnings above: Abik's Reel 7 hook A project as the reference, no-background titles, library b-roll"
+  },
+  {
+   "file": "generated_previews/reel9_preview.mp4",
+   "plan": "../Fanout Reel 9 plan.json",
+   "verdict": "sent 2026-11-13, no verdict stated; the same day Abik re-edited the same take by hand in Premiere and After Effects and said to learn that edit and adopt its style",
+   "human_edit": {
+    "project": "../reference/abik manual edit 2026-11-13/AI UGC Manual Edits.prproj",
+    "after_effects": "../reference/abik manual edit 2026-11-13/AI UGC manual Edits.aep",
+    "export": "human_finals/Fanout_Reel_9_manual_edit_human_final.mp4"
+   },
+   "what_the_human_changed": [
+    "cut every pause (43.6 s became 41.7 s); the voice runs under full-screen graphics",
+    "hook text word by word: small white SF Pro Semibold words and one huge yellow SF Pro Bold keyword per phrase, above the head",
+    "every other line on a peach SF Pro Medium pill, on the chest for presenter beats",
+    "list items as full-screen number cards built from the fanout course covers (After Effects), instead of titles over the presenter",
+    "a 3D ring of the five course covers behind the presenter's head in the hook",
+    "face high in frame, a different scale on every A-roll piece",
+    "one b-roll shot with a whip pan instead of eight shots",
+    "ending: logo animation on the chest on \"fanout\", bracket end card { curated } { mapped } { complete }, loader",
+    "music at -15 dB instead of -30 dB, far fewer sound effects"
+   ],
+   "note": "written comparison in ../EDITING_SYSTEM.md section 22"
+  },
+  {
+   "file": [
+    "generated_previews/reel10_hook_preview.mp4",
+    "generated_previews/reel11_hook_preview.mp4"
+   ],
+   "plan": "../Fanout Reel 10 hook look-plan.json, ../Fanout Reel 11 hook look-plan.json",
+   "verdict": "sent 2026-11-13, no verdict recorded",
+   "feedback": [],
+   "note": "first builds in the manual-edit look; hook only (Abik chose \"manual-edit look\" and \"hook only\" when asked); two different presenters, same two lines"
+  },
+  {
+   "file": "generated_previews/reel12_preview.mp4",
+   "plan": "../Fanout Reel 12 look-plan.json",
+   "verdict": "sent 2026-11-13, no verdict recorded",
+   "feedback": [],
+   "note": "full \"sauce for engineers\" script in the manual-edit look, beat for beat after Abik's own edit, third presenter"
+  },
+  {
+   "file": "generated_previews/reel13_preview.mp4",
+   "plan": "../Fanout Reel 13 look-plan.json",
+   "package": "generated_packages/reel13/",
+   "verdict": "sent 2026-11-13, no verdict on the look; Abik then asked for a fully editable version of both the Premiere and the After Effects side, structured like his own reference folder",
+   "feedback": [
+    "asked whether After Effects is used and whether everything is editable",
+    "wants the After Effects project file as well, structured as in his reference folder"
+   ],
+   "note": "package built; the .aep appears only after the build script is run in After Effects; not yet opened in the apps. The cover card without a numeral is the assistant's variant of his number card"
+  },
+  {
+   "file": "generated_previews/reel14_preview.mp4",
+   "plan": "../Fanout Reel 14 look-plan.json",
+   "package": "generated_packages/reel14/",
+   "verdict": "after the preview Abik said \"Build the project\" (2026-11-13); no verdict on the look itself",
+   "feedback": [],
+   "note": "fourth presenter holding a coin: pills placed under the coin, no logo animation on the chest (the cover card comes in on \"Fanout\" instead), no bracket end card because the script has no such line. Pro lesson pages show a paywall card, so the RAG and agent-loop lesson cards were recorded from the course overview page"
   }
  ]
 }
